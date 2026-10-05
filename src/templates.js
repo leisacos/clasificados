@@ -1,5 +1,11 @@
 const { escapeHtml: e } = require('./markdown');
+const fs = require('fs');
+const path = require('path');
 const { strings, fill, loc } = require('./i18n');
+
+// Logo mark, inlined so it needs no extra request and inherits nothing from CSS.
+const LOGO_MARK = fs.readFileSync(path.join(__dirname, '..', 'static/brand/logo-mark.svg'), 'utf8')
+  .replace(/<title>[^<]*<\/title>/, '').replace('<svg ', '<svg class="logo-mark" aria-hidden="true" focusable="false" ');
 
 function createTemplates(config, aff) {
   const base = config.basePath || '';
@@ -19,6 +25,12 @@ function createTemplates(config, aff) {
 
   const place = (p, lang) => [loc(p, 'city', lang), loc(p, 'country', lang)].filter(Boolean).join(', ');
   const ctxFor = (p, lang) => ({ city: p.city, country: p.country, iata: p.iata, place: loc(p, 'city', lang) || loc(p, 'country', lang) });
+
+  // "Places, Not Faces" -> "Places, <em>Not Faces</em>" (accent colour on the second half)
+  function logoText(title) {
+    const i = title.indexOf(',');
+    return i < 0 ? e(title) : `${e(title.slice(0, i + 1))} <em>${e(title.slice(i + 1).trim())}</em>`;
+  }
 
   function cover(post, cls, lang) {
     if (post.cover) return `<img class="${cls}" src="${e(asset(post.cover))}" alt="${e(loc(post, 'coverAlt', lang) || loc(post, 'title', lang))}" loading="lazy">`;
@@ -46,7 +58,7 @@ function createTemplates(config, aff) {
     const siteTitle = site('title', lang);
     const fullTitle = title ? `${title} · ${siteTitle}` : `${siteTitle} · ${site('tagline', lang)}`;
     const desc = description || site('description', lang);
-    const ogImage = image ? `${config.url}${image}` : '';
+    const ogImage = `${config.url}${image || '/brand/og-default.jpg'}`;
     const tp = config.travelpayouts || {};
     const other = alternates.filter((l) => l !== lang);
     const switcher = other.map((l) => `<a class="lang-switch" href="${href(l, path)}" hreflang="${l}" lang="${l}" data-lang="${l}" title="${e(s.switchTo)}">` +
@@ -69,9 +81,13 @@ ${alternates.map((l) => `<link rel="alternate" hreflang="${l}" href="${e(abs(l, 
 <meta property="og:site_name" content="${e(siteTitle)}">
 ${published ? `<meta property="article:published_time" content="${published}">\n${modified ? `<meta property="article:modified_time" content="${modified}">\n` : ''}<meta property="article:author" content="${e(config.author.name)}">` : ''}
 ${config.pinterest && config.pinterest.verify ? `<meta name="p:domain_verify" content="${e(config.pinterest.verify)}">` : ''}
-${ogImage ? `<meta property="og:image" content="${e(ogImage)}">\n<meta name="twitter:card" content="summary_large_image">` : '<meta name="twitter:card" content="summary">'}
+<meta property="og:image" content="${e(ogImage)}">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="alternate" type="application/rss+xml" title="${e(siteTitle)}" href="${href(lang, '/feed.xml')}">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📷</text></svg>">
+<link rel="icon" href="${asset('/favicon.svg')}" type="image/svg+xml">
+<link rel="icon" href="${asset('/brand/favicon-32.png')}" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="${asset('/brand/apple-touch-icon.png')}">
+<meta name="theme-color" content="#1f6f78">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
@@ -90,7 +106,7 @@ ${other.map((l) => `<div class="lang-banner" data-banner-lang="${l}" lang="${l}"
 </div>`).join('')}
 <header class="site-header">
   <div class="wrap header-inner">
-    <a class="logo" href="${href(lang, '/')}">📷 ${e(siteTitle)}</a>
+    <a class="logo" href="${href(lang, '/')}" aria-label="${e(siteTitle)}">${LOGO_MARK}<span>${logoText(siteTitle)}</span></a>
     <div class="header-actions">
       ${switcher}
       <button class="nav-toggle" aria-expanded="false" aria-controls="nav" aria-label="${e(s.menu)}">☰</button>
@@ -110,7 +126,7 @@ ${body}
 <footer class="site-footer">
   <div class="wrap footer-inner">
     <div>
-      <p class="logo">📷 ${e(siteTitle)}</p>
+      <p class="logo">${LOGO_MARK}<span>${logoText(siteTitle)}</span></p>
       <p>${e(site('tagline', lang))}</p>
       ${igUrl ? `<p><a href="${igUrl}" target="_blank" rel="noopener">${e(fill(s.followOn, { handle: ig }))}</a></p>` : ''}
     </div>
@@ -191,7 +207,10 @@ ${igStrip(media, lang)}
       lang,
       path: '/',
       body,
-      jsonLd: { '@context': 'https://schema.org', '@type': 'Blog', name: site('title', lang), url: abs(lang, '/'), description: site('description', lang), inLanguage: lang },
+      jsonLd: {
+        '@context': 'https://schema.org', '@type': 'Blog', name: site('title', lang), url: abs(lang, '/'), description: site('description', lang), inLanguage: lang,
+        publisher: { '@type': 'Organization', name: site('title', lang), logo: { '@type': 'ImageObject', url: `${config.url}/brand/icon-512.png` } },
+      },
     });
   }
 

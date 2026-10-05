@@ -172,3 +172,9 @@ h2 { font-size: clamp(1.5rem, 3vw, 2rem); }
 .pin-btn:hover { background: #ad081b; }
 .post-head .pin-btn { margin-top: .2rem; }
 .share-row { margin: 2rem 0 1rem; }
+
+/* Logo */
+.logo { display: inline-flex; align-items: center; gap: .55rem; }
+.logo-mark { width: 30px; height: 30px; flex: none; }
+.logo em { font-style: normal; color: var(--accent); }
+.site-footer .logo-mark { width: 26px; height: 26px; }
