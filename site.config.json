@@ -15,6 +15,10 @@
     "name": "Leiser",
     "avatar": ""
   },
+  "pinterest": {
+    "_help": "Paste the content value of Pinterest's <meta name=\"p:domain_verify\"> tag here to claim the site (or verify with a DNS TXT record in Cloudflare instead).",
+    "verify": ""
+  },
   "instagram": {
     "handle": "laser_2017_",
     "embedPosts": true

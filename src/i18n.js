@@ -44,6 +44,7 @@ const STRINGS = {
     langOffer: 'This page is also available in English.',
     langOfferCta: 'Read in English',
     viaBrand: 'via {brand}',
+    savePin: 'Save to Pinterest',
     cta: {
       flights: ['Search flights', 'Flights to {where}'],
       hotels: ['Find hotels', 'Hotels in {where}'],
@@ -95,6 +96,7 @@ const STRINGS = {
     langOffer: 'Esta página también está disponible en español.',
     langOfferCta: 'Leer en español',
     viaBrand: 'con {brand}',
+    savePin: 'Guardar en Pinterest',
     cta: {
       flights: ['Buscar vuelos', 'Vuelos a {where}'],
       hotels: ['Buscar hoteles', 'Hoteles en {where}'],

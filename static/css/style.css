@@ -166,3 +166,9 @@ h2 { font-size: clamp(1.5rem, 3vw, 2rem); }
 .ig-tile.is-video::after { content: '▶'; position: absolute; top: .4rem; right: .5rem; color: #fff; text-shadow: 0 1px 4px rgba(0,0,0,.6); font-size: .9rem; }
 @media (max-width: 600px) { .ig-grid { grid-template-columns: repeat(2, 1fr); } }
 .ig-embeds { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; align-items: start; }
+
+/* Pinterest save button */
+.pin-btn { display: inline-flex; align-items: center; gap: .4rem; background: #e60023; color: #fff; padding: .45rem .9rem; border-radius: 999px; font-weight: 600; font-size: .85rem; text-decoration: none; }
+.pin-btn:hover { background: #ad081b; }
+.post-head .pin-btn { margin-top: .2rem; }
+.share-row { margin: 2rem 0 1rem; }

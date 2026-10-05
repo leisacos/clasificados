@@ -86,6 +86,15 @@ New Instagram posts reach the blog without you doing anything:
 
 The rules the daily session follows are in [`docs/daily-sync.md`](docs/daily-sync.md). Edit that file to change its behaviour. You can still add stories by hand at any time: drop a Markdown file into `content/posts/`.
 
+## Pinterest
+
+Every story gets a tall 1000×1500 **pin image** in each language (`content/images/pins/<slug>-<lang>.jpg`), with the cover photo, the place and the title. The **Download Instagram photos** GitHub Action creates them for new stories; run `npm run pins` to make them locally (it needs Playwright).
+
+- **Save button:** every story has a "Save to Pinterest" button that uses the pin image. No Pinterest script is loaded.
+- **Rich Pins:** pages include the Open Graph and article tags Pinterest reads.
+- **Auto-publishing:** `https://theplacesnotfaces.com/pins.xml` (English) and `/es/pins.xml` (Spanish) list every story with its pin image. In Pinterest, go to **Settings → Bulk create Pins → Auto-publish**, add a feed, and pick a board. Pinterest checks it daily and pins new stories automatically.
+- **Claim the site:** paste Pinterest's verification code into `pinterest.verify` in `site.config.json`, or add their TXT record in Cloudflare DNS.
+
 ## English and Spanish
 
 Every page is published twice: English at `/` and Spanish at `/es/`. A 🌐 **EN / ES** button in the header switches between the two versions of the same page. Visitors whose browser is set to the other language see a one-time banner offering their language. Both versions are linked with `hreflang` tags so Google shows each audience the right one.

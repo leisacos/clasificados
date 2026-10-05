@@ -41,7 +41,7 @@ function createTemplates(config, aff) {
 </article>`;
   }
 
-  function layout({ lang, title, description, path, body, image, type = 'website', jsonLd, alternates = langs }) {
+  function layout({ lang, title, description, path, body, image, type = 'website', jsonLd, alternates = langs, published }) {
     const s = strings(lang);
     const siteTitle = site('title', lang);
     const fullTitle = title ? `${title} · ${siteTitle}` : `${siteTitle} · ${site('tagline', lang)}`;
@@ -66,6 +66,9 @@ ${alternates.map((l) => `<link rel="alternate" hreflang="${l}" href="${e(abs(l, 
 <meta property="og:description" content="${e(desc)}">
 <meta property="og:url" content="${e(abs(lang, path))}">
 <meta property="og:locale" content="${config.languages[lang].locale.replace('-', '_')}">
+<meta property="og:site_name" content="${e(siteTitle)}">
+${published ? `<meta property="article:published_time" content="${published}">\n<meta property="article:author" content="${e(config.author.name)}">` : ''}
+${config.pinterest && config.pinterest.verify ? `<meta name="p:domain_verify" content="${e(config.pinterest.verify)}">` : ''}
 ${ogImage ? `<meta property="og:image" content="${e(ogImage)}">\n<meta name="twitter:card" content="summary_large_image">` : '<meta name="twitter:card" content="summary">'}
 <link rel="alternate" type="application/rss+xml" title="${e(siteTitle)}" href="${href(lang, '/feed.xml')}">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📷</text></svg>">
@@ -191,6 +194,21 @@ ${igStrip(media, lang)}
     });
   }
 
+  // "Save to Pinterest" link — no Pinterest script needed. Uses the tall pin image
+  // when one exists (content/images/pins/<slug>-<lang>.jpg), otherwise the cover.
+  function pinButton(p, lang) {
+    const media = (p.pins && p.pins[lang]) || p.cover;
+    if (!media) return '';
+    const params = new URLSearchParams({
+      url: abs(lang, `/posts/${p.slug}/`),
+      media: `${config.url}${media}`,
+      description: `${loc(p, 'title', lang)} · ${site('title', lang)}`,
+    });
+    return `<a class="pin-btn" href="https://www.pinterest.com/pin/create/button/?${params}" target="_blank" rel="noopener" data-pin-do="none">` +
+      `<svg aria-hidden="true" viewBox="0 0 24 24" width="16" height="16"><path fill="currentColor" d="M12 2a10 10 0 0 0-3.6 19.3c-.1-.8-.2-2 0-2.9l1.2-5s-.3-.6-.3-1.5c0-1.4.8-2.4 1.8-2.4.9 0 1.3.6 1.3 1.4 0 .9-.6 2.2-.9 3.4-.2 1 .5 1.9 1.6 1.9 1.9 0 3.3-2 3.3-4.9 0-2.6-1.8-4.4-4.5-4.4-3 0-4.8 2.3-4.8 4.6 0 .9.4 1.9.8 2.4l.1.4-.3 1.2c0 .2-.2.3-.4.2-1.4-.6-2.2-2.6-2.2-4.2 0-3.4 2.5-6.6 7.2-6.6 3.8 0 6.7 2.7 6.7 6.3 0 3.7-2.3 6.7-5.6 6.7-1.1 0-2.1-.6-2.5-1.2l-.7 2.6c-.2 1-.9 2.2-1.4 2.9A10 10 0 1 0 12 2z"/></svg>` +
+      `<span>${e(strings(lang).savePin)}</span></a>`;
+  }
+
   function post(lang, p, html, related) {
     const s = strings(lang);
     const ctx = ctxFor(p, lang);
@@ -205,6 +223,7 @@ ${igStrip(media, lang)}
       ${p.country ? `<a class="kicker" href="${href(lang, `/destinations/${p.countrySlug}/`)}">${e(place(p, lang))}</a>` : ''}
       <h1>${e(title)}</h1>
       <p class="meta">${e(s.by)} ${e(config.author.name)} · <time datetime="${p.date}">${fmtDate(p.date, lang)}</time> · ${p.readingTime[lang] || p.readingTime[defaultLang]} ${e(s.minRead)}</p>
+      ${pinButton(p, lang)}
     </div>
   </header>
   <div class="wrap post-layout">
@@ -212,6 +231,7 @@ ${igStrip(media, lang)}
       <p class="disclosure-note">${e(s.affiliateNote)} <a href="${href(lang, '/disclosure/')}">${e(s.learnMore)}</a>.</p>
       ${translated ? '' : `<p class="notice">${e(s.notTranslated)}</p>`}
       ${html}
+      <div class="share-row">${pinButton(p, lang)}</div>
       ${p.tags && p.tags.length ? `<p class="tags">${p.tags.map((t) => `<span>#${e(t)}</span>`).join(' ')}</p>` : ''}
     </div>
     <aside class="sidebar">
@@ -237,6 +257,7 @@ ${igStrip(media, lang)}
       path: `/posts/${p.slug}/`,
       image: p.cover || '',
       type: 'article',
+      published: p.date,
       body,
       jsonLd: {
         '@context': 'https://schema.org',

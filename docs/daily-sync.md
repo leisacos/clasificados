@@ -79,7 +79,13 @@ Copy the structure of the existing posts in `content/posts/`:
 3. Push to the branch named in the scheduled prompt. On a network error, retry
    up to 4 times with backoff.
 
-## 7. Report
+## 7. Pinterest
+
+Nothing to do. When the GitHub Action downloads the new photos, it also creates
+tall Pinterest images for new stories. Pinterest then picks them up from
+`/pins.xml` and `/es/pins.xml`.
+
+## 8. Report
 
 End with a short summary: which posts were new, what became a story, which
 stories were updated, and anything that needs Leiser's input (for example a

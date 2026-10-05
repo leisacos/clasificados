@@ -8,7 +8,8 @@
     "dev": "node scripts/serve.js --watch",
     "preview": "node build.js && node scripts/serve.js",
     "import": "node scripts/import-instagram.js",
-    "photos": "node scripts/fetch-photos.js"
+    "photos": "node scripts/fetch-photos.js",
+    "pins": "node scripts/make-pins.js"
   },
   "engines": { "node": ">=18" }
 }

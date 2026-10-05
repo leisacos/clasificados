@@ -1,12 +1,13 @@
 name: Download Instagram photos
 
-# Downloads any photo listed in content/instagram/media.json that isn't saved yet
-# and commits it. Runs whenever the daily sync updates media.json, once a day as
+# Downloads any photo listed in content/instagram/media.json that isn't saved yet,
+# creates Pinterest images for stories that don't have one, and commits both. Runs whenever the daily sync updates media.json, once a day as
 # a safety net, and on demand from the Actions tab.
 on:
   push:
     paths:
       - content/instagram/media.json
+      - content/posts/**
   schedule:
     - cron: "17 13 * * *"
   workflow_dispatch:
@@ -27,15 +28,20 @@ jobs:
         with:
           node-version: 20
       - run: node scripts/fetch-photos.js
-      - name: Commit new photos
+      - name: Create Pinterest images
         run: |
-          git add content/images/instagram
+          npm i --no-save playwright
+          npx playwright install --with-deps chromium
+          node scripts/make-pins.js
+      - name: Commit new photos and pins
+        run: |
+          git add content/images/instagram content/images/pins
           if git diff --cached --quiet; then
             echo "No new photos."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "Add Instagram photos"
+          git commit -m "Add Instagram photos and Pinterest images"
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin "HEAD:${GITHUB_REF_NAME}"

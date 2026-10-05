@@ -121,6 +121,8 @@ const posts = fs.readdirSync(postsDir)
       tags: toList(data.tags),
       instagram: toList(data.instagram).filter(Boolean),
       countrySlug: data.country ? slugify(data.country) : '',
+      // Tall Pinterest images made by scripts/make-pins.js, one per language.
+      pins: Object.fromEntries(LANGS.map((l) => [l, imageExists(`/images/pins/${slug}-${l}.jpg`) ? `/images/pins/${slug}-${l}.jpg` : ''])),
     };
   })
   .filter((p) => p.draft !== true)
@@ -177,6 +179,21 @@ for (const lang of LANGS) {
 <rss version="2.0"><channel>
 <title>${escapeHtml(loc(config, 'title', lang))}</title><link>${t.abs(lang, '/')}</link><description>${escapeHtml(loc(config, 'description', lang))}</description><language>${lang}</language>
 ${feedPosts.map((p) => `<item><title>${escapeHtml(loc(p, 'title', lang))}</title><link>${t.abs(lang, `/posts/${p.slug}/`)}</link><guid>${t.abs(lang, `/posts/${p.slug}/`)}</guid><pubDate>${new Date(p.date + 'T12:00:00Z').toUTCString()}</pubDate><description>${escapeHtml(loc(p, 'excerpt', lang))}</description></item>`).join('\n')}
+</channel></rss>
+`);
+
+  // Pinterest feed: Pinterest can auto-publish a pin for every item here
+  // (Business account → Settings → Bulk create Pins → Auto-publish).
+  const pinPosts = posts.filter((p) => p.pins[lang]);
+  writeLang(lang, 'pins.xml', `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
+<title>${escapeHtml(loc(config, 'title', lang))}</title><link>${t.abs(lang, '/')}</link><description>${escapeHtml(loc(config, 'description', lang))}</description><language>${lang}</language>
+${pinPosts.map((p) => {
+    const img = `${config.url}${p.pins[lang]}`;
+    const bytes = fs.statSync(path.join(ROOT, 'content', p.pins[lang])).size;
+    const desc = `${loc(p, 'excerpt', lang)} ${p.tags.map((tg) => `#${tg}`).join(' ')}`.trim();
+    return `<item><title>${escapeHtml(loc(p, 'title', lang))}</title><link>${t.abs(lang, `/posts/${p.slug}/`)}</link><guid>${t.abs(lang, `/posts/${p.slug}/`)}#pin</guid><pubDate>${new Date(p.date + 'T12:00:00Z').toUTCString()}</pubDate><description>${escapeHtml(desc)}</description><enclosure url="${img}" length="${bytes}" type="image/jpeg"/><media:content url="${img}" medium="image" type="image/jpeg" width="1000" height="1500"/></item>`;
+  }).join('\n')}
 </channel></rss>
 `);
 }
