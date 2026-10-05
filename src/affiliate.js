@@ -19,6 +19,12 @@ function createAffiliate(config) {
   // Wrap a partner URL in a Travelpayouts tracked link when the program is configured.
   function track(kind, url) {
     const programId = tp.programs && tp.programs[kind];
+    // Aviasales tracks the marker straight from its own URLs, no program ID needed.
+    if (tp.marker && !programId && /(^|\.)aviasales\.[a-z]+\//.test(url)) {
+      const u = new URL(url);
+      u.searchParams.set('marker', tp.marker);
+      return u.toString();
+    }
     if (!tp.marker || !programId) return url;
     const params = new URLSearchParams({ marker: tp.marker, p: programId, u: url });
     if (tp.trs) params.set('trs', tp.trs);

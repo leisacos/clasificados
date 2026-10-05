@@ -21,7 +21,7 @@
   },
   "travelpayouts": {
     "_help": "From https://app.travelpayouts.com — 'marker' is your partner ID (shown in your profile / in every tp.media link as marker=...). 'trs' is your project ID. Program IDs ('p' values) come from Tools > Links for each program you have joined. Programs left empty link directly (no tracking) unless you paste the Drive script.",
-    "marker": "",
+    "marker": "746427",
     "trs": "",
     "defaultOrigin": "",
     "programs": {
