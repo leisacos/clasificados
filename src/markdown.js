@@ -64,7 +64,7 @@ function renderMarkdown(md, shortcode = () => '') {
     para = [];
   };
   const flushList = () => {
-    if (list) out.push(`<${list.type}>${list.items.map((i) => `<li>${inline(i)}</li>`).join('')}</${list.type}>`);
+    if (list) out.push(`<${list.type}${list.start > 1 ? ` start="${list.start}"` : ''}>${list.items.map((i) => `<li>${inline(i)}</li>`).join('')}</${list.type}>`);
     list = null;
   };
   const flushQuote = () => {
@@ -95,10 +95,10 @@ function renderMarkdown(md, shortcode = () => '') {
       flushPara(); flushQuote();
       if (!list || list.type !== 'ul') { flushList(); list = { type: 'ul', items: [] }; }
       list.items.push(m[1]);
-    } else if ((m = line.match(/^\s*\d+[.)]\s+(.*)$/))) {
+    } else if ((m = line.match(/^\s*(\d+)[.)]\s+(.*)$/))) {
       flushPara(); flushQuote();
-      if (!list || list.type !== 'ol') { flushList(); list = { type: 'ol', items: [] }; }
-      list.items.push(m[1]);
+      if (!list || list.type !== 'ol') { flushList(); list = { type: 'ol', items: [], start: Number(m[1]) }; }
+      list.items.push(m[2]);
     } else if ((m = line.match(/^!\[([^\]]*)\]\(([^)\s]+)\)$/))) {
       flushAll();
       const cap = m[1] ? `<figcaption>${escapeHtml(m[1])}</figcaption>` : '';
