@@ -4,11 +4,31 @@ A fast, SEO-friendly static travel blog built from the Instagram posts of [@lase
 
 It has no framework and no dependencies. You only need Node.js 18+.
 
-```bash
-npm run dev      # build + preview at http://localhost:8080/clasificados/
-npm run build    # build the site into dist/
-npm run import   # turn your Instagram export into blog posts
-```
+## Preview locally
+
+1. Install [Node.js](https://nodejs.org/) 18 or newer (LTS is fine).
+2. Get the code:
+   ```bash
+   git clone https://github.com/leisacos/clasificados.git
+   cd clasificados
+   git checkout claude/instagram-travel-blog-site-ux9ovx   # until it's merged into main
+   ```
+3. Start the preview:
+   ```bash
+   npm run dev
+   ```
+4. Open **http://localhost:8080/clasificados/** (http://localhost:8080 redirects there).
+
+`npm run dev` rebuilds the site and refreshes your browser every time you save a post, an image, the CSS or `site.config.json`. Press Ctrl+C to stop it. There's nothing to `npm install`.
+
+| Command | What it does |
+|---|---|
+| `npm run dev` | Live preview with auto-reload |
+| `npm run preview` | One build, then a plain preview server (no watching) |
+| `npm run build` | Build the site into `dist/` |
+| `npm run import` | Turn your Instagram export into blog posts |
+
+Port 8080 busy? Run `PORT=3000 npm run dev` (on Windows PowerShell: `$env:PORT=3000; npm run dev`).
 
 ## 1. Import your Instagram posts
 
