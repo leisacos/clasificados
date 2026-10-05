@@ -1,0 +1,36 @@
+name: Notify search engines (IndexNow)
+
+# After new content is pushed, wait for Cloudflare to publish it, then tell
+# Bing, DuckDuckGo, Yahoo, Yandex and other IndexNow engines about every page.
+on:
+  push:
+    paths:
+      - content/**
+      - site.config.json
+  workflow_dispatch:
+
+jobs:
+  indexnow:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node build.js
+      - name: Wait for Cloudflare to publish
+        run: sleep 180
+      - name: Submit URLs to IndexNow
+        run: |
+          node -e '
+            const fs = require("fs");
+            const cfg = JSON.parse(fs.readFileSync("site.config.json", "utf8"));
+            const key = "7a9efa12cc3c57d96d7b20d5a743a534";
+            const host = new URL(cfg.url).host;
+            const urlList = [...fs.readFileSync("dist/sitemap.xml", "utf8").matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1]);
+            fetch("https://api.indexnow.org/indexnow", {
+              method: "POST",
+              headers: { "Content-Type": "application/json; charset=utf-8" },
+              body: JSON.stringify({ host, key, keyLocation: cfg.url + "/" + key + ".txt", urlList }),
+            }).then((r) => { console.log("IndexNow:", r.status, urlList.length, "URLs"); if (r.status >= 400) process.exit(1); });
+          '
