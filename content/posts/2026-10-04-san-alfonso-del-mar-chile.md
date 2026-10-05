@@ -31,6 +31,7 @@ San Alfonso del Mar is a **private resort**. The giant lagoon is generally reser
 - **Isla Negra**: Pablo Neruda's ocean-front house-museum is just down the coast.
 - **Valparaíso**: colourful hills, funiculars and some of the best street art in South America.
 - **Wine country**: the Casablanca Valley sits between Santiago and the coast. It's perfect for a white-wine stop on the drive.
+- **Back in Santiago**: the free, glowing [Bahá'í Temple](/posts/bahai-temple-santiago-chile/) is a good city stop before or after the coast.
 
 {{tours}}
 
@@ -61,6 +62,7 @@ San Alfonso del Mar es un **resort privado**. La laguna gigante suele estar rese
 - **Isla Negra**: la casa-museo de Pablo Neruda frente al mar está a pocos minutos por la costa.
 - **Valparaíso**: cerros coloridos, ascensores y uno de los mejores circuitos de arte urbano de Sudamérica.
 - **Ruta del vino**: el Valle de Casablanca está entre Santiago y la costa. Es ideal para parar a probar blancos en el camino.
+- **De vuelta en Santiago**: el [Templo Bahá'í](/es/posts/bahai-temple-santiago-chile/), gratis y luminoso, es una buena parada en la ciudad antes o después de la costa.
 
 {{tours}}
 
