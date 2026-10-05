@@ -1,0 +1,10 @@
+// Cloudflare Workers config: serves the static site built into dist/ by `node build.js`.
+// "name" must match the project name in the Cloudflare dashboard.
+{
+  "name": "clasificados",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "404-page"
+  }
+}

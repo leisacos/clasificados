@@ -110,12 +110,12 @@ Put images in `content/images/` and reference them as `/images/photo.jpg`. For a
 
 The site lives at **https://theplacesnotfaces.com**.
 
-1. In Cloudflare, go to **Workers & Pages → Create → Pages → Connect to Git**, and pick `leisacos/clasificados`.
+1. In Cloudflare, go to **Workers & Pages → Create → Import a repository**, and pick `leisacos/clasificados`.
 2. Use these settings:
-   - **Production branch:** `main`, or the branch you publish from
+   - **Project name:** `clasificados`. It must match `name` in `wrangler.jsonc`; if you rename one, rename the other.
    - **Build command:** `node build.js`
-   - **Build output directory:** `dist`
-3. After the first deploy, go to **Custom domains → Set up a domain** and add `theplacesnotfaces.com`. Add `www.theplacesnotfaces.com` too, and redirect it to the main domain.
+   - **Deploy command:** `npx wrangler deploy` (the default)
+3. After the first deploy, open the project, go to **Settings → Domains & Routes → Add → Custom domain**, and add `theplacesnotfaces.com` and `www.theplacesnotfaces.com`.
 
 Every push to the production branch rebuilds the site in about a minute, including the daily Instagram sync. Pushes to other branches get their own preview URLs.
 
