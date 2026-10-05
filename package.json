@@ -1,0 +1,12 @@
+{
+  "name": "travel-blog",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static travel blog generated from Instagram posts, monetised with Travelpayouts",
+  "scripts": {
+    "build": "node build.js",
+    "dev": "node build.js && node scripts/serve.js",
+    "import": "node scripts/import-instagram.js"
+  },
+  "engines": { "node": ">=18" }
+}

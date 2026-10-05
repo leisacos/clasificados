@@ -1,0 +1,42 @@
+{
+  "title": "Laser's Travel Diary",
+  "tagline": "Stories, photos and honest tips from the road",
+  "description": "A travel blog built from the journeys of @laser_2017_ — destination guides, itineraries and the tools I actually use to plan trips.",
+  "url": "https://leisacos.github.io/clasificados",
+  "basePath": "/clasificados",
+  "language": "en",
+  "author": {
+    "name": "Laser",
+    "bio": "Traveller, photographer and chronic window-seat taker. I share the places I visit on Instagram and the full stories here.",
+    "avatar": ""
+  },
+  "instagram": {
+    "handle": "laser_2017_",
+    "embedPosts": true
+  },
+  "travelpayouts": {
+    "_help": "Get these from https://app.travelpayouts.com. 'marker' is your partner ID (Profile). 'trs' is your project ID. Program IDs ('p' values) come from Tools > Links for each program you have joined. Any program left empty links directly (no tracking) unless you use the Drive script.",
+    "marker": "",
+    "trs": "",
+    "defaultOrigin": "MAD",
+    "programs": {
+      "flights": "",
+      "hotels": "",
+      "tours": "",
+      "insurance": "",
+      "esim": ""
+    },
+    "driveScript": "",
+    "widgets": {
+      "flights": "",
+      "hotels": ""
+    }
+  },
+  "partners": {
+    "flights":   { "label": "Search flights",          "brand": "Aviasales",     "url": "https://www.aviasales.com/" },
+    "hotels":    { "label": "Find hotels",             "brand": "Booking.com",   "url": "https://www.booking.com/searchresults.html?ss={city}" },
+    "tours":     { "label": "Book tours & activities", "brand": "GetYourGuide",  "url": "https://www.getyourguide.com/s/?q={city}" },
+    "insurance": { "label": "Get travel insurance",    "brand": "EKTA",          "url": "https://ektatraveling.com/" },
+    "esim":      { "label": "Get a travel eSIM",       "brand": "Airalo",        "url": "https://www.airalo.com/" }
+  }
+}
