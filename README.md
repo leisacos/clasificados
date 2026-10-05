@@ -77,6 +77,15 @@ Open `site.config.json` → `travelpayouts`:
 
 Every booking button goes through `https://tp.media/r?...`, so your commissions are tracked. A program with no ID links to the partner directly, with no tracking. To use different brands (e.g. Hotellook or Klook instead of Booking.com or GetYourGuide), edit `partners` in the config. `{city}` is replaced with the post's city.
 
+## Daily automation
+
+New Instagram posts reach the blog without you doing anything:
+
+1. **Every morning**, a scheduled Claude session (a Routine) reads your latest posts from the connected Instagram account. It records them in `content/instagram/media.json`, turns new travel posts into bilingual stories (or adds them to an existing story about the same place), builds the site and pushes.
+2. **The GitHub Action** `Download Instagram photos` runs on that push and saves the new photos to `content/images/instagram/`.
+
+The rules the daily session follows are in [`docs/daily-sync.md`](docs/daily-sync.md). Edit that file to change its behaviour. You can still add stories by hand at any time: drop a Markdown file into `content/posts/`.
+
 ## English and Spanish
 
 Every page is published twice: English at `/` and Spanish at `/es/`. A 🌐 **EN / ES** button in the header switches between the two versions of the same page. Visitors whose browser is set to the other language see a one-time banner offering their language. Both versions are linked with `hreflang` tags so Google shows each audience the right one.
