@@ -175,6 +175,7 @@ h2 { font-size: clamp(1.5rem, 3vw, 2rem); }
 
 /* Logo */
 .logo { display: inline-flex; align-items: center; gap: .55rem; }
-.logo-mark { width: 30px; height: 30px; flex: none; }
+.logo-mark { width: 40px; height: 40px; flex: none; border-radius: 8px; }
 .logo em { font-style: normal; color: var(--accent); }
-.site-footer .logo-mark { width: 26px; height: 26px; }
+.site-footer .logo-mark { width: 34px; height: 34px; }
+.brand-hero { display: block; width: min(420px, 100%); height: auto; margin: 0 auto 2rem; border-radius: 16px; }

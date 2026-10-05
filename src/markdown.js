@@ -78,6 +78,7 @@ function renderMarkdown(md, shortcode = () => '') {
     let m;
     if (!line.trim()) { flushAll(); continue; }
     if (/^\s*<!--.*-->\s*$/.test(line)) continue; // author notes, not rendered
+    if (/^<(img|figure|div|iframe|video|picture)\b.*>$/.test(line.trim())) { flushAll(); out.push(line.trim()); continue; } // raw HTML block
     if ((m = line.match(/^\{\{\s*([a-z]+)\s*(.*?)\s*\}\}$/))) {
       flushAll();
       out.push(shortcode(m[1], m[2]));

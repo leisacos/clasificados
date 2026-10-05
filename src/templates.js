@@ -3,9 +3,8 @@ const fs = require('fs');
 const path = require('path');
 const { strings, fill, loc } = require('./i18n');
 
-// Logo mark, inlined so it needs no extra request and inherits nothing from CSS.
-const LOGO_MARK = fs.readFileSync(path.join(__dirname, '..', 'static/brand/logo-mark.svg'), 'utf8')
-  .replace(/<title>[^<]*<\/title>/, '').replace('<svg ', '<svg class="logo-mark" aria-hidden="true" focusable="false" ');
+// Logo emblem (balloon in a viewfinder), from static/brand/.
+const logoMark = (base) => `<img class="logo-mark" src="${base}/brand/logo-emblem-96.png" srcset="${base}/brand/logo-emblem-96.png 1x, ${base}/brand/logo-emblem-192.png 2x" width="40" height="40" alt="">`;
 
 function createTemplates(config, aff) {
   const base = config.basePath || '';
@@ -84,8 +83,8 @@ ${config.pinterest && config.pinterest.verify ? `<meta name="p:domain_verify" co
 <meta property="og:image" content="${e(ogImage)}">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="alternate" type="application/rss+xml" title="${e(siteTitle)}" href="${href(lang, '/feed.xml')}">
-<link rel="icon" href="${asset('/favicon.svg')}" type="image/svg+xml">
 <link rel="icon" href="${asset('/brand/favicon-32.png')}" sizes="32x32" type="image/png">
+<link rel="icon" href="${asset('/brand/favicon-48.png')}" sizes="48x48" type="image/png">
 <link rel="apple-touch-icon" href="${asset('/brand/apple-touch-icon.png')}">
 <meta name="theme-color" content="#1f6f78">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -106,7 +105,7 @@ ${other.map((l) => `<div class="lang-banner" data-banner-lang="${l}" lang="${l}"
 </div>`).join('')}
 <header class="site-header">
   <div class="wrap header-inner">
-    <a class="logo" href="${href(lang, '/')}" aria-label="${e(siteTitle)}">${LOGO_MARK}<span>${logoText(siteTitle)}</span></a>
+    <a class="logo" href="${href(lang, '/')}" aria-label="${e(siteTitle)}">${logoMark(base)}<span>${logoText(siteTitle)}</span></a>
     <div class="header-actions">
       ${switcher}
       <button class="nav-toggle" aria-expanded="false" aria-controls="nav" aria-label="${e(s.menu)}">☰</button>
@@ -126,7 +125,7 @@ ${body}
 <footer class="site-footer">
   <div class="wrap footer-inner">
     <div>
-      <p class="logo">${LOGO_MARK}<span>${logoText(siteTitle)}</span></p>
+      <p class="logo">${logoMark(base)}<span>${logoText(siteTitle)}</span></p>
       <p>${e(site('tagline', lang))}</p>
       ${igUrl ? `<p><a href="${igUrl}" target="_blank" rel="noopener">${e(fill(s.followOn, { handle: ig }))}</a></p>` : ''}
     </div>

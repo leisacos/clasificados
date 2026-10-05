@@ -5,6 +5,8 @@ description: "Who's behind the camera: places, not faces."
 description_es: "Quién está detrás de la cámara: lugares, no caras."
 ---
 
+<img class="brand-hero" src="/brand/logo-full.jpg" alt="Places, Not Faces logo: a hot-air balloon inside a camera viewfinder" width="1202" height="1034">
+
 Hi, I'm **Leiser**, the person behind [@laser_2017_](https://www.instagram.com/laser_2017_/).
 
 **Places, not faces.** I photograph the world, not myself: street art on Buenos Aires shop shutters, waterfalls from a drone, cities after dark. So far I've been to **64 countries and counting**.
@@ -22,6 +24,8 @@ The booking links on this site are the tools I actually use. If you book through
 Got a question about a place I've been? Send me a message on [Instagram](https://www.instagram.com/laser_2017_/).
 
 :::es
+
+<img class="brand-hero" src="/brand/logo-full.jpg" alt="Logo de Lugares, no caras: un globo aerostático dentro de un visor de cámara" width="1202" height="1034">
 
 Hola, soy **Leiser**, la persona detrás de [@laser_2017_](https://www.instagram.com/laser_2017_/).
 
