@@ -40,6 +40,17 @@ For first-timers, **Palermo** is the easiest base: leafy streets, great food and
 
 {{hotels}}
 
+# Frequently asked questions
+
+## Is Arbórea Magna free to visit?
+Yes. Arbórea Magna is in a public park, the Parque de la Innovación in Núñez, and there's no entry fee.
+
+## What is the best time to see Arbórea Magna?
+Arrive just before sunset. The tree glows red as the sun goes down and turns purple once it's dark, so you see both looks in one visit.
+
+## Where is Arbórea Magna in Buenos Aires?
+In the Parque de la Innovación in Núñez, in the north of the city, right next to River Plate's Monumental stadium.
+
 {{plan}}
 
 :::es
@@ -71,5 +82,16 @@ Arbórea Magna está en el **Parque de la Innovación, en Núñez**, al lado del
 Si es tu primera vez, **Palermo** es la base más cómoda: calles arboladas, muy buena comida y acceso rápido al norte de la ciudad. **Recoleta** es clásica y céntrica, y **San Telmo** es ideal si buscás el encanto del casco histórico y la feria del domingo.
 
 {{hotels}}
+
+# Preguntas frecuentes
+
+## ¿La entrada a Arbórea Magna es gratis?
+Sí. Arbórea Magna está en un parque público, el Parque de la Innovación en Núñez, y no se paga entrada.
+
+## ¿Cuál es el mejor horario para ver Arbórea Magna?
+Llegá un rato antes del atardecer. El árbol se ve rojo mientras baja el sol y se pone violeta cuando oscurece, así que ves los dos colores en la misma visita.
+
+## ¿Dónde queda Arbórea Magna en Buenos Aires?
+En el Parque de la Innovación, en Núñez, en el norte de la ciudad, al lado del estadio Monumental de River.
 
 {{plan}}

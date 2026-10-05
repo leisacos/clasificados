@@ -41,7 +41,7 @@ function createTemplates(config, aff) {
 </article>`;
   }
 
-  function layout({ lang, title, description, path, body, image, type = 'website', jsonLd, alternates = langs, published }) {
+  function layout({ lang, title, description, path, body, image, type = 'website', jsonLd, faqLd, alternates = langs, published }) {
     const s = strings(lang);
     const siteTitle = site('title', lang);
     const fullTitle = title ? `${title} · ${siteTitle}` : `${siteTitle} · ${site('tagline', lang)}`;
@@ -77,6 +77,7 @@ ${ogImage ? `<meta property="og:image" content="${e(ogImage)}">\n<meta name="twi
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="${asset('/css/style.css')}">
 ${jsonLd ? `<script type="application/ld+json">${JSON.stringify(jsonLd)}</script>` : ''}
+${faqLd ? `<script type="application/ld+json">${JSON.stringify(faqLd).replace(/</g, '\\u003c')}</script>` : ''}
 ${tp.driveScript || ''}
 </head>
 <body data-lang="${lang}" data-tp-marker="${e(tp.marker || '')}" data-tp-trs="${e(tp.trs || '')}" data-tp-flights="${e((tp.programs && tp.programs.flights) || '')}" data-origin="${e(tp.defaultOrigin || '')}">
@@ -209,7 +210,7 @@ ${igStrip(media, lang)}
       `<span>${e(strings(lang).savePin)}</span></a>`;
   }
 
-  function post(lang, p, html, related) {
+  function post(lang, p, html, related, faq = []) {
     const s = strings(lang);
     const ctx = ctxFor(p, lang);
     const hotelsWidget = aff.widget('hotels', lang);
@@ -270,6 +271,11 @@ ${igStrip(media, lang)}
         ...(p.cover ? { image: `${config.url}${p.cover}` } : {}),
         ...(p.country ? { contentLocation: { '@type': 'Place', name: place(p, lang) } } : {}),
       },
+      faqLd: faq.length ? {
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        mainEntity: faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+      } : null,
     });
   }
 

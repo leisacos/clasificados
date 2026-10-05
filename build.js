@@ -96,6 +96,24 @@ function shortcodesFor(post, lang) {
   };
 }
 
+// FAQ section: a "# Frequently asked questions" / "# Preguntas frecuentes" heading
+// followed by "## Question?" lines, each with a plain-text answer. Feeds FAQPage
+// structured data so Google and AI search can show the answers directly.
+function extractFaq(md) {
+  const lines = md.split(/\r?\n/);
+  const start = lines.findIndex((l) => /^#\s+(faq|frequently asked questions|preguntas frecuentes)\s*$/i.test(l.trim()));
+  if (start < 0) return [];
+  const faq = [];
+  for (const line of lines.slice(start + 1)) {
+    if (/^#\s/.test(line)) break;
+    const q = line.match(/^##\s+(.*\?)\s*$/);
+    if (q) faq.push({ q: q[1], a: [] });
+    else if (faq.length && line.trim() && !/^\{\{/.test(line.trim())) faq[faq.length - 1].a.push(line.trim());
+  }
+  const plain = (t) => t.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/[*_`]/g, '');
+  return faq.filter((f) => f.a.length).map((f) => ({ q: plain(f.q), a: plain(f.a.join(' ')) }));
+}
+
 // ---------- Load posts ----------
 const postsDir = path.join(ROOT, 'content/posts');
 const posts = fs.readdirSync(postsDir)
@@ -160,7 +178,7 @@ for (const lang of LANGS) {
     if (!/\{\{\s*plan/.test(md)) html += shortcodesFor(p, lang)('plan', '');
     if (p.instagram.length && !/\{\{\s*instagram/.test(md)) html += instagramEmbeds(p.instagram);
     const related = posts.filter((o) => o !== p && (o.country === p.country || o.tags.some((tg) => p.tags.includes(tg)))).slice(0, 3);
-    writeLang(lang, `posts/${p.slug}/index.html`, t.post(lang, p, html, related));
+    writeLang(lang, `posts/${p.slug}/index.html`, t.post(lang, p, html, related, extractFaq(md)));
   }
 
   writeLang(lang, 'destinations/index.html', t.destinationsIndex(lang, destinations));
