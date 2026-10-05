@@ -7,7 +7,8 @@
     "build": "node build.js",
     "dev": "node scripts/serve.js --watch",
     "preview": "node build.js && node scripts/serve.js",
-    "import": "node scripts/import-instagram.js"
+    "import": "node scripts/import-instagram.js",
+    "photos": "node scripts/fetch-photos.js"
   },
   "engines": { "node": ">=18" }
 }

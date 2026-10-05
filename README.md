@@ -1,6 +1,16 @@
-# Laser's Travel Diary
+# Places, Not Faces · Lugares, no caras
 
-A fast, SEO-friendly static travel blog built from the Instagram posts of [@laser_2017_](https://www.instagram.com/laser_2017_/) and monetised with [Travelpayouts](https://www.travelpayouts.com/).
+A fast, SEO-friendly **English + Spanish** travel blog built from the Instagram posts of [@laser_2017_](https://www.instagram.com/laser_2017_/) and monetised with [Travelpayouts](https://www.travelpayouts.com/).
+
+## Download your photos first
+
+The posts use photos from your Instagram. Download them once (on your computer, with Node.js installed):
+
+```bash
+npm run photos
+```
+
+This saves them to `content/images/instagram/`. Commit that folder so the photos are published with the site. Instagram's photo links **expire after a few days**, so do this soon. If they've expired, ask Claude to refresh `content/instagram/media.json` from your connected Instagram account and run the command again.
 
 It has no framework and no dependencies. You only need Node.js 18+.
 
@@ -27,6 +37,7 @@ It has no framework and no dependencies. You only need Node.js 18+.
 | `npm run preview` | One build, then a plain preview server (no watching) |
 | `npm run build` | Build the site into `dist/` |
 | `npm run import` | Turn your Instagram export into blog posts |
+| `npm run photos` | Download the photos listed in `content/instagram/media.json` |
 
 Port 8080 busy? Run `PORT=3000 npm run dev` (on Windows PowerShell: `$env:PORT=3000; npm run dev`).
 
@@ -47,7 +58,6 @@ Each post becomes `content/posts/YYYY-MM-DD-title.md`, and its photos are copied
 
 Then:
 
-- delete the three `SAMPLE POST` files in `content/posts/`,
 - fill in `city`, `country` and `iata` (the nearest airport code, e.g. `LIS`) in each post so the booking buttons point to the right destination,
 - paste the post's Instagram link into `instagram:` to embed the original post,
 - expand the caption into a real story. Guides like "how to get there", "where to stay" and "what it cost" rank on Google, and that's where affiliate income comes from.
@@ -67,6 +77,12 @@ Open `site.config.json` → `travelpayouts`:
 
 Every booking button goes through `https://tp.media/r?...`, so your commissions are tracked. A program with no ID links to the partner directly, with no tracking. To use different brands (e.g. Hotellook or Klook instead of Booking.com or GetYourGuide), edit `partners` in the config. `{city}` is replaced with the post's city.
 
+## English and Spanish
+
+Every page is published twice: English at `/` and Spanish at `/es/`. A 🌐 **EN / ES** button in the header switches between the two versions of the same page. Visitors whose browser is set to the other language see a one-time banner offering their language. Both versions are linked with `hreflang` tags so Google shows each audience the right one.
+
+In a post, add `title_es`, `excerpt_es`, `city_es` and `country_es` to the front matter. Write the English text first, then put a line with just `:::es` and the Spanish text below it. If a post has no Spanish section, the Spanish site shows the English text with a "not translated yet" note. Site-wide text lives in `site.config.json` (`title_es`, `tagline_es`, `description_es`), and button and menu labels live in `src/i18n.js`.
+
 ## 3. Writing posts
 
 Posts are Markdown files with front matter (see the samples). Put any of these on a line of its own to insert monetised blocks:
@@ -76,10 +92,10 @@ Posts are Markdown files with front matter (see the samples). Put any of these o
 | `{{flights}}` `{{hotels}}` `{{tours}}` `{{insurance}}` `{{esim}}` | A booking button for the post's destination |
 | `{{hotels Porto}}` | The same, for another city |
 | `{{plan}}` | The full "Plan your trip" box. It's added automatically at the end if you don't place it |
-| `{{instagram https://www.instagram.com/p/...}}` | An embedded Instagram post |
+| `{{instagram DdWT0InxgD4 Dc9vbhkxClG}}` | Embedded Instagram posts (shortcodes or full URLs). Posts also embed everything listed in `instagram: [...]` |
 | `{{widget hotels}}` | Your configured Travelpayouts widget |
 
-Put images in `content/images/` and reference them as `/images/photo.jpg`.
+Put images in `content/images/` and reference them as `/images/photo.jpg`. For a cover photo, use `cover: "ig:<shortcode>"` to use a downloaded Instagram photo, or a path like `/images/photo.jpg`.
 
 ## 4. Publish (free) on GitHub Pages
 

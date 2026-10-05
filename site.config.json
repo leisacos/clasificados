@@ -1,13 +1,18 @@
 {
-  "title": "Laser's Travel Diary",
-  "tagline": "Stories, photos and honest tips from the road",
-  "description": "A travel blog built from the journeys of @laser_2017_ — destination guides, itineraries and the tools I actually use to plan trips.",
+  "title": "Places, Not Faces",
+  "title_es": "Lugares, no caras",
+  "tagline": "Travel & street art from 64 countries and counting",
+  "tagline_es": "Viajes y arte urbano de 64 países y contando",
+  "description": "Leiser's travel blog: street art, hidden spots and practical guides from 64 countries, with the tours, eSIMs and deals I actually use.",
+  "description_es": "El blog de viajes de Leiser: arte urbano, lugares escondidos y guías prácticas de 64 países, con los tours, eSIMs y descuentos que realmente uso.",
   "url": "https://leisacos.github.io/clasificados",
   "basePath": "/clasificados",
-  "language": "en",
+  "languages": {
+    "en": { "label": "English", "short": "EN", "locale": "en-GB", "prefix": "" },
+    "es": { "label": "Español", "short": "ES", "locale": "es-AR", "prefix": "/es" }
+  },
   "author": {
-    "name": "Laser",
-    "bio": "Traveller, photographer and chronic window-seat taker. I share the places I visit on Instagram and the full stories here.",
+    "name": "Leiser",
     "avatar": ""
   },
   "instagram": {
@@ -15,10 +20,10 @@
     "embedPosts": true
   },
   "travelpayouts": {
-    "_help": "Get these from https://app.travelpayouts.com. 'marker' is your partner ID (Profile). 'trs' is your project ID. Program IDs ('p' values) come from Tools > Links for each program you have joined. Any program left empty links directly (no tracking) unless you use the Drive script.",
+    "_help": "From https://app.travelpayouts.com — 'marker' is your partner ID (shown in your profile / in every tp.media link as marker=...). 'trs' is your project ID. Program IDs ('p' values) come from Tools > Links for each program you have joined. Programs left empty link directly (no tracking) unless you paste the Drive script.",
     "marker": "",
     "trs": "",
-    "defaultOrigin": "MAD",
+    "defaultOrigin": "",
     "programs": {
       "flights": "",
       "hotels": "",
@@ -29,14 +34,16 @@
     "driveScript": "",
     "widgets": {
       "flights": "",
-      "hotels": ""
+      "flights_es": "",
+      "hotels": "",
+      "hotels_es": ""
     }
   },
   "partners": {
-    "flights":   { "label": "Search flights",          "brand": "Aviasales",     "url": "https://www.aviasales.com/" },
-    "hotels":    { "label": "Find hotels",             "brand": "Booking.com",   "url": "https://www.booking.com/searchresults.html?ss={city}" },
-    "tours":     { "label": "Book tours & activities", "brand": "GetYourGuide",  "url": "https://www.getyourguide.com/s/?q={city}" },
-    "insurance": { "label": "Get travel insurance",    "brand": "EKTA",          "url": "https://ektatraveling.com/" },
-    "esim":      { "label": "Get a travel eSIM",       "brand": "Airalo",        "url": "https://www.airalo.com/" }
+    "flights":   { "brand": "Aviasales",   "url": "https://www.aviasales.com/" },
+    "hotels":    { "brand": "Booking.com", "url": "https://www.booking.com/searchresults.html?ss={city}", "url_es": "https://www.booking.com/searchresults.es.html?ss={city}" },
+    "tours":     { "brand": "Klook",       "url": "https://www.klook.com/search/result/?query={city}" },
+    "insurance": { "brand": "EKTA",        "url": "https://ektatraveling.com/" },
+    "esim":      { "brand": "Airalo",      "url": "https://www.airalo.com/" }
   }
 }

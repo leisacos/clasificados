@@ -143,3 +143,26 @@ h2 { font-size: clamp(1.5rem, 3vw, 2rem); }
 .footer-links { display: flex; flex-direction: column; gap: .4rem; }
 .footer-links a { color: var(--ink); text-decoration: none; }
 .fine { font-size: .8rem; color: var(--muted); margin-top: 2rem; }
+
+/* Language switcher & banner */
+.header-actions { display: flex; align-items: center; gap: .5rem; order: 2; }
+.nav { order: 1; margin-left: auto; margin-right: 1.2rem; }
+.lang-switch { display: inline-flex; align-items: center; gap: .3rem; padding: .35rem .75rem; border: 1.5px solid var(--line); border-radius: 999px; color: var(--ink); text-decoration: none; font-weight: 600; font-size: .85rem; letter-spacing: .04em; }
+.lang-switch:hover { border-color: var(--accent); color: var(--accent); }
+.lang-banner { background: var(--sea); color: #fff; font-size: .92rem; }
+.lang-banner-inner { display: flex; align-items: center; gap: .8rem; padding-top: .55rem; padding-bottom: .55rem; flex-wrap: wrap; }
+.lang-banner a { color: #fff; font-weight: 600; }
+.lang-banner-close { margin-left: auto; background: none; border: 0; color: #fff; font-size: 1.3rem; cursor: pointer; line-height: 1; }
+.notice { background: color-mix(in srgb, var(--accent) 12%, var(--surface)); padding: .7rem 1rem; border-radius: 10px; font-size: .92rem; }
+@media (max-width: 760px) { .nav { margin: 0; } }
+
+/* Instagram strip */
+.section-row { display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap; }
+.section-row .btn { padding: .5rem 1rem; }
+.ig-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: .5rem; }
+.ig-tile { position: relative; display: block; aspect-ratio: 1; overflow: hidden; border-radius: 8px; }
+.ig-tile img { width: 100%; height: 100%; object-fit: cover; transition: transform .3s; }
+.ig-tile:hover img { transform: scale(1.04); }
+.ig-tile.is-video::after { content: '▶'; position: absolute; top: .4rem; right: .5rem; color: #fff; text-shadow: 0 1px 4px rgba(0,0,0,.6); font-size: .9rem; }
+@media (max-width: 600px) { .ig-grid { grid-template-columns: repeat(2, 1fr); } }
+.ig-embeds { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; align-items: start; }

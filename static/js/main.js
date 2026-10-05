@@ -37,3 +37,28 @@
     a.href = url;
   });
 })();
+
+// Language: remember the reader's choice, and offer the other language once
+// when the browser's language doesn't match the page.
+(function () {
+  var KEY = 'lang-pref';
+  function get() { try { return localStorage.getItem(KEY); } catch (e) { return null; } }
+  function set(v) { try { localStorage.setItem(KEY, v); } catch (e) {} }
+  var pageLang = document.body.getAttribute('data-lang');
+
+  document.querySelectorAll('a[data-lang]').forEach(function (a) {
+    a.addEventListener('click', function () { set(a.getAttribute('data-lang')); });
+  });
+
+  if (get()) return;
+  var browser = (navigator.languages && navigator.languages[0]) || navigator.language || '';
+  browser = browser.slice(0, 2).toLowerCase();
+  if (!browser || browser === pageLang) return;
+  var banner = document.querySelector('.lang-banner[data-banner-lang="' + browser + '"]');
+  if (!banner) return;
+  banner.hidden = false;
+  banner.querySelector('.lang-banner-close').addEventListener('click', function () {
+    banner.hidden = true;
+    set(pageLang);
+  });
+})();
