@@ -8,7 +8,7 @@ function createTemplates(config, aff) {
   const ig = config.instagram && config.instagram.handle;
   const igUrl = ig ? `https://www.instagram.com/${ig}/` : '';
 
-  // Site-relative URL for a language: href('es', '/posts/x/') -> /clasificados/es/posts/x/
+  // Site-relative URL for a language: href('es', '/posts/x/') -> /es/posts/x/
   const href = (lang, p) => `${base}${config.languages[lang].prefix}${p}`;
   const asset = (p) => `${base}${p}`;
   const abs = (lang, p) => `${config.url}${config.languages[lang].prefix}${p}`;

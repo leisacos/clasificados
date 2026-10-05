@@ -5,8 +5,8 @@
   "tagline_es": "Viajes y arte urbano de 64 países y contando",
   "description": "Leiser's travel blog: street art, hidden spots and practical guides from 64 countries, with the tours, eSIMs and deals I actually use.",
   "description_es": "El blog de viajes de Leiser: arte urbano, lugares escondidos y guías prácticas de 64 países, con los tours, eSIMs y descuentos que realmente uso.",
-  "url": "https://leisacos.github.io/clasificados",
-  "basePath": "/clasificados",
+  "url": "https://theplacesnotfaces.com",
+  "basePath": "",
   "languages": {
     "en": { "label": "English", "short": "EN", "locale": "en-GB", "prefix": "" },
     "es": { "label": "Español", "short": "ES", "locale": "es-AR", "prefix": "/es" }

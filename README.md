@@ -27,7 +27,7 @@ It has no framework and no dependencies. You only need Node.js 18+.
    ```bash
    npm run dev
    ```
-4. Open **http://localhost:8080/clasificados/** (http://localhost:8080 redirects there).
+4. Open **http://localhost:8080/**.
 
 `npm run dev` rebuilds the site and refreshes your browser every time you save a post, an image, the CSS or `site.config.json`. Press Ctrl+C to stop it. There's nothing to `npm install`.
 
@@ -106,13 +106,20 @@ Posts are Markdown files with front matter (see the samples). Put any of these o
 
 Put images in `content/images/` and reference them as `/images/photo.jpg`. For a cover photo, use `cover: "ig:<shortcode>"` to use a downloaded Instagram photo, or a path like `/images/photo.jpg`.
 
-## 4. Publish (free) on GitHub Pages
+## 4. Publish on Cloudflare Pages (free)
 
-1. Merge into `main`.
-2. In the repo, go to **Settings → Pages → Source: GitHub Actions**.
-3. Every push to `main` deploys to `https://leisacos.github.io/clasificados/`.
+The site lives at **https://theplacesnotfaces.com**.
 
-**Custom domain:** set `url` to your domain and `basePath` to `""` in `site.config.json`. Then add the domain under Settings → Pages. Netlify, Cloudflare Pages and Vercel also work: use build command `node build.js` and output folder `dist`.
+1. In Cloudflare, go to **Workers & Pages → Create → Pages → Connect to Git**, and pick `leisacos/clasificados`.
+2. Use these settings:
+   - **Production branch:** `main`, or the branch you publish from
+   - **Build command:** `node build.js`
+   - **Build output directory:** `dist`
+3. After the first deploy, go to **Custom domains → Set up a domain** and add `theplacesnotfaces.com`. Add `www.theplacesnotfaces.com` too, and redirect it to the main domain.
+
+Every push to the production branch rebuilds the site in about a minute, including the daily Instagram sync. Pushes to other branches get their own preview URLs.
+
+The domain is set in `site.config.json` (`url`). `basePath` stays `""` because the site is served from the root of the domain.
 
 ## What's included
 
