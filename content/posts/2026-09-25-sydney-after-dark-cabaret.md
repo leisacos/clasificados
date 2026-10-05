@@ -36,6 +36,7 @@ It was one of those nights that reminds you why travelling is about more than ju
 - The **Bondi to Coogee coastal walk**
 - **The Rocks** for history, markets and pubs
 - A day trip to the **Blue Mountains**
+- Heading south? Tasmania is a short flight away. See my [things to do in Tasmania](/posts/things-to-do-in-tasmania/) guide.
 
 # Where to stay
 
@@ -70,6 +71,7 @@ El **Aeropuerto de Sídney (SYD)** está conectado con el centro en tren en unos
 - La **caminata costera de Bondi a Coogee**
 - **The Rocks**, con historia, mercados y pubs
 - Una excursión a las **Blue Mountains**
+- ¿Vas más al sur? Tasmania está a un vuelo corto. Mirá mi guía de [qué hacer en Tasmania](/es/posts/things-to-do-in-tasmania/).
 
 # Dónde alojarse
 
