@@ -9,7 +9,8 @@
     "preview": "node build.js && node scripts/serve.js",
     "import": "node scripts/import-instagram.js",
     "photos": "node scripts/fetch-photos.js",
-    "pins": "node scripts/make-pins.js"
+    "pins": "node scripts/make-pins.js",
+    "audit": "node scripts/content-audit.js"
   },
   "engines": { "node": ">=18" }
 }

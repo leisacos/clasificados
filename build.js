@@ -136,6 +136,7 @@ const posts = fs.readdirSync(postsDir)
       cover,
       readingTime,
       date: String(data.date || '1970-01-01').slice(0, 10),
+      updated: data.updated ? String(data.updated).slice(0, 10) : '',
       tags: toList(data.tags),
       instagram: toList(data.instagram).filter(Boolean),
       countrySlug: data.country ? slugify(data.country) : '',
@@ -217,10 +218,12 @@ ${pinPosts.map((p) => {
 }
 
 // Sitemap with hreflang alternates, robots
+// lastmod for stories: the newer of the publish date and the "updated" date.
+const lastmod = new Map(posts.map((p) => [`/posts/${p.slug}/`, p.updated > p.date ? p.updated : p.date]));
 const paths = ['/', '/destinations/', ...posts.map((p) => `/posts/${p.slug}/`), ...destinations.map((d) => `/destinations/${d.slug}/`), ...pages.map((pg) => `/${pg.slug}/`)];
 write('sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-${paths.flatMap((p) => LANGS.map((lang) => `  <url><loc>${t.abs(lang, p)}</loc>${LANGS.map((l) => `<xhtml:link rel="alternate" hreflang="${l}" href="${t.abs(l, p)}"/>`).join('')}</url>`)).join('\n')}
+${paths.flatMap((p) => LANGS.map((lang) => `  <url><loc>${t.abs(lang, p)}</loc>${lastmod.has(p) ? `<lastmod>${lastmod.get(p)}</lastmod>` : ''}${LANGS.map((l) => `<xhtml:link rel="alternate" hreflang="${l}" href="${t.abs(l, p)}"/>`).join('')}</url>`)).join('\n')}
 </urlset>
 `);
 write('robots.txt', `User-agent: *\nAllow: /\nSitemap: ${config.url}/sitemap.xml\n`);

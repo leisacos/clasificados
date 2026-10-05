@@ -20,7 +20,8 @@ Use the Windsor.ai `instagram` connector, account `laser_2017_`:
   `content/instagram/media.json`.
 - Skip `STORY` products. Only feed posts, reels and carousels count.
 
-If nothing is new, stop. Don't commit or push anything.
+If nothing is new, skip sections 3–7 and go to **section 9: Improve one
+existing story** instead.
 
 ## 3. Record every new post in `content/instagram/media.json`
 
@@ -151,8 +152,43 @@ tall Pinterest images for new stories. Pinterest then picks them up from
 
 ## 8. Report
 
-End with a short summary: which posts were new, what became a story (with its
+**On days with new posts**, end with a short summary: which posts were new, what became a story (with its
 target English and Spanish search phrases), which stories were updated, and
 anything that needs Leiser's input (for example a post with an unclear
 location, or a personal detail only Leiser knows that would make the story
 stronger).
+
+## 9. Improve one existing story (days with no new Instagram posts)
+
+Improve **exactly one** story per run, so changes stay small and reviewable.
+
+1. Run `node scripts/content-audit.js`. It scores every story (missing FAQ,
+   thin content, missing links, title or description length, age) and prints a
+   **Recommended** file. Work on that one. If it prints "Nothing needs improving
+   right now", stop without committing.
+2. Read the whole story, in both languages, and fix every issue the audit lists,
+   following section 5:
+   - **Missing FAQ:** add 3–4 real questions people ask about the place, in both
+     languages, in the `## Question?` format.
+   - **Short:** expand to **600–1,000 words per language** with genuinely useful
+     sections: how to get there, best time to go, practical tips, what's nearby,
+     where to stay. No filler and no repeating yourself.
+   - **Links:** add 2–4 internal links out to related stories and guides, and
+     add a link **to** this story from 1–2 related stories (in both languages).
+   - **Title or excerpt length:** rewrite to 50–65 characters (title) and
+     140–160 characters (excerpt), keeping the main search phrase near the start.
+   - Check that the buttons sit after the sections where readers act on them
+     (section 5e).
+3. **Never change** the file name or slug (it's the URL), the `date`, or the
+   `cover`. Keep everything that's already accurate, and keep Leiser's own words
+   from captions.
+4. Add or update `updated: YYYY-MM-DD` (today) in the front matter. The site
+   then shows "Updated …" and tells Google the page is fresh.
+5. The accuracy rules from 5f still apply: no invented personal experiences,
+   and hedge anything that changes often.
+6. Run the checks from section 6 (build + link check), then commit with a
+   message like `Improve <slug>: add FAQ, expand to N words, +M links` and push.
+7. Report: which story you improved, what changed (word counts before → after,
+   FAQ added, links added), and any personal detail Leiser could add to make
+   it stronger.
+

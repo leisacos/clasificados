@@ -41,7 +41,7 @@ function createTemplates(config, aff) {
 </article>`;
   }
 
-  function layout({ lang, title, description, path, body, image, type = 'website', jsonLd, faqLd, alternates = langs, published }) {
+  function layout({ lang, title, description, path, body, image, type = 'website', jsonLd, faqLd, alternates = langs, published, modified }) {
     const s = strings(lang);
     const siteTitle = site('title', lang);
     const fullTitle = title ? `${title} · ${siteTitle}` : `${siteTitle} · ${site('tagline', lang)}`;
@@ -67,7 +67,7 @@ ${alternates.map((l) => `<link rel="alternate" hreflang="${l}" href="${e(abs(l, 
 <meta property="og:url" content="${e(abs(lang, path))}">
 <meta property="og:locale" content="${config.languages[lang].locale.replace('-', '_')}">
 <meta property="og:site_name" content="${e(siteTitle)}">
-${published ? `<meta property="article:published_time" content="${published}">\n<meta property="article:author" content="${e(config.author.name)}">` : ''}
+${published ? `<meta property="article:published_time" content="${published}">\n${modified ? `<meta property="article:modified_time" content="${modified}">\n` : ''}<meta property="article:author" content="${e(config.author.name)}">` : ''}
 ${config.pinterest && config.pinterest.verify ? `<meta name="p:domain_verify" content="${e(config.pinterest.verify)}">` : ''}
 ${ogImage ? `<meta property="og:image" content="${e(ogImage)}">\n<meta name="twitter:card" content="summary_large_image">` : '<meta name="twitter:card" content="summary">'}
 <link rel="alternate" type="application/rss+xml" title="${e(siteTitle)}" href="${href(lang, '/feed.xml')}">
@@ -223,7 +223,7 @@ ${igStrip(media, lang)}
     <div class="wrap post-head">
       ${p.country ? `<a class="kicker" href="${href(lang, `/destinations/${p.countrySlug}/`)}">${e(place(p, lang))}</a>` : ''}
       <h1>${e(title)}</h1>
-      <p class="meta">${e(s.by)} ${e(config.author.name)} · <time datetime="${p.date}">${fmtDate(p.date, lang)}</time> · ${p.readingTime[lang] || p.readingTime[defaultLang]} ${e(s.minRead)}</p>
+      <p class="meta">${e(s.by)} ${e(config.author.name)} · <time datetime="${p.date}">${fmtDate(p.date, lang)}</time>${p.updated && p.updated > p.date ? ` · ${e(s.updatedOn)} <time datetime="${p.updated}">${fmtDate(p.updated, lang)}</time>` : ''} · ${p.readingTime[lang] || p.readingTime[defaultLang]} ${e(s.minRead)}</p>
       ${pinButton(p, lang)}
     </div>
   </header>
@@ -259,12 +259,14 @@ ${igStrip(media, lang)}
       image: p.cover || '',
       type: 'article',
       published: p.date,
+      modified: p.updated && p.updated > p.date ? p.updated : '',
       body,
       jsonLd: {
         '@context': 'https://schema.org',
         '@type': 'BlogPosting',
         headline: title,
         datePublished: p.date,
+        dateModified: p.updated && p.updated > p.date ? p.updated : p.date,
         inLanguage: lang,
         author: { '@type': 'Person', name: config.author.name, url: igUrl || undefined },
         description: loc(p, 'excerpt', lang),
