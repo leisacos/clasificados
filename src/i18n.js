@@ -52,6 +52,8 @@ const STRINGS = {
       tours: ['Tours & activities', 'Things to do in {where}'],
       insurance: ['Get travel insurance', 'Get travel insurance'],
       esim: ['Get a travel eSIM', 'Get a travel eSIM'],
+      cars: ['Compare car rentals', 'Car rental in {where}'],
+      transfers: ['Book an airport transfer', 'Airport transfer in {where}'],
     },
   },
   es: {
@@ -105,6 +107,8 @@ const STRINGS = {
       tours: ['Tours y actividades', 'Qué hacer en {where}'],
       insurance: ['Seguro de viaje', 'Seguro de viaje'],
       esim: ['eSIM para viajar', 'eSIM para viajar'],
+      cars: ['Comparar alquiler de autos', 'Alquiler de autos en {where}'],
+      transfers: ['Reservar traslado al aeropuerto', 'Traslado al aeropuerto en {where}'],
     },
   },
 };

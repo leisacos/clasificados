@@ -33,6 +33,8 @@ Some places are big. **Iceland is huge**, and you only really feel it from the a
 
 International flights land at **Keflavík (KEF)**, about 45 minutes from Reykjavík. **Renting a car** is the best way to see the country at your own pace. Book a 4x4 if you're travelling in winter.
 
+{{cars}}
+
 {{flights}}
 
 # Where to stay
@@ -65,6 +67,8 @@ Hay lugares grandes. **Islandia es enorme**, y eso se siente de verdad desde el 
 # Cómo llegar y moverse
 
 Los vuelos internacionales llegan a **Keflavík (KEF)**, a unos 45 minutos de Reikiavik. **Alquilar un auto** es la mejor forma de recorrer el país a tu ritmo. Reservá un 4x4 si viajás en invierno.
+
+{{cars}}
 
 {{flights}}
 

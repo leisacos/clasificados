@@ -39,6 +39,8 @@ San Alfonso del Mar is a **private resort**. The giant lagoon is generally reser
 
 Buses run regularly from Santiago to Algarrobo, but **renting a car** gives you the freedom to hop between beach towns, Isla Negra and Valparaíso.
 
+{{cars}}
+
 {{plan}}
 
 :::es
@@ -69,5 +71,7 @@ San Alfonso del Mar es un **resort privado**. La laguna gigante suele estar rese
 # Cómo moverse
 
 Hay buses frecuentes de Santiago a Algarrobo, pero **alquilar un auto** te da libertad para recorrer los pueblos de playa, Isla Negra y Valparaíso.
+
+{{cars}}
 
 {{plan}}

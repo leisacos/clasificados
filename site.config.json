@@ -48,6 +48,8 @@
     "hotels":    { "brand": "Booking.com", "url": "https://www.booking.com/searchresults.html?ss={city}", "url_es": "https://www.booking.com/searchresults.es.html?ss={city}" },
     "tours":     { "brand": "Klook",       "url": "https://www.klook.com/search/result/?query={city}" },
     "insurance": { "brand": "EKTA",        "url": "https://ektatraveling.com/" },
-    "esim":      { "brand": "Airalo",      "url": "https://www.airalo.com/" }
+    "esim":      { "brand": "Airalo",      "url": "https://www.airalo.com/" },
+    "cars":      { "brand": "Economybookings", "url": "https://www.economybookings.com/" },
+    "transfers": { "brand": "Kiwitaxi",    "url": "https://kiwitaxi.com/" }
   }
 }

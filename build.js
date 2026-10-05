@@ -90,7 +90,7 @@ function shortcodesFor(post, lang) {
     const local = arg && name !== 'instagram' ? { ...ctx, city: arg, place: arg } : ctx;
     if (name === 'plan') return aff.planBox(local, lang);
     if (name === 'instagram') return instagramEmbeds(arg ? arg.split(/[\s,]+/).filter(Boolean) : post.instagram);
-    if (aff.KINDS.includes(name)) return `<div class="inline-cta">${aff.button(name, local, lang)}</div>`;
+    if (aff.ALL_KINDS.includes(name)) return `<div class="inline-cta">${aff.button(name, local, lang)}</div>`;
     if (name === 'widget') return aff.widget(arg || 'flights', lang);
     return '';
   };

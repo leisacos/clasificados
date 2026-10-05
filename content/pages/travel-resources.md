@@ -37,6 +37,18 @@ I don't travel without it. Medical bills abroad can be huge.
 
 {{insurance}}
 
+# Car rental
+
+For road trips, like Iceland's Ring Road or Chile's coast, I compare rental companies in one search and check what the insurance excess covers.
+
+{{cars}}
+
+# Airport transfers
+
+After a long flight, a pre-booked driver waiting at arrivals is worth it, especially at airports far from the city like Buenos Aires' Ezeiza.
+
+{{transfers}}
+
 :::es
 
 Estos son los sitios que uso para planear y reservar mis viajes. Son los mismos enlaces que tengo en la bio de Instagram. Algunos son enlaces de afiliado: si reservás a través de ellos, puedo ganar una pequeña comisión sin costo extra para vos.
@@ -70,3 +82,15 @@ Primero filtro por ubicación y después por cancelación gratuita, así aseguro
 No viajo sin seguro. Los gastos médicos en el exterior pueden ser enormes.
 
 {{insurance}}
+
+# Alquiler de autos
+
+Para road trips, como la Ring Road de Islandia o la costa de Chile, comparo agencias en una sola búsqueda y reviso qué cubre la franquicia del seguro.
+
+{{cars}}
+
+# Traslados al aeropuerto
+
+Después de un vuelo largo, tener un chofer esperando en arribos vale la pena, sobre todo en aeropuertos lejos de la ciudad, como Ezeiza en Buenos Aires.
+
+{{transfers}}

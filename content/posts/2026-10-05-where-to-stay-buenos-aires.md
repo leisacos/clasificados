@@ -71,6 +71,8 @@ For a short trip, a **boutique hotel in Palermo or Recoleta** is hard to beat. F
 - Get an **eSIM** before you land so you can order a ride straight from the airport.
 - Take a look at my [free things to do in Buenos Aires](/posts/free-things-to-do-buenos-aires/).
 
+{{transfers}}
+
 {{flights}}
 
 {{plan}}
@@ -135,6 +137,8 @@ Para un viaje corto, un **hotel boutique en Palermo o Recoleta** es difícil de 
 - **Aeropuertos:** los vuelos internacionales llegan a **Ezeiza (EZE)**, a unos 45–60 minutos de la ciudad. La mayoría de los vuelos de cabotaje y algunos regionales usan **Aeroparque (AEP)**, que queda cerca de Palermo.
 - Comprá una **eSIM** antes de aterrizar para poder pedir un auto desde el aeropuerto.
 - Mirá mis [cosas gratis para hacer en Buenos Aires](/es/posts/free-things-to-do-buenos-aires/).
+
+{{transfers}}
 
 {{flights}}
 

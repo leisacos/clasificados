@@ -56,6 +56,8 @@ Before or after your day trips, visit the [Bahá'í Temple](/posts/bahai-temple-
 - **Renting a car** gives you the most freedom on the coast.
 - **Buses** to Valparaíso and Viña are frequent and cheap.
 
+{{cars}}
+
 {{flights}}
 
 # Where to stay in Santiago
@@ -111,6 +113,8 @@ Antes o después de tus excursiones, visitá el [Templo Bahá'í](/es/posts/baha
 - **Los tours** son lo más cómodo para las degustaciones y la montaña.
 - **Alquilar un auto** te da más libertad en la costa.
 - **Los buses** a Valparaíso y Viña son frecuentes y baratos.
+
+{{cars}}
 
 {{flights}}
 

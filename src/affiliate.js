@@ -9,8 +9,12 @@ const ICONS = {
   tours: '🎟️',
   insurance: '🛡️',
   esim: '📶',
+  cars: '🚗',
+  transfers: '🚕',
 };
 const KINDS = ['flights', 'hotels', 'tours', 'insurance', 'esim'];
+// Extra buttons used only where a story calls for them ({{cars}}, {{transfers}}).
+const ALL_KINDS = [...KINDS, 'cars', 'transfers'];
 
 function createAffiliate(config) {
   const tp = config.travelpayouts || {};
@@ -68,7 +72,7 @@ function createAffiliate(config) {
     return w[`${kind}_${lang}`] || w[kind] || '';
   }
 
-  return { track, partnerUrl, button, planBox, widget, KINDS };
+  return { track, partnerUrl, button, planBox, widget, KINDS, ALL_KINDS };
 }
 
 module.exports = { createAffiliate };

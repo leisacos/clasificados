@@ -114,7 +114,11 @@ titles. The **evergreen guides** are hubs that new stories should link to:
 
 - Place `{{flights}}`, `{{hotels}}` and `{{tours}}` right after the section where
   the reader would act on it (after "How to get there" or "Where to stay").
-  Add `{{esim}}` or `{{insurance}}` only where relevant. End with `{{plan}}`.
+  Add `{{esim}}` or `{{insurance}}` only where relevant, `{{cars}}` where the
+  story recommends renting a car (road trips, coasts, national parks), and
+  `{{transfers}}` where it discusses getting from the airport. End with `{{plan}}`.
+- Hotel buttons go to Booking.com, which isn't approved for the site yet. Still
+  include `{{hotels}}` where it helps readers; it starts earning once approved.
 - Don't stack buttons, and don't put more than one of each kind before the FAQ.
 
 ### 5f. Accuracy and voice (unchanged and non-negotiable)
