@@ -1,15 +1,15 @@
 ---
 title: "Work with me"
 title_es: "Trabajemos juntos"
-description: "Media kit for Places, Not Faces: audience, content and ways to collaborate with Leiser (@laser_2017_) on travel, tourism and street art."
-description_es: "Media kit de Lugares, no caras: audiencia, contenido y formas de colaborar con Leiser (@laser_2017_) en viajes, turismo y arte urbano."
+description: "Media kit for Places, Not Faces: audience, content and ways to collaborate with Leiser (@theplacesnotfaces) on travel, tourism and street art."
+description_es: "Media kit de Lugares, no caras: audiencia, contenido y formas de colaborar con Leiser (@theplacesnotfaces) en viajes, turismo y arte urbano."
 ---
 
 <!-- Update the numbers below every month (Instagram > Professional dashboard > Insights). -->
 
 <img class="brand-hero" src="/brand/logo-full.jpg" alt="Places, Not Faces logo: a hot-air balloon inside a camera viewfinder" width="1202" height="1034">
 
-**Places, Not Faces** is a bilingual (English and Spanish) travel project by **Leiser**: Instagram Reels at [@laser_2017_](https://www.instagram.com/laser_2017_/), YouTube Shorts at [@theplacesnotfaces](https://www.youtube.com/@theplacesnotfaces), plus practical travel guides on this website. The idea is simple: show the **place**, not the selfie, so your destination is the star.
+**Places, Not Faces** is a bilingual (English and Spanish) travel project by **Leiser**: Instagram Reels at [@theplacesnotfaces](https://www.instagram.com/theplacesnotfaces/), YouTube Shorts at [@theplacesnotfaces](https://www.youtube.com/@theplacesnotfaces), plus practical travel guides on this website. The idea is simple: show the **place**, not the selfie, so your destination is the star.
 
 <div class="kit-stats"><div><strong>1,127</strong><span>Instagram followers</span></div><div><strong>108.8K</strong><span>Reel views in 30 days</span></div><div><strong>64</strong><span>countries visited</span></div><div><strong>EN + ES</strong><span>every guide in both languages</span></div></div>
 
@@ -37,7 +37,7 @@ Australia (Sydney and Tasmania), Argentina, Chile, Japan, South Korea, Greece, t
 
 # Let's talk
 
-Email me at [hola@theplacesnotfaces.com](mailto:hola@theplacesnotfaces.com) or send a message on Instagram at [@laser_2017_](https://www.instagram.com/laser_2017_/) with your destination or idea, dates and what you have in mind. I reply to every brand message.
+Email me at [hola@theplacesnotfaces.com](mailto:hola@theplacesnotfaces.com) or send a message on Instagram at [@theplacesnotfaces](https://www.instagram.com/theplacesnotfaces/) with your destination or idea, dates and what you have in mind. I reply to every brand message.
 
 :::es
 
@@ -45,7 +45,7 @@ Email me at [hola@theplacesnotfaces.com](mailto:hola@theplacesnotfaces.com) or s
 
 <img class="brand-hero" src="/brand/logo-full.jpg" alt="Logo de Lugares, no caras: un globo aerostático dentro de un visor de cámara" width="1202" height="1034">
 
-**Lugares, no caras** es un proyecto de viajes bilingüe (español e inglés) de **Leiser**: Reels en Instagram en [@laser_2017_](https://www.instagram.com/laser_2017_/), Shorts en YouTube en [@theplacesnotfaces](https://www.youtube.com/@theplacesnotfaces) y guías de viaje prácticas en este sitio. La idea es simple: mostrar el **lugar**, no la selfie, para que tu destino sea el protagonista.
+**Lugares, no caras** es un proyecto de viajes bilingüe (español e inglés) de **Leiser**: Reels en Instagram en [@theplacesnotfaces](https://www.instagram.com/theplacesnotfaces/), Shorts en YouTube en [@theplacesnotfaces](https://www.youtube.com/@theplacesnotfaces) y guías de viaje prácticas en este sitio. La idea es simple: mostrar el **lugar**, no la selfie, para que tu destino sea el protagonista.
 
 <div class="kit-stats"><div><strong>1.127</strong><span>seguidores en Instagram</span></div><div><strong>108,8 mil</strong><span>vistas de Reels en 30 días</span></div><div><strong>64</strong><span>países visitados</span></div><div><strong>ES + EN</strong><span>cada guía en los dos idiomas</span></div></div>
 
@@ -73,4 +73,4 @@ Australia (Sídney y Tasmania), Argentina, Chile, Japón, Corea del Sur, Grecia,
 
 # Hablemos
 
-Escribime a [hola@theplacesnotfaces.com](mailto:hola@theplacesnotfaces.com) o mandame un mensaje por Instagram a [@laser_2017_](https://www.instagram.com/laser_2017_/) con tu destino o idea, las fechas y lo que tenés en mente. Respondo todos los mensajes de marcas.
+Escribime a [hola@theplacesnotfaces.com](mailto:hola@theplacesnotfaces.com) o mandame un mensaje por Instagram a [@theplacesnotfaces](https://www.instagram.com/theplacesnotfaces/) con tu destino o idea, las fechas y lo que tenés en mente. Respondo todos los mensajes de marcas.

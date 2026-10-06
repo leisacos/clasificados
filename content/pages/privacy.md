@@ -11,7 +11,7 @@ To understand which pages are useful, the site uses **Cloudflare Web Analytics**
 
 Affiliate partners (via Travelpayouts and Impact.com) and embedded Instagram posts and YouTube videos may set cookies to attribute bookings and display content. These cookies are covered by those providers' own privacy policies.
 
-Questions? Send me a message on [Instagram](https://www.instagram.com/laser_2017_/).
+Questions? Send me a message on [Instagram](https://www.instagram.com/theplacesnotfaces/).
 
 :::es
 
@@ -21,4 +21,4 @@ Para saber qué páginas son útiles, el sitio usa **Cloudflare Web Analytics**,
 
 Los socios afiliados (a través de Travelpayouts e Impact.com) y las publicaciones de Instagram y los videos de YouTube integrados pueden usar cookies para atribuir reservas y mostrar contenido. Esas cookies se rigen por las políticas de privacidad de cada proveedor.
 
-¿Preguntas? Escribime por [Instagram](https://www.instagram.com/laser_2017_/).
+¿Preguntas? Escribime por [Instagram](https://www.instagram.com/theplacesnotfaces/).

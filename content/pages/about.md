@@ -7,7 +7,7 @@ description_es: "Quién está detrás de la cámara: lugares, no caras."
 
 <img class="brand-hero" src="/brand/logo-full.jpg" alt="Places, Not Faces logo: a hot-air balloon inside a camera viewfinder" width="1202" height="1034">
 
-Hi, I'm **Leiser**, the person behind [@laser_2017_](https://www.instagram.com/laser_2017_/).
+Hi, I'm **Leiser**, the person behind [@theplacesnotfaces](https://www.instagram.com/theplacesnotfaces/).
 
 **Places, not faces.** I photograph the world, not myself: street art on Buenos Aires shop shutters, waterfalls from a drone, cities after dark. So far I've been to **64 countries and counting**.
 
@@ -23,13 +23,13 @@ The booking links on this site are the tools I actually use. If you book through
 
 The videos are also on YouTube at [@theplacesnotfaces](https://www.youtube.com/@theplacesnotfaces).
 
-Got a question about a place I've been? Send me a message on [Instagram](https://www.instagram.com/laser_2017_/).
+Got a question about a place I've been? Send me a message on [Instagram](https://www.instagram.com/theplacesnotfaces/).
 
 :::es
 
 <img class="brand-hero" src="/brand/logo-full.jpg" alt="Logo de Lugares, no caras: un globo aerostático dentro de un visor de cámara" width="1202" height="1034">
 
-Hola, soy **Leiser**, la persona detrás de [@laser_2017_](https://www.instagram.com/laser_2017_/).
+Hola, soy **Leiser**, la persona detrás de [@theplacesnotfaces](https://www.instagram.com/theplacesnotfaces/).
 
 **Lugares, no caras.** Fotografío el mundo, no a mí mismo: arte urbano en las persianas de Buenos Aires, cascadas desde un drone, ciudades de noche. Hasta ahora visité **64 países y contando**.
 
@@ -45,4 +45,4 @@ Los enlaces de reserva de este sitio son las herramientas que realmente uso. Si 
 
 Los videos también están en YouTube, en [@theplacesnotfaces](https://www.youtube.com/@theplacesnotfaces).
 
-¿Tenés una pregunta sobre algún lugar donde estuve? Escribime por [Instagram](https://www.instagram.com/laser_2017_/).
+¿Tenés una pregunta sobre algún lugar donde estuve? Escribime por [Instagram](https://www.instagram.com/theplacesnotfaces/).

@@ -1,6 +1,6 @@
 # Places, Not Faces · Lugares, no caras
 
-A fast, SEO-friendly **English + Spanish** travel blog built from the Instagram posts of [@laser_2017_](https://www.instagram.com/laser_2017_/) and monetised with [Travelpayouts](https://www.travelpayouts.com/).
+A fast, SEO-friendly **English + Spanish** travel blog built from the Instagram posts of [@theplacesnotfaces](https://www.instagram.com/theplacesnotfaces/) and monetised with [Travelpayouts](https://www.travelpayouts.com/).
 
 ## Download your photos first
 

@@ -10,6 +10,7 @@ excerpt: "Visiting the Bosques de Palermo in Buenos Aires? How to get there, the
 excerpt_es: "¿Vas a los Bosques de Palermo en Buenos Aires? Cómo llegar, a qué hora ir para ver el atardecer en el lago, qué hay cerca y dónde alojarte en Palermo."
 tags: [buenosaires, palermo, argentina, sunset, guide]
 instagram: [DeGLWj-Rg2d]
+youtube: eNm3ZfxSq4w
 ---
 
 Sunday sunset in Buenos Aires: palm trees, boats on the lake and the whole skyline turning pink. That's the **Bosques de Palermo**, the big green lung of the city and one of the best free things to do in Buenos Aires when you want a break from the traffic.

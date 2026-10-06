@@ -11,7 +11,7 @@ latest commit. The GitHub Action may have pushed photo commits since the last ru
 
 ## 2. Find new Instagram posts
 
-Use the Windsor.ai `instagram` connector, account `laser_2017_`:
+Use the Windsor.ai `instagram` connector, account `theplacesnotfaces` (id `17841400015774428`; it was `laser_2017_` before October 2026, same account):
 
 - `get_data` with fields `date, media_id, media_caption, media_permalink,
   media_shortcode, media_type, media_url, media_thumbnail_url` and

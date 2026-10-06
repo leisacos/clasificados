@@ -14,7 +14,7 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ## 2026-10-05 · Bosques de Palermo, Buenos Aires · https://www.instagram.com/reel/DeGLWj-Rg2d/
 - Story: /posts/bosques-de-palermo-buenos-aires/
-- YouTube ID: (pending)
+- YouTube ID: eNm3ZfxSq4w (embedded)
 - Title EN: Sunday sunset at the Bosques de Palermo, Buenos Aires
 - Title ES: Atardecer de domingo en los Bosques de Palermo, Buenos Aires
 - Description:
