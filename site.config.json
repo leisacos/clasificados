@@ -15,6 +15,10 @@
     "name": "Leiser",
     "avatar": ""
   },
+  "analytics": {
+    "_help": "Cloudflare Web Analytics token (Cloudflare dashboard > Analytics & Logs > Web Analytics > your site > Manage site > the token in the JS snippet). Leave empty if the site uses automatic setup.",
+    "cloudflareToken": ""
+  },
   "pinterest": {
     "_help": "Paste the content value of Pinterest's <meta name=\"p:domain_verify\"> tag here to claim the site (or verify with a DNS TXT record in Cloudflare instead).",
     "verify": ""

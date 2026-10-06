@@ -94,6 +94,7 @@ ${config.pinterest && config.pinterest.verify ? `<meta name="p:domain_verify" co
 ${jsonLd ? `<script type="application/ld+json">${JSON.stringify(jsonLd)}</script>` : ''}
 ${faqLd ? `<script type="application/ld+json">${JSON.stringify(faqLd).replace(/</g, '\\u003c')}</script>` : ''}
 ${tp.driveScript || ''}
+${config.analytics && /^[a-f0-9]{32}$/i.test(config.analytics.cloudflareToken || '') ? `<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "${config.analytics.cloudflareToken}"}'></script>` : ''}
 </head>
 <body data-lang="${lang}" data-tp-marker="${e(tp.marker || '')}" data-tp-trs="${e(tp.trs || '')}" data-tp-flights="${e((tp.programs && tp.programs.flights) || '')}" data-origin="${e(tp.defaultOrigin || '')}">
 ${other.map((l) => `<div class="lang-banner" data-banner-lang="${l}" lang="${l}" hidden>

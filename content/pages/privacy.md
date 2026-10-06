@@ -7,6 +7,8 @@ description_es: "Qué datos recopila este sitio."
 
 This site doesn't ask you to create an account and doesn't collect personal data directly. Your language choice is saved only in your own browser.
 
+To understand which pages are useful, the site uses **Cloudflare Web Analytics**, which counts visits without cookies and without tracking you across other sites.
+
 Affiliate partners (via Travelpayouts) and embedded Instagram posts may set cookies to attribute bookings and display content. These cookies are covered by those providers' own privacy policies.
 
 Questions? Send me a message on [Instagram](https://www.instagram.com/laser_2017_/).
@@ -14,6 +16,8 @@ Questions? Send me a message on [Instagram](https://www.instagram.com/laser_2017
 :::es
 
 Este sitio no te pide crear una cuenta y no recopila datos personales directamente. Tu preferencia de idioma se guarda solo en tu propio navegador.
+
+Para saber qué páginas son útiles, el sitio usa **Cloudflare Web Analytics**, que cuenta visitas sin cookies y sin seguirte en otros sitios.
 
 Los socios afiliados (a través de Travelpayouts) y las publicaciones de Instagram integradas pueden usar cookies para atribuir reservas y mostrar contenido. Esas cookies se rigen por las políticas de privacidad de cada proveedor.
 
