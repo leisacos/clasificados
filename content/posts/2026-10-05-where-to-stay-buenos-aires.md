@@ -26,7 +26,7 @@ Buenos Aires is huge, and where you stay changes your whole trip. Here's how the
 
 # Palermo: best for first-timers, food and nightlife
 
-The most popular base, and for good reason. Leafy streets, the city's best restaurants and bars, boutique hotels and the big parks of the **Bosques de Palermo**. **Palermo Soho** is the liveliest, **Palermo Hollywood** has more restaurants and **Palermo Chico** is quiet and elegant. It's also the best area for [street art](/posts/buenos-aires-street-art-guide/).
+The most popular base, and for good reason. Leafy streets, the city's best restaurants and bars, boutique hotels and the big parks of the **Bosques de Palermo** (see my [Bosques de Palermo guide](/posts/bosques-de-palermo-buenos-aires/)). **Palermo Soho** is the liveliest, **Palermo Hollywood** has more restaurants and **Palermo Chico** is quiet and elegant. It's also the best area for [street art](/posts/buenos-aires-street-art-guide/).
 
 **Good for:** first visits, foodies, nightlife, street art lovers.
 **Downside:** it's a bit far from the historic centre, but the subte (line D) and taxis make it easy.
@@ -93,7 +93,7 @@ Buenos Aires es enorme, y el lugar donde te alojás cambia todo el viaje. Acá v
 
 # Palermo: ideal para la primera vez, para comer y para salir
 
-La base más popular, y con razón. Calles arboladas, los mejores restaurantes y bares de la ciudad, hoteles boutique y los grandes parques de los **Bosques de Palermo**. **Palermo Soho** es el más animado, **Palermo Hollywood** tiene más restaurantes y **Palermo Chico** es tranquilo y elegante. También es la mejor zona para ver [arte urbano](/es/posts/buenos-aires-street-art-guide/).
+La base más popular, y con razón. Calles arboladas, los mejores restaurantes y bares de la ciudad, hoteles boutique y los grandes parques de los **Bosques de Palermo** (mirá mi [guía de los Bosques de Palermo](/es/posts/bosques-de-palermo-buenos-aires/)). **Palermo Soho** es el más animado, **Palermo Hollywood** tiene más restaurantes y **Palermo Chico** es tranquilo y elegante. También es la mejor zona para ver [arte urbano](/es/posts/buenos-aires-street-art-guide/).
 
 **Ideal para:** primera visita, amantes de la comida, salir de noche, fans del arte urbano.
 **Contra:** queda un poco lejos del centro histórico, pero con el subte (línea D) y taxis es fácil moverse.

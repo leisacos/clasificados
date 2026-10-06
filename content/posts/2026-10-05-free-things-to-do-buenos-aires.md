@@ -31,7 +31,7 @@ Buenos Aires is one of those cities where some of the best experiences cost noth
 
 # Parks and green spaces
 
-10. **Bosques de Palermo**: lakes, paddle boats and runners, with the **Rosedal** rose garden in the middle.
+10. **Bosques de Palermo**: lakes, paddle boats and runners, with the **Rosedal** rose garden in the middle. See my [Bosques de Palermo guide](/posts/bosques-de-palermo-buenos-aires/).
 11. **Reserva Ecológica Costanera Sur**: a nature reserve right next to downtown, with river views and birdlife.
 
 # Culture for free
@@ -84,7 +84,7 @@ Buenos Aires es una de esas ciudades donde algunas de las mejores experiencias n
 
 # Parques y espacios verdes
 
-10. **Bosques de Palermo**: lagos, botes a pedal y gente corriendo, con el **Rosedal** en el medio.
+10. **Bosques de Palermo**: lagos, botes a pedal y gente corriendo, con el **Rosedal** en el medio. Mirá mi [guía de los Bosques de Palermo](/es/posts/bosques-de-palermo-buenos-aires/).
 11. **Reserva Ecológica Costanera Sur**: una reserva natural pegada al centro, con vista al río y muchas aves.
 
 # Cultura gratis
