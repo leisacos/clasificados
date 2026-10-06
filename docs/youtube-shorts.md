@@ -12,6 +12,20 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
+## 2026-10-05 · Bosques de Palermo, Buenos Aires · https://www.instagram.com/reel/DeGLWj-Rg2d/
+- Story: /posts/bosques-de-palermo-buenos-aires/
+- YouTube ID: (pending)
+- Title EN: Sunday sunset at the Bosques de Palermo, Buenos Aires
+- Title ES: Atardecer de domingo en los Bosques de Palermo, Buenos Aires
+- Description:
+  Sunday sunset over the lakes of the Bosques de Palermo, the big green park in the north of Buenos Aires. Entry is free, and the best light is in the hour before sunset.
+  Full guide: https://theplacesnotfaces.com/posts/bosques-de-palermo-buenos-aires/
+
+  Atardecer de domingo sobre los lagos de los Bosques de Palermo, el gran parque verde del norte de Buenos Aires. La entrada es gratis y la mejor luz está en la hora antes de que se ponga el sol.
+  Guía completa: https://theplacesnotfaces.com/es/posts/bosques-de-palermo-buenos-aires/
+
+  #BuenosAires #Palermo #sunset
+
 ## 2026-09-21 · Barnafoss, West Iceland · https://www.instagram.com/reel/DdiL4-7xpc9/
 - Story: /posts/iceland-waterfalls-drone/
 - YouTube ID: UsqekS1Eob4 (embedded)
