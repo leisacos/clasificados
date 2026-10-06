@@ -12,6 +12,20 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
+## 2026-09-21 · Iceland · https://www.instagram.com/reel/DdiL4-7xpc9/
+- Story: /posts/iceland-waterfalls-drone/
+- YouTube ID: (pending)
+- Title EN: Iceland from above: a glacial river by drone
+- Title ES: Islandia desde el aire: un río glaciar visto con dron
+- Description:
+  Iceland looks even bigger from the air: turquoise glacial water cutting through dark volcanic rock. Planning to fly a drone there? Many national parks and protected areas restrict drones, so check the rules for each site first.
+  Full guide: https://theplacesnotfaces.com/posts/iceland-waterfalls-drone/
+
+  Islandia se ve todavía más grande desde el aire: agua glaciar turquesa abriéndose paso entre roca volcánica oscura. ¿Vas a volar un dron? Muchos parques nacionales y áreas protegidas lo restringen, así que revisá las reglas de cada lugar antes.
+  Guía completa: https://theplacesnotfaces.com/es/posts/iceland-waterfalls-drone/
+
+  #Iceland #drone #travel
+
 ## 2026-10-05 · Tasmania · Henty Dunes, Bonorong and Cataract Gorge
 - Story: /posts/things-to-do-in-tasmania/
 - YouTube ID: (pending)
