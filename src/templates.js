@@ -149,6 +149,7 @@ ${body}
     <div class="footer-links">
       <a href="${href(lang, '/destinations/')}">${e(s.destinations)}</a>
       <a href="${href(lang, '/travel-resources/')}">${e(s.resources)}</a>
+      <a href="${href(lang, '/work-with-me/')}">${e(s.workWithMe)}</a>
       <a href="${href(lang, '/disclosure/')}">${e(s.disclosure)}</a>
       <a href="${href(lang, '/privacy/')}">${e(s.privacy)}</a>
       <a href="${href(lang, '/feed.xml')}">${e(s.rss)}</a>
