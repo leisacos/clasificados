@@ -154,10 +154,49 @@ Nothing to do. When the GitHub Action downloads the new photos, it also creates
 tall Pinterest images for new stories. Pinterest then picks them up from
 `/pins.xml` and `/es/pins.xml`.
 
+## 7b. YouTube Shorts (channel: youtube.com/@theplacesnotfaces)
+
+Leiser uploads the Reels to YouTube as Shorts by hand (or with a scheduler).
+Your job is to have the title and description ready, and to embed the video on
+the site once it's live. Queue file: `docs/youtube-shorts.md`, newest first.
+
+1. **For every new `VIDEO` post** (whether it became a new story, updated an
+   existing one, or was only recorded in `media.json`), add a block at the top
+   of the queue:
+
+   ```markdown
+   ## YYYY-MM-DD · <place> · <Instagram permalink>
+   - Story: /posts/<slug>/   (or "none")
+   - YouTube ID: (pending)
+   - Title EN: <≤70 characters, main search phrase first, e.g. "Henty Dunes, Tasmania: giant sand dunes next to a rainforest">
+   - Title ES: <same idea in Spanish, ≤70 characters>
+   - Description:
+     <2–3 sentences in English: what and where, one useful fact from the story.>
+     Full guide: https://theplacesnotfaces.com/posts/<slug>/
+
+     <The same 2–3 sentences in Spanish (Rioplatense, vos).>
+     Guía completa: https://theplacesnotfaces.com/es/posts/<slug>/
+
+     #<Place> #<Country> #travel
+   ```
+
+   Same accuracy rules as section 5f: only facts from the caption or the
+   story, hedge anything that changes often. With no story, link the closest
+   guide or the home page. YouTube allows one title, so Leiser picks EN or ES
+   depending on the video's on-screen language.
+2. **Embed videos that are live.** For every queue block whose `YouTube ID` is
+   filled in (an 11-character ID such as `dQw4w9WgXcQ` from the Shorts URL)
+   and whose story doesn't have it yet, add `youtube: <id>` to that story's
+   front matter. The site shows the video near the top of the story in both
+   languages. Then set the queue line to `YouTube ID: <id> (embedded)`.
+3. If the Windsor.ai `youtube` connector is connected, you can find the IDs
+   yourself: match the new Shorts' titles to queue blocks.
+
 ## 8. Report
 
 **On days with new posts**, end with a short summary: which posts were new, what became a story (with its
-target English and Spanish search phrases), which stories were updated, and
+target English and Spanish search phrases), which stories were updated, which
+YouTube Shorts are ready to upload (title EN/ES, from section 7b), and
 anything that needs Leiser's input (for example a post with an unclear
 location, or a personal detail only Leiser knows that would make the story
 stronger).

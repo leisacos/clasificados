@@ -12,6 +12,8 @@ function createTemplates(config, aff) {
   const defaultLang = langs[0];
   const ig = config.instagram && config.instagram.handle;
   const igUrl = ig ? `https://www.instagram.com/${ig}/` : '';
+  const yt = config.youtube && config.youtube.handle;
+  const ytUrl = yt ? `https://www.youtube.com/@${yt}` : '';
 
   // Site-relative URL for a language: href('es', '/posts/x/') -> /es/posts/x/
   const href = (lang, p) => `${base}${config.languages[lang].prefix}${p}`;
@@ -32,6 +34,13 @@ function createTemplates(config, aff) {
     const used = [...md.matchAll(/^\{\{\s*([a-z]+)/gm)].map((m) => m[1]);
     const pick = [...used, 'tours', 'hotels', 'flights'].filter((k) => aff.ALL_KINDS.includes(k) && !['insurance', 'esim'].includes(k));
     return [...new Set(pick)].slice(0, 3);
+  }
+
+  // Privacy-friendly YouTube embed (youtube-nocookie), lazy-loaded. Shorts are
+  // vertical by default; pass wide=true for a regular 16:9 video.
+  function youtubeEmbed(id, title, lang, wide = false) {
+    if (!/^[\w-]{6,20}$/.test(id || '')) return '';
+    return `<figure class="yt-embed${wide ? ' yt-wide' : ''}"><iframe src="https://www.youtube-nocookie.com/embed/${id}" title="${e(title || strings(lang).videoTitle)}" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></figure>`;
   }
 
   function guideLink(p, lang) {
@@ -133,6 +142,7 @@ ${other.map((l) => `<div class="lang-banner" data-banner-lang="${l}" lang="${l}"
       <a href="${href(lang, '/travel-resources/')}">${e(s.resources)}</a>
       <a href="${href(lang, '/about/')}">${e(s.about)}</a>
       ${igUrl ? `<a class="nav-ig" href="${igUrl}" target="_blank" rel="noopener">@${e(ig)}</a>` : ''}
+      ${ytUrl ? `<a class="nav-yt" href="${ytUrl}" target="_blank" rel="noopener">YouTube</a>` : ''}
     </nav>
   </div>
 </header>
@@ -145,6 +155,7 @@ ${body}
       <p class="logo">${logoMark(base)}<span>${logoText(siteTitle)}</span></p>
       <p>${e(site('tagline', lang))}</p>
       ${igUrl ? `<p><a href="${igUrl}" target="_blank" rel="noopener">${e(fill(s.followOn, { handle: ig }))}</a></p>` : ''}
+      ${ytUrl ? `<p><a href="${ytUrl}" target="_blank" rel="noopener">${e(s.watchOnYoutube)}</a></p>` : ''}
     </div>
     <div class="footer-links">
       <a href="${href(lang, '/destinations/')}">${e(s.destinations)}</a>
@@ -234,7 +245,7 @@ ${igStrip(media, lang)}
       body,
       jsonLd: {
         '@context': 'https://schema.org', '@type': 'Blog', name: site('title', lang), url: abs(lang, '/'), description: site('description', lang), inLanguage: lang,
-        publisher: { '@type': 'Organization', name: site('title', lang), logo: { '@type': 'ImageObject', url: `${config.url}/brand/icon-512.png` } },
+        publisher: { '@type': 'Organization', name: site('title', lang), logo: { '@type': 'ImageObject', url: `${config.url}/brand/icon-512.png` }, sameAs: [igUrl, ytUrl].filter(Boolean) },
       },
     });
   }
@@ -279,6 +290,7 @@ ${igStrip(media, lang)}
         <p class="quick-book-title"><strong>${e(ctx.place ? fill(s.planYourTripTo, { where: ctx.place }) : s.planYourTrip)}</strong></p>
         <div class="cta-grid">${quickKinds(p, lang).map((k) => aff.button(k, ctx, lang)).join('')}</div>
       </div>
+      ${p.youtube && !/\{\{\s*youtube/.test(p.bodies[lang] || p.bodies[defaultLang] || '') ? youtubeEmbed(p.youtube, loc(p, 'title', lang), lang) : ''}
       ${html}
       <div class="share-row">${pinButton(p, lang)}</div>
       ${p.tags && p.tags.length ? `<p class="tags">${p.tags.map((t) => `<span>#${e(t)}</span>`).join(' ')}</p>` : ''}
@@ -389,7 +401,7 @@ ${extra}`;
     });
   }
 
-  return { home, post, destinationsIndex, destination, page, resourcesExtra, notFound, href, abs };
+  return { youtubeEmbed, home, post, destinationsIndex, destination, page, resourcesExtra, notFound, href, abs };
 }
 
 module.exports = { createTemplates };

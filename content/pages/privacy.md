@@ -9,7 +9,7 @@ This site doesn't ask you to create an account and doesn't collect personal data
 
 To understand which pages are useful, the site uses **Cloudflare Web Analytics**, which counts visits without cookies and without tracking you across other sites.
 
-Affiliate partners (via Travelpayouts and Impact.com) and embedded Instagram posts may set cookies to attribute bookings and display content. These cookies are covered by those providers' own privacy policies.
+Affiliate partners (via Travelpayouts and Impact.com) and embedded Instagram posts and YouTube videos may set cookies to attribute bookings and display content. These cookies are covered by those providers' own privacy policies.
 
 Questions? Send me a message on [Instagram](https://www.instagram.com/laser_2017_/).
 
@@ -19,6 +19,6 @@ Este sitio no te pide crear una cuenta y no recopila datos personales directamen
 
 Para saber qué páginas son útiles, el sitio usa **Cloudflare Web Analytics**, que cuenta visitas sin cookies y sin seguirte en otros sitios.
 
-Los socios afiliados (a través de Travelpayouts e Impact.com) y las publicaciones de Instagram integradas pueden usar cookies para atribuir reservas y mostrar contenido. Esas cookies se rigen por las políticas de privacidad de cada proveedor.
+Los socios afiliados (a través de Travelpayouts e Impact.com) y las publicaciones de Instagram y los videos de YouTube integrados pueden usar cookies para atribuir reservas y mostrar contenido. Esas cookies se rigen por las políticas de privacidad de cada proveedor.
 
 ¿Preguntas? Escribime por [Instagram](https://www.instagram.com/laser_2017_/).

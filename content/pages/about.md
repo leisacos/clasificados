@@ -21,6 +21,8 @@ Instagram only has room for a photo and a caption. This blog is where I share th
 
 The booking links on this site are the tools I actually use. If you book through them, I may earn a small commission at no extra cost to you, and it helps keep this blog running. [More about that here](/disclosure/).
 
+The videos are also on YouTube at [@theplacesnotfaces](https://www.youtube.com/@theplacesnotfaces).
+
 Got a question about a place I've been? Send me a message on [Instagram](https://www.instagram.com/laser_2017_/).
 
 :::es
@@ -40,5 +42,7 @@ En Instagram solo entran una foto y un texto corto. Este blog es donde comparto 
 - Comparo vuelos y hoteles antes de reservar, y nunca viajo sin **seguro y eSIM**
 
 Los enlaces de reserva de este sitio son las herramientas que realmente uso. Si reservás a través de ellos, puedo ganar una pequeña comisión sin costo extra para vos, y eso ayuda a mantener el blog. [Más información acá](/es/disclosure/).
+
+Los videos también están en YouTube, en [@theplacesnotfaces](https://www.youtube.com/@theplacesnotfaces).
 
 ¿Tenés una pregunta sobre algún lugar donde estuve? Escribime por [Instagram](https://www.instagram.com/laser_2017_/).

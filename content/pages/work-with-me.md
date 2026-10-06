@@ -9,7 +9,7 @@ description_es: "Media kit de Lugares, no caras: audiencia, contenido y formas d
 
 <img class="brand-hero" src="/brand/logo-full.jpg" alt="Places, Not Faces logo: a hot-air balloon inside a camera viewfinder" width="1202" height="1034">
 
-**Places, Not Faces** is a bilingual (English and Spanish) travel project by **Leiser**: Instagram Reels at [@laser_2017_](https://www.instagram.com/laser_2017_/), plus practical travel guides on this website. The idea is simple: show the **place**, not the selfie, so your destination is the star.
+**Places, Not Faces** is a bilingual (English and Spanish) travel project by **Leiser**: Instagram Reels at [@laser_2017_](https://www.instagram.com/laser_2017_/), YouTube Shorts at [@theplacesnotfaces](https://www.youtube.com/@theplacesnotfaces), plus practical travel guides on this website. The idea is simple: show the **place**, not the selfie, so your destination is the star.
 
 <div class="kit-stats"><div><strong>1,127</strong><span>Instagram followers</span></div><div><strong>108.8K</strong><span>Reel views in 30 days</span></div><div><strong>64</strong><span>countries visited</span></div><div><strong>EN + ES</strong><span>every guide in both languages</span></div></div>
 
@@ -17,7 +17,7 @@ description_es: "Media kit de Lugares, no caras: audiencia, contenido y formas d
 
 # What I create
 
-- **Instagram Reels** with on-screen place names and facts, filmed and edited by me
+- **Instagram Reels and YouTube Shorts** with on-screen place names and facts, filmed and edited by me
 - **A full travel guide on this website** in English and Spanish: how to get there, what to do, where to stay and FAQs, written to rank on Google and Pinterest. It keeps bringing readers long after a post leaves the feed.
 - **Pinterest pins** for the guide, linking back to it
 - **Photos and drone footage** you can reuse (licence agreed per project)
@@ -45,7 +45,7 @@ Email me at [hola@theplacesnotfaces.com](mailto:hola@theplacesnotfaces.com) or s
 
 <img class="brand-hero" src="/brand/logo-full.jpg" alt="Logo de Lugares, no caras: un globo aerostático dentro de un visor de cámara" width="1202" height="1034">
 
-**Lugares, no caras** es un proyecto de viajes bilingüe (español e inglés) de **Leiser**: Reels en Instagram en [@laser_2017_](https://www.instagram.com/laser_2017_/) y guías de viaje prácticas en este sitio. La idea es simple: mostrar el **lugar**, no la selfie, para que tu destino sea el protagonista.
+**Lugares, no caras** es un proyecto de viajes bilingüe (español e inglés) de **Leiser**: Reels en Instagram en [@laser_2017_](https://www.instagram.com/laser_2017_/), Shorts en YouTube en [@theplacesnotfaces](https://www.youtube.com/@theplacesnotfaces) y guías de viaje prácticas en este sitio. La idea es simple: mostrar el **lugar**, no la selfie, para que tu destino sea el protagonista.
 
 <div class="kit-stats"><div><strong>1.127</strong><span>seguidores en Instagram</span></div><div><strong>108,8 mil</strong><span>vistas de Reels en 30 días</span></div><div><strong>64</strong><span>países visitados</span></div><div><strong>ES + EN</strong><span>cada guía en los dos idiomas</span></div></div>
 
@@ -53,7 +53,7 @@ Email me at [hola@theplacesnotfaces.com](mailto:hola@theplacesnotfaces.com) or s
 
 # Qué creo
 
-- **Reels de Instagram** con nombres de lugares y datos en pantalla, filmados y editados por mí
+- **Reels de Instagram y Shorts de YouTube** con nombres de lugares y datos en pantalla, filmados y editados por mí
 - **Una guía de viaje completa en este sitio**, en español e inglés: cómo llegar, qué hacer, dónde alojarse y preguntas frecuentes, escrita para posicionar en Google y Pinterest. Sigue trayendo lectores mucho después de que el post deja de aparecer en el feed.
 - **Pines de Pinterest** de la guía, con link a ella
 - **Fotos y tomas de dron** que podés reutilizar (la licencia se acuerda en cada proyecto)

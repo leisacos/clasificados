@@ -92,6 +92,7 @@ function shortcodesFor(post, lang) {
     if (name === 'instagram') return instagramEmbeds(arg ? arg.split(/[\s,]+/).filter(Boolean) : post.instagram);
     if (aff.ALL_KINDS.includes(name)) return `<div class="inline-cta">${aff.button(name, local, lang)}</div>`;
     if (name === 'widget') return aff.widget(arg || 'flights', lang);
+    if (name === 'youtube') { const [id, fmt] = (arg || post.youtube || '').split(/\s+/); return t.youtubeEmbed(id, loc(post, 'title', lang), lang, fmt === 'wide'); }
     return '';
   };
 }
