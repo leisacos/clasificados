@@ -10,6 +10,8 @@ excerpt: "Iceland's waterfalls look even bigger from the air. What to know about
 excerpt_es: "Las cascadas de Islandia se ven todavía más grandes desde el aire. Lo que hay que saber para volar un drone y cómo planear un road trip por la Costa Sur."
 tags: [iceland, waterfalls, dronephotography, nature]
 instagram: [DdkklSWxQLk, DdiL4-7xpc9]
+youtube: UsqekS1Eob4
+updated: 2026-10-06
 ---
 
 Some places are big. **Iceland is huge**, and you only really feel it from the air. Waterfalls dropping off cliffs, black-sand rivers and green valleys that go on forever.
@@ -28,6 +30,17 @@ Some places are big. **Iceland is huge**, and you only really feel it from the a
 4. **Jökulsárlón** glacier lagoon and Diamond Beach
 
 {{tours}}
+
+# Barnafoss and Hraunfossar, West Iceland
+
+{{youtube}}
+
+In **Borgarfjörður**, roughly a two-hour drive north of Reykjavík, two waterfalls sit side by side on the glacial **Hvítá** river:
+
+- **Hraunfossar** ("lava falls"): dozens of small streams pour straight out of the **Hallmundarhraun** lava field into the turquoise river.
+- **Barnafoss** ("children's falls"): a short walk upstream, the river squeezes through a narrow rocky channel. Its name comes from a legend of two children who fell from a natural stone arch that once crossed the river here.
+
+There are viewing platforms and short paths between the two. Stay on them: the rocks are slippery and the water is fast and cold. It's an easy add-on to a trip to the Golden Circle or to the Snæfellsnes peninsula.
 
 # Getting there and around
 
@@ -63,6 +76,17 @@ Hay lugares grandes. **Islandia es enorme**, y eso se siente de verdad desde el 
 4. La laguna glaciar **Jökulsárlón** y la Diamond Beach
 
 {{tours}}
+
+# Barnafoss y Hraunfossar, oeste de Islandia
+
+{{youtube}}
+
+En **Borgarfjörður**, a unas dos horas en auto al norte de Reikiavik, hay dos cascadas una al lado de la otra sobre el río glaciar **Hvítá**:
+
+- **Hraunfossar** ("cascadas de lava"): decenas de arroyitos salen directamente del campo de lava **Hallmundarhraun** y caen al río turquesa.
+- **Barnafoss** ("la cascada de los chicos"): a pocos pasos río arriba, el agua se mete en un canal de roca angosto. Su nombre viene de la leyenda de dos chicos que cayeron desde un arco de piedra natural que antes cruzaba el río.
+
+Hay miradores y senderos cortos entre las dos. No te salgas de ellos: las rocas resbalan y el agua es rápida y helada. Es fácil sumarlas a un viaje al Círculo Dorado o a la península de Snæfellsnes.
 
 # Cómo llegar y moverse
 

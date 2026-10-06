@@ -14,7 +14,7 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ## 2026-09-21 · Barnafoss, West Iceland · https://www.instagram.com/reel/DdiL4-7xpc9/
 - Story: /posts/iceland-waterfalls-drone/
-- YouTube ID: (pending)
+- YouTube ID: UsqekS1Eob4 (embedded)
 - Title EN: Barnafoss, Iceland from above: the waterfall of the lost children
 - Title ES: Barnafoss, Islandia desde el aire: la cascada de los chicos perdidos
 - Description:
