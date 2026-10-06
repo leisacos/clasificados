@@ -46,6 +46,9 @@ const STRINGS = {
     langOfferCta: 'Read in English',
     viaBrand: 'via {brand}',
     savePin: 'Save to Pinterest',
+    startHere: 'Start here: my most useful guides',
+    bookYourTrip: 'Book your trip',
+    bookYourTripText: 'The sites I use to plan my trips, at no extra cost to you.',
     cta: {
       flights: ['Search flights', 'Flights to {where}'],
       hotels: ['Find hotels', 'Hotels in {where}'],
@@ -101,6 +104,9 @@ const STRINGS = {
     langOfferCta: 'Leer en español',
     viaBrand: 'con {brand}',
     savePin: 'Guardar en Pinterest',
+    startHere: 'Empezá por acá: mis guías más útiles',
+    bookYourTrip: 'Reservá tu viaje',
+    bookYourTripText: 'Los sitios que uso para planear mis viajes, sin costo extra para vos.',
     cta: {
       flights: ['Buscar vuelos', 'Vuelos a {where}'],
       hotels: ['Buscar hoteles', 'Hoteles en {where}'],

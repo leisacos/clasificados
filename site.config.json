@@ -23,6 +23,8 @@
     "_help": "Paste the content value of Pinterest's <meta name=\"p:domain_verify\"> tag here to claim the site (or verify with a DNS TXT record in Cloudflare instead).",
     "verify": ""
   },
+  "_startHere_help": "Guides shown at the top of the home page (post slugs, in order). Visitors from the Instagram bio land on the home page, so these are their first click.",
+  "startHere": ["things-to-do-in-tasmania", "free-things-to-do-buenos-aires", "where-to-stay-buenos-aires", "day-trips-from-santiago-chile"],
   "instagram": {
     "handle": "laser_2017_",
     "embedPosts": true

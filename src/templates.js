@@ -25,7 +25,23 @@ function createTemplates(config, aff) {
   const place = (p, lang) => [loc(p, 'city', lang), loc(p, 'country', lang)].filter(Boolean).join(', ');
   const ctxFor = (p, lang) => ({ city: p.city, country: p.country, iata: p.iata, place: loc(p, 'city', lang) || loc(p, 'country', lang) });
 
-  // "Places, Not Faces" -> "Places, <em>Not Faces</em>" (accent colour on the second half)
+  // Top-of-story booking buttons: the kinds the story itself uses, in order,
+  // topped up with tours / hotels / flights. Insurance and eSIM stay in the sidebar.
+  function quickKinds(p, lang) {
+    const md = p.bodies[lang] || p.bodies[defaultLang] || '';
+    const used = [...md.matchAll(/^\{\{\s*([a-z]+)/gm)].map((m) => m[1]);
+    const pick = [...used, 'tours', 'hotels', 'flights'].filter((k) => aff.ALL_KINDS.includes(k) && !['insurance', 'esim'].includes(k));
+    return [...new Set(pick)].slice(0, 3);
+  }
+
+  function guideLink(p, lang) {
+    return `<a class="guide-link" href="${href(lang, `/posts/${p.slug}/`)}">
+    <span class="guide-thumb">${cover(p, 'guide-img', lang)}</span>
+    <span class="guide-text">${p.country ? `<span class="kicker">${e(place(p, lang))}</span>` : ''}<strong>${e(loc(p, 'title', lang))}</strong></span>
+  </a>`;
+  }
+
+  // "Places, Not Faces" -> ""Places, <em>Not Faces</em>" (accent colour on the second half)
   function logoText(title) {
     const i = title.indexOf(',');
     return i < 0 ? e(title) : `${e(title.slice(0, i + 1))} <em>${e(title.slice(i + 1).trim())}</em>`;
@@ -160,6 +176,7 @@ ${body}
     const s = strings(lang);
     const [featured, ...rest] = posts;
     const flightsWidget = aff.widget('flights', lang);
+    const guides = (config.startHere || []).map((slug) => posts.find((p) => p.slug === slug)).filter(Boolean);
     const body = `
 <section class="hero">
   <div class="wrap hero-inner">
@@ -170,6 +187,14 @@ ${body}
       <a class="btn" href="${href(lang, '/destinations/')}">${e(s.exploreDestinations)}</a>
       ${igUrl ? `<a class="btn btn-ghost" href="${igUrl}" target="_blank" rel="noopener">${e(s.seeOnInstagram)}</a>` : ''}
     </div>
+  </div>
+</section>
+<section class="wrap start-here">
+  ${guides.length ? `<h2 class="section-title">${e(s.startHere)}</h2>
+  <div class="guide-list">${guides.map((p) => guideLink(p, lang)).join('')}</div>` : ''}
+  <div class="quick-book">
+    <p class="quick-book-title"><strong>${e(s.bookYourTrip)}</strong> <span>${e(s.bookYourTripText)}</span></p>
+    <div class="cta-grid">${['tours', 'cars', 'flights', 'esim'].map((k) => aff.button(k, {}, lang)).join('')}</div>
   </div>
 </section>
 ${featured ? `
@@ -184,11 +209,10 @@ ${featured ? `
     </div>
   </a>
 </section>` : ''}
-<section class="wrap"><div class="search-panel">
+${flightsWidget ? `<section class="wrap"><div class="search-panel">
   <h2>${e(s.whereNext)}</h2>
-  ${flightsWidget || `<p>${e(s.whereNextText)}</p>
-  <div class="cta-grid">${['flights', 'hotels', 'tours'].map((k) => aff.button(k, {}, lang)).join('')}</div>`}
-</div></section>
+  ${flightsWidget}
+</div></section>` : ''}
 ${rest.length ? `
 <section class="wrap">
   <h2 class="section-title">${e(s.moreStories)}</h2>
@@ -250,6 +274,10 @@ ${igStrip(media, lang)}
     <div class="prose">
       <p class="disclosure-note">${e(s.affiliateNote)} <a href="${href(lang, '/disclosure/')}">${e(s.learnMore)}</a>.</p>
       ${translated ? '' : `<p class="notice">${e(s.notTranslated)}</p>`}
+      <div class="quick-book quick-book-post">
+        <p class="quick-book-title"><strong>${e(ctx.place ? fill(s.planYourTripTo, { where: ctx.place }) : s.planYourTrip)}</strong></p>
+        <div class="cta-grid">${quickKinds(p, lang).map((k) => aff.button(k, ctx, lang)).join('')}</div>
+      </div>
       ${html}
       <div class="share-row">${pinButton(p, lang)}</div>
       ${p.tags && p.tags.length ? `<p class="tags">${p.tags.map((t) => `<span>#${e(t)}</span>`).join(' ')}</p>` : ''}
