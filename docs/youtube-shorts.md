@@ -12,19 +12,19 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
-## 2026-09-21 · Iceland · https://www.instagram.com/reel/DdiL4-7xpc9/
+## 2026-09-21 · Barnafoss, West Iceland · https://www.instagram.com/reel/DdiL4-7xpc9/
 - Story: /posts/iceland-waterfalls-drone/
 - YouTube ID: (pending)
-- Title EN: Iceland from above: a glacial river by drone
-- Title ES: Islandia desde el aire: un río glaciar visto con dron
+- Title EN: Barnafoss, Iceland from above: the waterfall of the lost children
+- Title ES: Barnafoss, Islandia desde el aire: la cascada de los chicos perdidos
 - Description:
-  Iceland looks even bigger from the air: turquoise glacial water cutting through dark volcanic rock. Planning to fly a drone there? Many national parks and protected areas restrict drones, so check the rules for each site first.
+  Barnafoss ("children's falls") in Borgarfjörður, West Iceland, filmed by drone. It's named after a legend of two children who fell from a natural stone arch over the river. It sits right next to Hraunfossar, so you can see both on the same stop.
   Full guide: https://theplacesnotfaces.com/posts/iceland-waterfalls-drone/
 
-  Islandia se ve todavía más grande desde el aire: agua glaciar turquesa abriéndose paso entre roca volcánica oscura. ¿Vas a volar un dron? Muchos parques nacionales y áreas protegidas lo restringen, así que revisá las reglas de cada lugar antes.
+  Barnafoss ("la cascada de los chicos") en Borgarfjörður, oeste de Islandia, filmada con dron. Su nombre viene de la leyenda de dos chicos que cayeron desde un arco de piedra natural sobre el río. Está al lado de Hraunfossar, así que podés ver las dos en la misma parada.
   Guía completa: https://theplacesnotfaces.com/es/posts/iceland-waterfalls-drone/
 
-  #Iceland #drone #travel
+  #Barnafoss #Iceland #drone
 
 ## 2026-10-05 · Tasmania · Henty Dunes, Bonorong and Cataract Gorge
 - Story: /posts/things-to-do-in-tasmania/
