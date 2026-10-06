@@ -37,7 +37,7 @@ Australia (Sydney and Tasmania), Argentina, Chile, Japan, South Korea, Greece, t
 
 # Let's talk
 
-Send me a message on Instagram at [@laser_2017_](https://www.instagram.com/laser_2017_/) with your destination or idea, dates and what you have in mind. I reply to every brand message.
+Email me at [hola@theplacesnotfaces.com](mailto:hola@theplacesnotfaces.com) or send a message on Instagram at [@laser_2017_](https://www.instagram.com/laser_2017_/) with your destination or idea, dates and what you have in mind. I reply to every brand message.
 
 :::es
 
@@ -73,4 +73,4 @@ Australia (Sídney y Tasmania), Argentina, Chile, Japón, Corea del Sur, Grecia,
 
 # Hablemos
 
-Mandame un mensaje por Instagram a [@laser_2017_](https://www.instagram.com/laser_2017_/) con tu destino o idea, las fechas y lo que tenés en mente. Respondo todos los mensajes de marcas.
+Escribime a [hola@theplacesnotfaces.com](mailto:hola@theplacesnotfaces.com) o mandame un mensaje por Instagram a [@laser_2017_](https://www.instagram.com/laser_2017_/) con tu destino o idea, las fechas y lo que tenés en mente. Respondo todos los mensajes de marcas.
