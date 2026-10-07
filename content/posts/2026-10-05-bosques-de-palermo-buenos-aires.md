@@ -9,7 +9,8 @@ cover: "ig:DeGLWj-Rg2d"
 excerpt: "Visiting the Bosques de Palermo in Buenos Aires? How to get there, the best time for the lakes at sunset, what to see nearby and where to stay in Palermo."
 excerpt_es: "¿Vas a los Bosques de Palermo en Buenos Aires? Cómo llegar, a qué hora ir para ver el atardecer en el lago, qué hay cerca y dónde alojarte en Palermo."
 tags: [buenosaires, palermo, argentina, sunset, guide]
-instagram: [DeGLWj-Rg2d]
+instagram: [DeGLWj-Rg2d, DeKNTI6xBP2]
+updated: 2026-10-07
 youtube: eNm3ZfxSq4w
 ---
 

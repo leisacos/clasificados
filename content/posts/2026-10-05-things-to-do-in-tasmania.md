@@ -9,7 +9,8 @@ cover: "/images/tasmania-cataract-gorge.jpg"
 excerpt: "Three things to do in Tasmania I'd do again: the Henty Dunes near Strahan, Tasmanian devils at Bonorong and Launceston's Cataract Gorge. With a road-trip route."
 excerpt_es: "Tres cosas para hacer en Tasmania que repetiría: las dunas de Henty en Strahan, los demonios de Bonorong y Cataract Gorge en Launceston. Con ruta en auto."
 tags: [tasmania, australia, roadtrip, wildlife, guide]
-instagram: []
+instagram: [DeK18snCNBP, DeIlRwNxzVN]
+updated: 2026-10-07
 ---
 
 Tasmania is Australia's wild island state: rainforest, empty beaches, mountains and animals you won't see anywhere else. These are **three things to do in Tasmania** that I filmed on my trip, and that I'd happily do again: giant sand dunes on the west coast, Tasmanian devils up close, and a river gorge right on the edge of a city.
@@ -39,7 +40,7 @@ On the wild west coast, about 15 minutes' drive north of **Strahan**, the **Hent
 
 The **Tasmanian devil** is the world's largest carnivorous marsupial, and in the wild it's found only in Tasmania. Wild populations have been hit hard by a contagious facial tumour disease, which is why sanctuaries play a big part in protecting them.
 
-**Bonorong Wildlife Sanctuary**, about 30 minutes north of **Hobart**, is a rescue and rehabilitation sanctuary. You can see devils feeding (they're loud, messy and fascinating), meet wombats and feed kangaroos. Check their website for feeding times, guided tours and current prices before you go.
+**Bonorong Wildlife Sanctuary**, about 30 minutes north of **Hobart**, is a rescue and rehabilitation sanctuary. You can see devils feeding (they're loud, messy and fascinating, and yes, they're *really* loud), meet wombats and feed kangaroos. Check their website for feeding times, guided tours and current prices before you go.
 
 # 3. Cataract Gorge, Launceston
 
@@ -123,7 +124,7 @@ En la costa oeste, a unos 15 minutos en auto al norte de **Strahan**, las **Hent
 
 El **demonio de Tasmania** es el marsupial carnívoro más grande del mundo, y en estado salvaje solo vive en Tasmania. Las poblaciones salvajes sufrieron mucho por una enfermedad contagiosa de tumores faciales, por eso los santuarios cumplen un rol clave en su protección.
 
-**Bonorong Wildlife Sanctuary**, a unos 30 minutos al norte de **Hobart**, es un santuario de rescate y rehabilitación. Podés ver a los demonios comer (son ruidosos, desprolijos y fascinantes), conocer wombats y darles de comer a los canguros. Revisá su sitio web para ver horarios de alimentación, tours guiados y precios actuales antes de ir.
+**Bonorong Wildlife Sanctuary**, a unos 30 minutos al norte de **Hobart**, es un santuario de rescate y rehabilitación. Podés ver a los demonios comer (son ruidosos, desprolijos y fascinantes, y sí, hacen mucho ruido), conocer wombats y darles de comer a los canguros. Revisá su sitio web para ver horarios de alimentación, tours guiados y precios actuales antes de ir.
 
 # 3. Cataract Gorge, Launceston
 

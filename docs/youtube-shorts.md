@@ -12,6 +12,34 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
+## 2026-10-06 · Bosques de Palermo, Buenos Aires · https://www.instagram.com/reel/DeKNTI6xBP2/
+- Story: /posts/bosques-de-palermo-buenos-aires/
+- YouTube ID: (pending)
+- Title EN: Bosques de Palermo, Buenos Aires: a beautiful sunset by the lakes
+- Title ES: Bosques de Palermo, Buenos Aires: un atardecer hermoso junto a los lagos
+- Description:
+  Another sunset at the Bosques de Palermo, the big public park in Buenos Aires. Entry is free, and it's worth arriving well before sunset to find a spot by the water.
+  Full guide: https://theplacesnotfaces.com/posts/bosques-de-palermo-buenos-aires/
+
+  Otro atardecer en los Bosques de Palermo, el gran parque público de Buenos Aires. La entrada es gratis y conviene llegar bastante antes de que se ponga el sol para encontrar lugar junto al agua.
+  Guía completa: https://theplacesnotfaces.com/es/posts/bosques-de-palermo-buenos-aires/
+
+  #BuenosAires #Palermo #sunset
+
+## 2026-10-06 · Tasmania · 3 places to go back to · https://www.instagram.com/reel/DeIlRwNxzVN/
+- Story: /posts/things-to-do-in-tasmania/
+- YouTube ID: (pending)
+- Title EN: 3 things to do in Tasmania: Henty Dunes, devils, Cataract Gorge
+- Title ES: 3 cosas para hacer en Tasmania: dunas, demonios y Cataract Gorge
+- Description:
+  Henty Dunes near Strahan (dunes up to ~30 m next to the rainforest), Tasmanian devils at Bonorong Sanctuary near Hobart, and Cataract Gorge, a short walk from Launceston's centre.
+  Full guide: https://theplacesnotfaces.com/posts/things-to-do-in-tasmania/
+
+  Las dunas de Henty cerca de Strahan (de hasta unos 30 m, junto a la selva), los demonios de Tasmania en Bonorong cerca de Hobart y Cataract Gorge, a pocos minutos a pie del centro de Launceston.
+  Guía completa: https://theplacesnotfaces.com/es/posts/things-to-do-in-tasmania/
+
+  #Tasmania #Australia #travel
+
 ## 2026-10-05 · Bosques de Palermo, Buenos Aires · https://www.instagram.com/reel/DeGLWj-Rg2d/
 - Story: /posts/bosques-de-palermo-buenos-aires/
 - YouTube ID: eNm3ZfxSq4w (embedded)
