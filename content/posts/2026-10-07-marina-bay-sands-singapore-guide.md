@@ -27,7 +27,7 @@ Three towers holding up what looks like a ship floating about 200 metres in the 
 # What to do at Marina Bay
 
 ## The SkyPark Observation Deck
-The deck at the top of the towers has one of the best views of the city: the bay, the financial district and the gardens below. It's a paid ticket. The famous **infinity pool is for hotel guests only**, so you can see it from the deck at most, not swim in it.
+I went up to the SkyPark on my trip, and it's the spot that shows you the whole of Marina Bay at once: the water, the financial district and Gardens by the Bay right below. It's a paid ticket. The famous **infinity pool is for hotel guests only**, so you can see it from the deck at most, not swim in it.
 
 ## Spectra, the free light and water show
 Most evenings, **Spectra** fills the waterfront in front of the Marina Bay Sands mall with lasers, fountains and music. It's free and you just turn up at the Event Plaza. Show times change, so check the current schedule before you go.
@@ -104,7 +104,7 @@ Tres torres que sostienen lo que parece un barco flotando a unos 200 metros de a
 # Qué hacer en Marina Bay
 
 ## El mirador del SkyPark
-El mirador en la parte de arriba de las torres tiene una de las mejores vistas de la ciudad: la bahía, el centro financiero y los jardines abajo. La entrada se paga. La famosa **pileta infinita es solo para huéspedes del hotel**, así que desde el mirador como mucho la ves, no te podés meter.
+En mi viaje subí al SkyPark, y es el lugar desde donde ves toda Marina Bay de una vez: el agua, el centro financiero y Gardens by the Bay justo abajo. La entrada se paga. La famosa **pileta infinita es solo para huéspedes del hotel**, así que desde el mirador como mucho la ves, no te podés meter.
 
 ## Spectra, el show gratis de luces y agua
 Casi todas las noches, **Spectra** llena la costanera frente al shopping de Marina Bay Sands con láseres, fuentes y música. Es gratis y solo tenés que ir a la Event Plaza. Los horarios cambian, así que revisá el cronograma actual antes de ir.
