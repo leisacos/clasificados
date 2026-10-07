@@ -43,6 +43,8 @@ In Tokyo, **Shinjuku** and **Shibuya** are lively and well connected, and **Asak
 
 {{hotels}}
 
+Combining Japan with more of Asia? See my guide to [Marina Bay Sands and Marina Bay in Singapore](/posts/marina-bay-sands-singapore-guide/).
+
 {{plan}}
 
 :::es
@@ -77,5 +79,7 @@ Tokio tiene dos aeropuertos: **Haneda (HND)**, más cerca de la ciudad, y **Nari
 En Tokio, **Shinjuku** y **Shibuya** son animados y están bien conectados, y **Asakusa** es más tranquilo y tradicional. En Kioto, alojate cerca de **Gion** o de la **estación de Kioto**, y date el gusto de pasar al menos una noche en un **ryokan**.
 
 {{hotels}}
+
+¿Sumás más de Asia al viaje? Mirá mi guía de [Marina Bay Sands y la bahía de Singapur](/es/posts/marina-bay-sands-singapore-guide/).
 
 {{plan}}
