@@ -75,6 +75,8 @@ Seen from above, the **Guggenheim Museum Bilbao** looks like a ship of silver cu
 
 About half an hour's drive north of Bilbao, in **Gatika**, **Castillo de Butrón** looks like something out of a fairytale: towers, battlements and turrets in the middle of a forest. Its origins are medieval, but its current look dates from the 19th century, when it was rebuilt in a romantic neo-Gothic style. It's privately owned and has been closed to visitors for years, so check the current situation before you go. You can still see it from the surrounding area.
 
+{{youtube HLwuw5GKI0I}}
+
 {{cars}}
 
 # Where to stay in Bilbao
@@ -164,6 +166,8 @@ Visto desde arriba, el **Museo Guggenheim Bilbao** parece un barco de curvas pla
 ![El Castillo de Butrón en Gatika, rodeado de bosque](/images/butron-castle.jpg)
 
 A una media hora en auto al norte de Bilbao, en **Gatika**, el **Castillo de Butrón** parece salido de un cuento: torres, almenas y torreones en medio del bosque. Tiene origen medieval, pero su aspecto actual es del siglo XIX, cuando lo reconstruyeron en un estilo neogótico romántico. Es de propiedad privada y lleva años cerrado a las visitas, así que revisá la situación actual antes de ir. Igual se puede ver desde los alrededores.
+
+{{youtube HLwuw5GKI0I}}
 
 {{cars}}
 

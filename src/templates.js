@@ -290,7 +290,7 @@ ${igStrip(media, lang)}
         <p class="quick-book-title"><strong>${e(ctx.place ? fill(s.planYourTripTo, { where: ctx.place }) : s.planYourTrip)}</strong></p>
         <div class="cta-grid">${quickKinds(p, lang).map((k) => aff.button(k, ctx, lang)).join('')}</div>
       </div>
-      ${p.youtube && !/\{\{\s*youtube/.test(p.bodies[lang] || p.bodies[defaultLang] || '') ? youtubeEmbed(p.youtube, loc(p, 'title', lang), lang) : ''}
+      ${p.youtube && !/\{\{\s*youtube\s*\}\}/.test(p.bodies[lang] || p.bodies[defaultLang] || '') ? youtubeEmbed(p.youtube, loc(p, 'title', lang), lang) : ''}
       ${html}
       <div class="share-row">${pinButton(p, lang)}</div>
       ${p.tags && p.tags.length ? `<p class="tags">${p.tags.map((t) => `<span>#${e(t)}</span>`).join(' ')}</p>` : ''}

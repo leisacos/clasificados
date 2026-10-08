@@ -26,9 +26,9 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
   #Singapore #MarinaBaySands #travel
 
-## 2026-10-08 · Castillo de Butrón, Gatika (near Bilbao) · (Reel not posted yet)
+## 2026-10-08 · Castillo de Butrón, Gatika (near Bilbao) · https://www.instagram.com/reel/DeN81SXgFDj/
 - Story: /posts/guggenheim-bilbao-guide/ (section "Castillo de Butrón")
-- YouTube ID: (pending)
+- YouTube ID: HLwuw5GKI0I (embedded in the Butrón section)
 - Title EN: Castillo de Butrón: a fairytale castle hidden in a Basque forest
 - Title ES: Castillo de Butrón: un castillo de cuento escondido en el bosque vasco
 - Description:
