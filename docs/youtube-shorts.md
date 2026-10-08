@@ -12,7 +12,7 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
-## 2026-10-08 · Castillo de Butrón, Gatika (near Bilbao) · posted to Instagram via Windsor
+## 2026-10-08 · Castillo de Butrón, Gatika (near Bilbao) · (Reel not posted yet)
 - Story: /posts/guggenheim-bilbao-guide/ (section "Castillo de Butrón")
 - YouTube ID: (pending)
 - Title EN: Castillo de Butrón: a fairytale castle hidden in a Basque forest
