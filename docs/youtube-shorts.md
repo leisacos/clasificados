@@ -12,6 +12,20 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
+## 2026-10-08 · Castillo de Butrón, Gatika (near Bilbao) · posted to Instagram via Windsor
+- Story: /posts/guggenheim-bilbao-guide/ (section "Castillo de Butrón")
+- YouTube ID: (pending)
+- Title EN: Castillo de Butrón: a fairytale castle hidden in a Basque forest
+- Title ES: Castillo de Butrón: un castillo de cuento escondido en el bosque vasco
+- Description:
+  Castillo de Butrón in Gatika, about half an hour north of Bilbao, filmed from above. Its origins are medieval, but its fairytale look comes from a 19th-century neo-Gothic rebuild. It's privately owned and has been closed to visitors for years, but you can see it from the surrounding area.
+  More near Bilbao: https://theplacesnotfaces.com/posts/guggenheim-bilbao-guide/
+
+  El Castillo de Butrón en Gatika, a una media hora al norte de Bilbao, filmado desde el aire. Tiene origen medieval, pero su aspecto de cuento es de una reconstrucción neogótica del siglo XIX. Es privado y lleva años cerrado a las visitas, pero se puede ver desde los alrededores.
+  Más cerca de Bilbao: https://theplacesnotfaces.com/es/posts/guggenheim-bilbao-guide/
+
+  #Butron #Bilbao #castle
+
 ## 2026-10-08 · Guggenheim Bilbao, Spain · (Reel not posted yet)
 - Story: /posts/guggenheim-bilbao-guide/
 - YouTube ID: (pending)
