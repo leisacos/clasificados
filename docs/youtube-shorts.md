@@ -12,6 +12,20 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
+## 2026-10-07 · Marina Bay Sands, Singapore · https://www.instagram.com/reel/DeM0RrbRb0a/
+- Story: /posts/marina-bay-sands-singapore-guide/
+- YouTube ID: (pending)
+- Title EN: Marina Bay Sands, Singapore: by day vs by night
+- Title ES: Marina Bay Sands, Singapur: de día vs de noche
+- Description:
+  Marina Bay Sands in Singapore by day and by night: three 55-storey towers joined by the SkyPark, with the Supertrees at Gardens by the Bay lighting up for free every night.
+  Full guide: https://theplacesnotfaces.com/posts/marina-bay-sands-singapore-guide/
+
+  Marina Bay Sands en Singapur de día y de noche: tres torres de 55 pisos unidas por el SkyPark, y los Supertrees de Gardens by the Bay que se iluminan gratis todas las noches.
+  Guía completa: https://theplacesnotfaces.com/es/posts/marina-bay-sands-singapore-guide/
+
+  #Singapore #MarinaBaySands #travel
+
 ## 2026-10-08 · Castillo de Butrón, Gatika (near Bilbao) · (Reel not posted yet)
 - Story: /posts/guggenheim-bilbao-guide/ (section "Castillo de Butrón")
 - YouTube ID: (pending)

@@ -13,7 +13,7 @@ coverAlt_es: "Marina Bay Sands y el ArtScience Museum vistos desde la bahía, Si
 excerpt: "Visiting Marina Bay Sands in Singapore? The SkyPark, the free Spectra and Supertree light shows, Gardens by the Bay, how to get there and where to stay."
 excerpt_es: "¿Vas a Marina Bay Sands en Singapur? El SkyPark, los shows de luces gratis, Gardens by the Bay, cómo llegar y dónde alojarte cerca de la bahía."
 tags: [singapore, marinabaysands, gardensbythebay, asia, guide]
-instagram: []
+instagram: [DeM0RrbRb0a]
 ---
 
 <!-- Video: add `youtube: <id>` to the front matter (or a {{youtube <id>}} line below) once the Marina Bay Sands clip is published. -->
@@ -26,6 +26,8 @@ Three towers holding up what looks like a ship floating about 200 metres in the 
 - **Where:** Bayfront, on the south side of Marina Bay, right next to **Gardens by the Bay**.
 - **Cost:** walking around the bay, the waterfront promenade and the evening light shows are free. The SkyPark Observation Deck, the museum and the conservatories at Gardens by the Bay charge entry.
 - **Best time:** late afternoon into the evening. You get sunset over the bay, the city lights coming on and the free shows, and it's a little cooler than midday.
+
+**Day or night?** Do both if you can. By day you get the shape of the three towers and the SkyPark against the sky; after dark the Supertrees at Gardens by the Bay light up for free every night, so the same bay looks completely different.
 
 # What to do at Marina Bay
 
@@ -103,6 +105,8 @@ Tres torres que sostienen lo que parece un barco flotando a unos 200 metros de a
 - **Dónde:** Bayfront, del lado sur de Marina Bay, al lado de **Gardens by the Bay**.
 - **Costo:** caminar por la bahía, el paseo costero y los shows de luces de la noche son gratis. El mirador del SkyPark, el museo y los invernaderos de Gardens by the Bay se pagan.
 - **Mejor momento:** de la tarde a la noche. Tenés el atardecer sobre la bahía, la ciudad iluminándose y los shows gratuitos, y hace un poco menos de calor que al mediodía.
+
+**¿De día o de noche?** Si podés, hacé las dos. De día ves la forma de las tres torres y el SkyPark contra el cielo; de noche los Supertrees de Gardens by the Bay se iluminan gratis todos los días, y la misma bahía se ve completamente distinta.
 
 # Qué hacer en Marina Bay
 
