@@ -44,6 +44,8 @@ In Santorini, stay on the **caldera edge** (Oia, Imerovigli, Fira) for the views
 
 {{hotels}}
 
+Adding Spain to your trip? See my guide to the [Guggenheim Museum Bilbao](/posts/guggenheim-bilbao-guide/).
+
 {{plan}}
 
 :::es
@@ -77,5 +79,7 @@ Las dos islas tienen aeropuerto (**JTR** en Santorini y **JMK** en Mykonos) con 
 En Santorini, alojate **al borde de la caldera** (Oia, Imerovigli, Fira) por las vistas, o cerca de las playas (Kamari, Perissa) para ahorrar. En Mykonos, **Mykonos Town** te deja a pasos de todo.
 
 {{hotels}}
+
+¿Sumás España al viaje? Mirá mi guía del [Museo Guggenheim Bilbao](/es/posts/guggenheim-bilbao-guide/).
 
 {{plan}}

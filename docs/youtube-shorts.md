@@ -12,6 +12,20 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
+## 2026-10-08 · Guggenheim Bilbao, Spain · (Reel not posted yet)
+- Story: /posts/guggenheim-bilbao-guide/
+- YouTube ID: (pending)
+- Title EN: Guggenheim Bilbao from above: the building that changed a city
+- Title ES: El Guggenheim Bilbao desde el aire: el edificio que cambió una ciudad
+- Description:
+  The Guggenheim Museum Bilbao from above: Frank Gehry's titanium-clad museum on the Nervión river, opened in 1997, with the red arch of La Salve bridge behind it. The sculptures outside, like Puppy and Maman, are free to see.
+  Full guide: https://theplacesnotfaces.com/posts/guggenheim-bilbao-guide/
+
+  El Museo Guggenheim Bilbao desde el aire: el museo de Frank Gehry revestido de titanio, junto a la ría del Nervión, inaugurado en 1997, con el arco rojo del puente de La Salve detrás. Las esculturas de afuera, como Puppy y Mamá, se ven gratis.
+  Guía completa: https://theplacesnotfaces.com/es/posts/guggenheim-bilbao-guide/
+
+  #Bilbao #Guggenheim #Spain
+
 ## 2026-10-07 · Marina Bay Sands, Singapore · (Reel not posted yet)
 - Story: /posts/marina-bay-sands-singapore-guide/
 - YouTube ID: (pending)
