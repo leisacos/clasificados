@@ -12,6 +12,20 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
+## 2026-10-09 · Kolgrafafjörður bridge ("Viking Sword Road"), Snæfellsnes, Iceland · (not posted yet)
+- Story: /posts/iceland-waterfalls-drone/ (section "Snæfellsnes Peninsula and the Viking Sword Road")
+- YouTube ID: (pending)
+- Title EN: Iceland's Viking Sword Road from above ⚔️ Kolgrafafjörður bridge
+- Title ES: La ruta espada vikinga de Islandia desde el aire ⚔️ Kolgrafafjörður
+- Description:
+  From the ground it's just a bridge, but from above the Kolgrafafjörður bridge on Road 54, on Iceland's Snæfellsnes peninsula, looks like a Viking sword: the hilt, the blade and the point.
+  Full Iceland guide: https://theplacesnotfaces.com/posts/iceland-waterfalls-drone/
+
+  Desde el suelo es solo un puente, pero desde el aire el puente de Kolgrafafjörður, en la ruta 54 de la península de Snæfellsnes, parece una espada vikinga: la empuñadura, la hoja y la punta.
+  Guía de Islandia: https://theplacesnotfaces.com/es/posts/iceland-waterfalls-drone/
+
+  #Iceland #VikingSwordRoad #Shorts
+
 ## 2026-10-07 · Marina Bay Sands, Singapore · https://www.instagram.com/reel/DeM0RrbRb0a/
 - Story: /posts/marina-bay-sands-singapore-guide/
 - YouTube ID: (pending)
