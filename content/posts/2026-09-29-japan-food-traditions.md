@@ -6,10 +6,11 @@ country: "Japan"
 country_es: "Japón"
 iata: "TYO"
 cover: "ig:Dd2qIeSRcD1"
-excerpt: "From incredible food to centuries-old traditions, Japan has something around every corner. The experiences worth booking and how to plan your first trip."
-excerpt_es: "De la comida increíble a tradiciones centenarias, Japón tiene algo en cada esquina. Las experiencias que vale la pena reservar y cómo planear tu primer viaje."
-tags: [japan, japanfood, asia]
+excerpt: "Incredible food, centuries-old traditions and Wakayama Castle, an easy day trip from Osaka. The experiences worth booking and how to plan your first trip."
+excerpt_es: "Comida increíble, tradiciones centenarias y el Castillo de Wakayama, a un paso de Osaka. Las experiencias que vale la pena reservar y cómo planear tu viaje."
+tags: [japan, japanfood, asia, wakayama, castles]
 instagram: [Dd2qIeSRcD1]
+updated: 2026-10-09
 ---
 
 Some experiences you simply have to see in person. From incredible food to unforgettable traditions, **Japan has something around every corner** 🍣✨
@@ -36,6 +37,19 @@ Tokyo has two airports, **Haneda (HND)**, which is closer to the city, and **Nar
 - An **eSIM** makes navigating the train network much easier from the moment you land.
 
 {{esim}}
+
+# Day trip from Osaka: Wakayama Castle
+
+![Wakayama Castle from above, surrounded by trees in the centre of Wakayama](/images/wakayama-castle.jpg)
+
+About an hour from Osaka by train, **Wakayama Castle** sits on a wooded hill right in the middle of **Wakayama** city. From above you can see why it's worth the trip: white walls, a cluster of connected towers and, from the top, views over the city all the way to the sea.
+
+- **History:** the castle dates back to **1585**, in the time of Toyotomi Hideyoshi, and later became the seat of the **Kii branch of the Tokugawa family**. The main keep was destroyed in an air raid in **1945** and rebuilt in **1958**.
+- **What to see:** the keep and its lookout, the stone walls, and the **Momijidani garden** at the foot of the hill, especially pretty in autumn.
+- **Getting there:** trains run from Osaka to **Wakayama** and **Wakayamashi** stations. From either, it's a short bus ride or a walk of roughly 15–20 minutes. Check current times and fares before you go.
+- **Tips:** the castle grounds are a park you can walk around freely; entry to the keep is paid. Opening hours change with the season.
+
+Combine it with the coast nearby, or with a night in Osaka. It's an easy, quieter alternative to the busiest castles in Kansai.
 
 # Where to stay
 
@@ -73,6 +87,19 @@ Tokio tiene dos aeropuertos: **Haneda (HND)**, más cerca de la ciudad, y **Nari
 - Una **eSIM** hace mucho más fácil moverse en tren desde el momento en que aterrizás.
 
 {{esim}}
+
+# Excursión desde Osaka: el Castillo de Wakayama
+
+![El Castillo de Wakayama desde el aire, rodeado de árboles en el centro de Wakayama](/images/wakayama-castle.jpg)
+
+A una hora de Osaka en tren, el **Castillo de Wakayama** está sobre una colina arbolada en pleno centro de la ciudad de **Wakayama**. Desde el aire se entiende por qué vale la pena: murallas blancas, un conjunto de torres conectadas y, desde arriba, vistas de la ciudad hasta el mar.
+
+- **Historia:** el castillo se remonta a **1585**, en la época de Toyotomi Hideyoshi, y después fue la sede de la **rama Kii de la familia Tokugawa**. La torre principal fue destruida en un bombardeo en **1945** y reconstruida en **1958**.
+- **Qué ver:** la torre principal y su mirador, las murallas de piedra y el **jardín Momijidani** al pie de la colina, especialmente lindo en otoño.
+- **Cómo llegar:** hay trenes desde Osaka hasta las estaciones **Wakayama** y **Wakayamashi**. Desde cualquiera de las dos, es un viaje corto en colectivo o unos 15–20 minutos caminando. Revisá horarios y tarifas actuales antes de ir.
+- **Consejos:** los jardines del castillo son un parque que se recorre libremente; la entrada a la torre se paga. Los horarios cambian según la temporada.
+
+Combinalo con la costa cercana o con una noche en Osaka. Es una alternativa más tranquila a los castillos más concurridos de Kansai.
 
 # Dónde alojarse
 
