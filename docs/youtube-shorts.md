@@ -14,7 +14,7 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ## 2026-10-09 · Kolgrafafjörður bridge ("Viking Sword Road"), Snæfellsnes, Iceland · https://www.instagram.com/reel/DeQVyX4j8m5/
 - Story: /posts/iceland-waterfalls-drone/ (section "Snæfellsnes Peninsula and the Viking Sword Road")
-- YouTube ID: Z_kJm8pQLeA (embedded in the Viking Sword Road section)
+- YouTube ID: vTVKFctdyos (embedded in the Viking Sword Road section)
 - Title EN: Iceland's Viking Sword Road from above ⚔️ Kolgrafafjörður bridge
 - Title ES: La ruta espada vikinga de Islandia desde el aire ⚔️ Kolgrafafjörður
 - Description:
