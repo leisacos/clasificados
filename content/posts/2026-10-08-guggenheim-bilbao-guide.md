@@ -12,7 +12,7 @@ coverAlt_es: "El Museo Guggenheim Bilbao visto desde arriba, con el arco rojo de
 excerpt: "Visiting the Guggenheim Bilbao? Frank Gehry's titanium museum, the sculptures you can see for free outside, tickets, how to get there and what to do nearby."
 excerpt_es: "¿Vas al Guggenheim Bilbao? El museo de titanio de Frank Gehry, las esculturas que podés ver gratis afuera, entradas, cómo llegar y qué hacer cerca."
 tags: [bilbao, guggenheim, spain, basquecountry, architecture, guide]
-instagram: []
+instagram: [DeN81SXgFDj]
 ---
 
 <!-- Video: add `youtube: <id>` to the front matter once the Guggenheim Short is published. -->
