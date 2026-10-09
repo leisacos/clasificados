@@ -48,6 +48,8 @@ About 2–2.5 hours' drive north of Reykjavík, the **Snæfellsnes Peninsula** i
 
 ## The "Viking Sword Road": Kolgrafafjörður bridge
 
+{{youtube Z_kJm8pQLeA}}
+
 On the north side of the peninsula, between **Grundarfjörður** and **Stykkishólmur**, **Road 54** crosses the **Kolgrafafjörður** fjord on a causeway and bridge. From the ground it's just a bridge, but **from above, the road and its curved ends look like a Viking sword**: the hilt, the blade and the point. That's why it's become known online as the "Viking Sword Road". Don't stop on the road or the bridge itself; pull over only where it's safe and allowed.
 
 ## More to see on Snæfellsnes
@@ -111,6 +113,8 @@ Hay miradores y senderos cortos entre las dos. No te salgas de ellos: las rocas 
 A unas 2–2,5 horas en auto al norte de Reikiavik, la **península de Snæfellsnes** suele llamarse "**Islandia en miniatura**": un volcán con glaciar, playas negras, acantilados, campos de lava y pueblos de pescadores, todo en un mismo circuito.
 
 ## La "ruta espada vikinga": el puente de Kolgrafafjörður
+
+{{youtube Z_kJm8pQLeA}}
 
 Del lado norte de la península, entre **Grundarfjörður** y **Stykkishólmur**, la **ruta 54** cruza el fiordo de **Kolgrafafjörður** por un terraplén y un puente. Desde el suelo es solo un puente, pero **desde arriba, la ruta y sus extremos curvos parecen una espada vikinga**: la empuñadura, la hoja y la punta. Por eso en internet se la conoce como la "ruta espada vikinga". No frenes sobre la ruta ni sobre el puente: pará solo donde sea seguro y esté permitido.
 
