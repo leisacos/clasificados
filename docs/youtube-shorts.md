@@ -12,6 +12,16 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
+## 2026-10-10 · Jiufen, near Taipei, Taiwan · Instagram Reel (pending)
+- Story: (no Taiwan guide yet)
+- YouTube ID: LJGvEaBcKaw
+- Title EN: Spirited Away in real life? 🌧️ Jiufen, Taiwan
+- Description:
+  Jiufen, an old gold-mining town in the mountains near Taipei, on a rainy day. Houses stacked on the hillside, mist rolling in from the sea… and a teahouse many people say inspired Spirited Away. Studio Ghibli says it didn't, but stand here in the rain and tell me you aren't convinced.
+  Music: "Always Yours" (feat. The Parrisian & Parris Fleming), YouTube Audio Library
+
+  #Jiufen #Taiwan #Shorts
+
 ## 2026-10-09 · Wakayama Castle, Wakayama, Japan · Instagram Reel (media id 18075774965438101)
 - Story: /posts/japan-food-traditions/ (section "Day trip from Osaka: Wakayama Castle")
 - YouTube ID: LDEsSchhq7g (embedded in the Wakayama Castle section)
