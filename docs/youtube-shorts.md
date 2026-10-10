@@ -12,7 +12,7 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
-## 2026-10-09 · Wakayama Castle, Wakayama, Japan · Instagram: (pending)
+## 2026-10-09 · Wakayama Castle, Wakayama, Japan · Instagram Reel (media id 18075774965438101)
 - Story: /posts/japan-food-traditions/ (section "Day trip from Osaka: Wakayama Castle")
 - YouTube ID: LDEsSchhq7g (embedded in the Wakayama Castle section)
 - Title EN: The castle that refused to die 🏯 Wakayama Castle, Japan
