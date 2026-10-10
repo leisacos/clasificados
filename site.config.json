@@ -19,6 +19,10 @@
     "_help": "Cloudflare Web Analytics token (Cloudflare dashboard > Analytics & Logs > Web Analytics > your site > Manage site > the token in the JS snippet). Leave empty if the site uses automatic setup.",
     "cloudflareToken": ""
   },
+  "googleAds": {
+    "_help": "Google Ads conversion for clicks on booking links (Goals > Conversions > Booking click > Tag setup > event snippet: the 'send_to' value). Needs the Google tag in travelpayouts.driveScript. Leave empty to turn off.",
+    "bookingClickSendTo": "AW-18498391024/5DoFCO_fnJgdEPCX3PRE"
+  },
   "pinterest": {
     "_help": "Paste the content value of Pinterest's <meta name=\"p:domain_verify\"> tag here to claim the site (or verify with a DNS TXT record in Cloudflare instead).",
     "verify": ""

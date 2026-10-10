@@ -121,7 +121,7 @@ ${faqLd ? `<script type="application/ld+json">${JSON.stringify(faqLd).replace(/<
 ${tp.driveScript || ''}
 ${config.analytics && /^[a-f0-9]{32}$/i.test(config.analytics.cloudflareToken || '') ? `<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "${config.analytics.cloudflareToken}"}'></script>` : ''}
 </head>
-<body data-lang="${lang}" data-tp-marker="${e(tp.marker || '')}" data-tp-trs="${e(tp.trs || '')}" data-tp-flights="${e((tp.programs && tp.programs.flights) || '')}" data-origin="${e(tp.defaultOrigin || '')}">
+<body data-lang="${lang}" data-tp-marker="${e(tp.marker || '')}" data-tp-trs="${e(tp.trs || '')}" data-tp-flights="${e((tp.programs && tp.programs.flights) || '')}" data-origin="${e(tp.defaultOrigin || '')}" data-ads-booking="${e((config.googleAds && config.googleAds.bookingClickSendTo) || '')}">
 ${other.map((l) => `<div class="lang-banner" data-banner-lang="${l}" lang="${l}" hidden>
   <div class="wrap lang-banner-inner">
     <span>${e(strings(l).langOffer)}</span>

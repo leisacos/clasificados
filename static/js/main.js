@@ -62,3 +62,17 @@
     set(pageLang);
   });
 })();
+
+// Google Ads: count a click on any booking (sponsored) link as one
+// "Booking click" conversion per page view.
+(function () {
+  var sendTo = document.body.getAttribute('data-ads-booking');
+  if (!sendTo) return;
+  var sent = false;
+  document.addEventListener('click', function (ev) {
+    var a = ev.target.closest && ev.target.closest('a[rel~="sponsored"]');
+    if (!a || sent || typeof window.gtag !== 'function') return;
+    sent = true;
+    window.gtag('event', 'conversion', { send_to: sendTo });
+  }, true);
+})();
