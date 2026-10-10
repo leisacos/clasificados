@@ -45,15 +45,7 @@
       "insurance": "",
       "esim": ""
     },
-        "driveScript": "<script nowprocket data-noptimize=\"1\" data-cfasync=\"false\" data-wpfc-render=\"false\" seraph-accel-crit=\"1\" data-no-defer=\"1\" data-cmp-ab=\"2\">(function () { var script = document.createElement(\"script\"); script.async = 1; script.setAttribute(\"data-cmp-ab\",\"2\"); script.src = 'https://emrld.ltd/NTgxOTA1.js?t=581905'; document.head.appendChild(script); })();</script><script type=\"text/javascript\">(function(i,m,p,a,c,t){c.ire_o=p;c[p]=c[p]||function(){(c[p].a=c[p].a||[]).push(arguments)};t=a.createElement(m);var z=a.getElementsByTagName(m)[0];t.async=1;t.src=i;z.parentNode.insertBefore(t,z)})('https://utt.impactcdn.com/P-A7915595-9c88-4176-a232-32285a36818e1.js','script','impactStat',document,window);impactStat('transformLinks');impactStat('trackImpression');</script><script>function loadScript(a){var b=document.getElementsByTagName(\"head\")[0],c=document.createElement(\"script\");c.type=\"text/javascript\",c.src=\"https://tracker.metricool.com/resources/be.js\",c.onreadystatechange=a,c.onload=a,b.appendChild(c)}loadScript(function(){beTracker.t({hash:\"614c8a93c73698b07cf999a5b459c26e\"})});</script><!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-18498391024"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'AW-18498391024');
-</script>",
+        "driveScript": "<script nowprocket data-noptimize=\"1\" data-cfasync=\"false\" data-wpfc-render=\"false\" seraph-accel-crit=\"1\" data-no-defer=\"1\" data-cmp-ab=\"2\">(function () { var script = document.createElement(\"script\"); script.async = 1; script.setAttribute(\"data-cmp-ab\",\"2\"); script.src = 'https://emrld.ltd/NTgxOTA1.js?t=581905'; document.head.appendChild(script); })();</script><script type=\"text/javascript\">(function(i,m,p,a,c,t){c.ire_o=p;c[p]=c[p]||function(){(c[p].a=c[p].a||[]).push(arguments)};t=a.createElement(m);var z=a.getElementsByTagName(m)[0];t.async=1;t.src=i;z.parentNode.insertBefore(t,z)})('https://utt.impactcdn.com/P-A7915595-9c88-4176-a232-32285a36818e1.js','script','impactStat',document,window);impactStat('transformLinks');impactStat('trackImpression');</script><script>function loadScript(a){var b=document.getElementsByTagName(\"head\")[0],c=document.createElement(\"script\");c.type=\"text/javascript\",c.src=\"https://tracker.metricool.com/resources/be.js\",c.onreadystatechange=a,c.onload=a,b.appendChild(c)}loadScript(function(){beTracker.t({hash:\"614c8a93c73698b07cf999a5b459c26e\"})});</script><!-- Google tag (gtag.js) --><script async src=\"https://www.googletagmanager.com/gtag/js?id=AW-18498391024\"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'AW-18498391024');</script>",
     "widgets": {
       "flights": "",
       "flights_es": "",
