@@ -13,7 +13,7 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 ---
 
 ## 2026-10-10 · Jiufen, near Taipei, Taiwan · Instagram Reel (media id 18125024270483832)
-- Story: (no Taiwan guide yet)
+- Story: /posts/jiufen-day-trip-taipei/ (embedded at the top)
 - YouTube ID: LJGvEaBcKaw
 - Title EN: Spirited Away in real life? 🌧️ Jiufen, Taiwan
 - Description:
