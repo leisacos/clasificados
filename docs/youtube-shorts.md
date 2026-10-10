@@ -12,6 +12,20 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
+## 2026-10-09 · Wakayama Castle, Wakayama, Japan · Instagram: (pending)
+- Story: /posts/japan-food-traditions/ (section "Day trip from Osaka: Wakayama Castle")
+- YouTube ID: LDEsSchhq7g (embedded in the Wakayama Castle section)
+- Title EN: The castle that refused to die 🏯 Wakayama Castle, Japan
+- Title ES: El castillo que se negó a morir 🏯 Castillo de Wakayama, Japón
+- Description:
+  Wakayama Castle dates back to 1585 and was home to a branch of the Tokugawa family. A 1945 air raid burned the main keep, but the stone walls survived, and in 1958 it was rebuilt: concrete inside, traditional style outside. About an hour from Osaka by train.
+  Full Japan guide: https://theplacesnotfaces.com/posts/japan-food-traditions/
+
+  El Castillo de Wakayama se remonta a 1585 y fue sede de una rama de la familia Tokugawa. Un bombardeo en 1945 quemó la torre principal, pero las murallas de piedra sobrevivieron, y en 1958 la reconstruyeron: hormigón por dentro, estilo tradicional por fuera. A una hora de Osaka en tren.
+  Guía de Japón: https://theplacesnotfaces.com/es/posts/japan-food-traditions/
+
+  #Japan #WakayamaCastle #Shorts
+
 ## 2026-10-09 · Kolgrafafjörður bridge ("Viking Sword Road"), Snæfellsnes, Iceland · https://www.instagram.com/reel/DeQVyX4j8m5/
 - Story: /posts/iceland-waterfalls-drone/ (section "Snæfellsnes Peninsula and the Viking Sword Road")
 - YouTube ID: vTVKFctdyos (embedded in the Viking Sword Road section)

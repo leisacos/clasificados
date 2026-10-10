@@ -51,6 +51,8 @@ About an hour from Osaka by train, **Wakayama Castle** sits on a wooded hill rig
 
 Combine it with the coast nearby, or with a night in Osaka. It's an easy, quieter alternative to the busiest castles in Kansai.
 
+{{youtube LDEsSchhq7g}}
+
 # Where to stay
 
 In Tokyo, **Shinjuku** and **Shibuya** are lively and well connected, and **Asakusa** is quieter and traditional. In Kyoto, stay near **Gion** or **Kyoto Station**, and treat yourself to at least one night in a **ryokan**.
@@ -100,6 +102,8 @@ A una hora de Osaka en tren, el **Castillo de Wakayama** está sobre una colina 
 - **Consejos:** los jardines del castillo son un parque que se recorre libremente; la entrada a la torre se paga. Los horarios cambian según la temporada.
 
 Combinalo con la costa cercana o con una noche en Osaka. Es una alternativa más tranquila a los castillos más concurridos de Kansai.
+
+{{youtube LDEsSchhq7g}}
 
 # Dónde alojarse
 
