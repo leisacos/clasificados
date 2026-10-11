@@ -13,6 +13,7 @@ coverAlt_es: "Jiufen en un día de lluvia: la costa y las montañas entre la nie
 excerpt: "Planning a day trip to Jiufen from Taipei? The old gold-mining town, the teahouse said to have inspired Spirited Away, how to get there, when to go and what to eat."
 excerpt_es: "¿Vas a Jiufen desde Taipéi? El antiguo pueblo minero, la casa de té que dicen que inspiró El viaje de Chihiro, cómo llegar, cuándo ir y qué comer."
 tags: [taiwan, jiufen, taipei, asia, daytrip, guide]
+instagram: [DeVB3WikocK]
 youtube: LJGvEaBcKaw
 ---
 

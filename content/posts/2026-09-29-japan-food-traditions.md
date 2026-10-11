@@ -9,7 +9,7 @@ cover: "ig:Dd2qIeSRcD1"
 excerpt: "Incredible food, centuries-old traditions and Wakayama Castle, an easy day trip from Osaka. The experiences worth booking and how to plan your first trip."
 excerpt_es: "Comida increíble, tradiciones centenarias y el Castillo de Wakayama, a un paso de Osaka. Las experiencias que vale la pena reservar y cómo planear tu viaje."
 tags: [japan, japanfood, asia, wakayama, castles]
-instagram: [Dd2qIeSRcD1]
+instagram: [Dd2qIeSRcD1, DeSwXbDjhji]
 updated: 2026-10-09
 ---
 
