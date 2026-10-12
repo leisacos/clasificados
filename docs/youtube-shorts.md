@@ -12,6 +12,14 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
+## 2026-10-12 · New Caledonia from above (long video, 4K, 3:43)
+- Story: /posts/new-caledonia-south-pacific/ (embedded, wide)
+- YouTube ID: stAP9fGlaBc
+- Title: New Caledonia from Above 4K | Lagoon, Waterfall & Amédée Lighthouse
+- Chapters: crystal-clear lagoon waters → waterfall → beach with columnar pines → Amédée Lighthouse
+- Music: "Walking in the Sky", Nico Staf (YouTube Audio Library)
+- To do: set this as the "Related video" on the Shorts so their viewers reach it (watch hours).
+
 ## 2026-10-10 · Jiufen, near Taipei, Taiwan · Instagram Reel (media id 18125024270483832)
 - Story: /posts/jiufen-day-trip-taipei/ (embedded at the top)
 - YouTube ID: LJGvEaBcKaw

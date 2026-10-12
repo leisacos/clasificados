@@ -2,6 +2,7 @@
 title: "New Caledonia: turquoise lagoons in a corner of France in the South Pacific"
 title_es: "Nueva Caledonia: lagunas turquesa en un rincón de Francia en el Pacífico Sur"
 date: 2026-09-23
+updated: 2026-10-12
 city: "Nouméa"
 country: "New Caledonia"
 country_es: "Nueva Caledonia"
@@ -15,11 +16,16 @@ instagram: [Ddnc9KERqGk]
 
 Crystal-clear water, tropical skies and, sometimes, a little rain. **New Caledonia** is a French territory in the South Pacific, and its lagoons are a **UNESCO World Heritage site**. They're among the largest in the world.
 
+Here's New Caledonia from above in 4K: crystal-clear lagoon waters, a waterfall, a beach lined with columnar pines and the Amédée Lighthouse.
+
+{{youtube stAP9fGlaBc wide}}
+
 # Island hopping
 
 - **Nouméa**: the capital, with the beaches of Anse Vata and Baie des Citrons, cafés and fresh baguettes
 - **Île des Pins**: the postcard island, with natural pools, pine-lined bays and white sand
 - **Lifou and the Loyalty Islands**: cliffs, caves and Kanak culture
+- **Amédée Lighthouse**: a day trip by boat from Nouméa to a tiny islet with a tall 19th-century lighthouse, white sand and the reef around it
 
 {{tours}}
 
@@ -49,11 +55,16 @@ Base yourself in **Nouméa (Anse Vata)** for restaurants and easy day trips, the
 
 Agua cristalina, cielo tropical y, a veces, un poco de lluvia. **Nueva Caledonia** es un territorio francés en el Pacífico Sur, y sus lagunas son **Patrimonio de la Humanidad de la UNESCO**. Están entre las más grandes del mundo.
 
+Así se ve Nueva Caledonia desde el aire en 4K: aguas cristalinas, una cascada, una playa con pinos columnares y el faro Amédée.
+
+{{youtube stAP9fGlaBc wide}}
+
 # Recorrer las islas
 
 - **Numea**: la capital, con las playas de Anse Vata y Baie des Citrons, cafés y baguettes recién hechas
 - **Isla de los Pinos**: la isla de postal, con piletas naturales, bahías bordeadas de pinos y arena blanca
 - **Lifou y las Islas de la Lealtad**: acantilados, cuevas y cultura kanak
+- **Faro Amédée**: una excursión en barco desde Numea a un islote diminuto con un faro alto del siglo XIX, arena blanca y el arrecife alrededor
 
 {{tours}}
 
