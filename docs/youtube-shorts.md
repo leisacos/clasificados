@@ -12,6 +12,16 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
+## 2026-10-12 · Buenos Aires Congress at golden hour · Instagram Reel (media id 18026567849871643)
+- Story: /posts/free-things-to-do-buenos-aires/
+- YouTube ID: (pending)
+- Title: Buenos Aires' Congress at golden hour 🇦🇷 #buenosaires #argentina
+
+## 2026-10-12 · Bahá'í Temple, Santiago, Chile (ready, not posted yet)
+- Story: /posts/bahai-temple-santiago-chile/
+- YouTube ID: (pending)
+- Title: Nine petals above Santiago 🇨🇱 Bahá'í Temple #chile #santiago
+
 ## 2026-10-12 · New Caledonia from above (long video, 4K, 3:43)
 - Story: /posts/new-caledonia-south-pacific/ (embedded, wide)
 - YouTube ID: stAP9fGlaBc
