@@ -33,6 +33,7 @@ Arbórea Magna is in the **Parque de la Innovación in Núñez**, right next to 
 - Combine it with a **River Plate stadium tour** during the day.
 - Head back towards **Belgrano or Palermo** for dinner. Parrillas don't really get going until after 9pm.
 - If you love public art, spend the next day hunting [painted shop shutters](/posts/buenos-aires-street-art-painted-shutters/) around the city.
+- For more light-up spectacle, see [Las Vegas beyond the casinos](/posts/las-vegas-strip-sphere/).
 
 # Where to stay in Buenos Aires
 
@@ -76,6 +77,7 @@ Arbórea Magna está en el **Parque de la Innovación, en Núñez**, al lado del
 - Combinalo con el **tour del estadio de River** durante el día.
 - Volvé hacia **Belgrano o Palermo** para cenar. Las parrillas se llenan recién después de las 21 h.
 - Si te gusta el arte público, dedicá el día siguiente a buscar [persianas pintadas](/es/posts/buenos-aires-street-art-painted-shutters/) por la ciudad.
+- Para más luces y espectáculo nocturno, mirá [Las Vegas más allá de los casinos](/es/posts/las-vegas-strip-sphere/).
 
 # Dónde alojarse en Buenos Aires
 

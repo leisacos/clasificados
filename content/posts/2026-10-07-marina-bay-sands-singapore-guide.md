@@ -91,6 +91,8 @@ The outdoor gardens, the Supertree Grove and the Garden Rhapsody light show are 
 ## How do you get to Marina Bay Sands by MRT?
 Take the MRT to Bayfront station, which is directly connected to the Marina Bay Sands complex.
 
+If you like cities that glow after dark, see my guide to [Las Vegas beyond the casinos](/posts/las-vegas-strip-sphere/).
+
 {{plan}}
 
 :::es
@@ -169,5 +171,7 @@ Los jardines al aire libre, el Supertree Grove y el show de luces Garden Rhapsod
 
 ## ¿Cómo llego a Marina Bay Sands en MRT?
 Tomá el MRT hasta la estación Bayfront, que está conectada directamente con el complejo de Marina Bay Sands.
+
+Si te gustan las ciudades que brillan de noche, mirá también mi guía de [Las Vegas más allá de los casinos](/es/posts/las-vegas-strip-sphere/).
 
 {{plan}}
