@@ -19,6 +19,7 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 - Chapters: crystal-clear lagoon waters → waterfall → beach with columnar pines → Amédée Lighthouse
 - Music: "Walking in the Sky", Nico Staf (YouTube Audio Library)
 - To do: set this as the "Related video" on the Shorts so their viewers reach it (watch hours).
+- Instagram teaser (26 s, vertical): media id 18046374371684446, caption links youtu.be/stAP9fGlaBc
 
 ## 2026-10-10 · Jiufen, near Taipei, Taiwan · Instagram Reel (media id 18125024270483832)
 - Story: /posts/jiufen-day-trip-taipei/ (embedded at the top)
