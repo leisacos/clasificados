@@ -27,7 +27,7 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
   #BuenosAires #Argentina #travel
 
-## 2026-10-12 · Bahá'í Temple, Santiago, Chile (ready, not posted yet)
+## 2026-10-13 · Bahá'í Temple, Santiago, Chile · Instagram Reel (posted 2026-10-13)
 - Story: /posts/bahai-temple-santiago-chile/
 - YouTube ID: (pending)
 - Title: Nine petals above Santiago 🇨🇱 Bahá'í Temple #chile #santiago
