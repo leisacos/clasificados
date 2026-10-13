@@ -40,7 +40,7 @@ Grand Parisian-style buildings, museums, the famous **Recoleta Cemetery** and th
 
 # San Telmo: history, tango and the Sunday market
 
-Cobblestone streets, old mansions, antique shops and tango on the street. The **Sunday market** along Calle Defensa is a highlight. It has the most character of any neighbourhood, and it's often cheaper.
+Cobblestone streets, old mansions, antique shops and tango on the street. The **Sunday market** along Calle Defensa is a highlight. It has the most character of any neighbourhood, and it's often cheaper. It's also within walking distance of the [Congress building](/posts/congreso-buenos-aires-guide/) via Avenida de Mayo.
 
 **Good for:** budget travellers, history lovers, tango.
 **Downside:** some streets feel rough at night, so choose your accommodation carefully and take taxis late.
@@ -107,7 +107,7 @@ Edificios de estilo parisino, museos, el famoso **Cementerio de la Recoleta** y 
 
 # San Telmo: historia, tango y la feria del domingo
 
-Calles empedradas, casonas antiguas, anticuarios y tango en la calle. La **feria del domingo** sobre la calle Defensa es imperdible. Es el barrio con más personalidad, y muchas veces el más barato.
+Calles empedradas, casonas antiguas, anticuarios y tango en la calle. La **feria del domingo** sobre la calle Defensa es imperdible. Es el barrio con más personalidad, y muchas veces el más barato. Desde ahí se llega caminando al [Congreso](/es/posts/congreso-buenos-aires-guide/) por la Avenida de Mayo.
 
 **Ideal para:** viajeros con poco presupuesto, amantes de la historia, el tango.
 **Contra:** algunas calles se sienten pesadas de noche, así que elegí bien el alojamiento y tomá taxi tarde.

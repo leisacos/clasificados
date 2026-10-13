@@ -38,7 +38,7 @@ Buenos Aires is one of those cities where some of the best experiences cost noth
 
 12. **El Ateneo Grand Splendid**: a theatre turned into a bookstore, often called one of the most beautiful in the world. Entry is free.
 13. **Free walking tours**: tip-based tours leave daily from the centre and Recoleta. They're a great first-day overview.
-14. **Casa Rosada guided visits**: the presidential palace offers free tours on some weekends. Check the official site and book ahead.
+14. **Casa Rosada guided visits**: the presidential palace offers free tours on some weekends. Check the official site and book ahead. The [Congress building](/posts/congreso-buenos-aires-guide/) at the other end of Avenida de Mayo has visits too.
 15. **The subte**: ride the metro and look out for the tiled murals in older stations. Some of my favourite photos come from just [changing perspective underground](https://www.instagram.com/p/DZ8_T6eRiEJ/).
 
 # Tips to save even more
@@ -91,7 +91,7 @@ Buenos Aires es una de esas ciudades donde algunas de las mejores experiencias n
 
 12. **El Ateneo Grand Splendid**: un teatro convertido en librería, considerado una de las más lindas del mundo. La entrada es libre.
 13. **Free walking tours**: tours a la gorra que salen todos los días del centro y de Recoleta. Son ideales para el primer día.
-14. **Visitas guiadas a la Casa Rosada**: hay visitas gratuitas algunos fines de semana. Revisá el sitio oficial y reservá con tiempo.
+14. **Visitas guiadas a la Casa Rosada**: hay visitas gratuitas algunos fines de semana. Revisá el sitio oficial y reservá con tiempo. Al otro extremo de la Avenida de Mayo, el [Congreso](/es/posts/congreso-buenos-aires-guide/) también tiene visitas.
 15. **El subte**: viajá en subte y prestá atención a los murales de azulejos en las estaciones más antiguas. Algunas de mis fotos favoritas salieron de [cambiar la perspectiva bajo tierra](https://www.instagram.com/p/DZ8_T6eRiEJ/).
 
 # Tips para ahorrar todavía más

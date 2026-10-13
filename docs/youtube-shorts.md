@@ -13,9 +13,19 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 ---
 
 ## 2026-10-12 · Buenos Aires Congress at golden hour · Instagram Reel (media id 18026567849871643)
-- Story: /posts/free-things-to-do-buenos-aires/
+- Story: /posts/congreso-buenos-aires-guide/
 - YouTube ID: (pending)
 - Title: Buenos Aires' Congress at golden hour 🇦🇷 #buenosaires #argentina
+- Title EN: Buenos Aires Congress at golden hour: opened in 1906, dome ~80 m
+- Title ES: El Congreso de Buenos Aires al atardecer, visto desde arriba
+- Description:
+  Buenos Aires' Congress at golden hour, from where almost nobody sees it. The Palacio del Congreso opened in 1906 and its dome rises about 80 metres over the city.
+  Full guide: https://theplacesnotfaces.com/posts/congreso-buenos-aires-guide/
+
+  El Congreso de Buenos Aires al atardecer, desde donde casi nadie lo ve. El Palacio del Congreso se inauguró en 1906 y su cúpula se eleva unos 80 metros sobre la ciudad.
+  Guía completa: https://theplacesnotfaces.com/es/posts/congreso-buenos-aires-guide/
+
+  #BuenosAires #Argentina #travel
 
 ## 2026-10-12 · Bahá'í Temple, Santiago, Chile (ready, not posted yet)
 - Story: /posts/bahai-temple-santiago-chile/

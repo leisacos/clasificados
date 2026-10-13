@@ -11,7 +11,7 @@ cover: "ig:Ddnc9KERqGk"
 excerpt: "One of the world's largest lagoons, French food and island hopping. What to know before you plan a trip to New Caledonia."
 excerpt_es: "Una de las lagunas más grandes del mundo, comida francesa e islas para recorrer. Lo que tenés que saber antes de planear un viaje a Nueva Caledonia."
 tags: [newcaledonia, southpacific, islands]
-instagram: [Ddnc9KERqGk]
+instagram: [Ddnc9KERqGk, DeYL0vWD6w8]
 ---
 
 Crystal-clear water, tropical skies and, sometimes, a little rain. **New Caledonia** is a French territory in the South Pacific, and its lagoons are a **UNESCO World Heritage site**. They're among the largest in the world.
