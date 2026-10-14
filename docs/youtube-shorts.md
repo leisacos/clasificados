@@ -12,6 +12,12 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
+## 2026-10-14 · Oia, Santorini at sunset · Instagram Reel (pending)
+- Story: /posts/santorini-mykonos-greece/ (embedded in "Santorini sunset tips")
+- YouTube ID: R5nwQ3Gr5Fg
+- Title: Oia, Santorini from above at sunset 🇬🇷 #santorini #greece
+- Filmed September 2023. Voice-over says "about 4,000 years ago" (the caldera eruption is usually dated ~3,600 years ago).
+
 ## 2026-10-12 · Buenos Aires Congress at golden hour · Instagram Reel (media id 18026567849871643)
 - Story: /posts/congreso-buenos-aires-guide/
 - YouTube ID: (pending)

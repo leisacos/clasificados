@@ -39,6 +39,8 @@ Both islands have airports (**JTR** for Santorini, **JMK** for Mykonos) with dir
 - **Oia** is the classic sunset spot. I filmed it with my drone in September 2023, when the light turns the whole village gold before the sun drops into the sea. Arrive at least an hour early, or watch from **Imerovigli** or **Firostefani** for fewer crowds.
 - A **catamaran cruise** around the caldera is the best way to see the sunset from the water.
 
+{{youtube R5nwQ3Gr5Fg}}
+
 # Where to stay
 
 In Santorini, stay on the **caldera edge** (Oia, Imerovigli, Fira) for the views, or near the beaches (Kamari, Perissa) to save money. In Mykonos, **Mykonos Town** keeps you walking distance from everything.
@@ -74,6 +76,8 @@ Las dos islas tienen aeropuerto (**JTR** en Santorini y **JMK** en Mykonos) con 
 
 - **Oia** es el lugar clásico para el atardecer. Lo filmé con mi dron en septiembre de 2023, cuando la luz pinta todo el pueblo de dorado antes de que el sol caiga al mar. Llegá al menos una hora antes, o miralo desde **Imerovigli** o **Firostefani**, que tienen menos gente.
 - Un **paseo en catamarán** por la caldera es la mejor forma de ver el atardecer desde el agua.
+
+{{youtube R5nwQ3Gr5Fg}}
 
 # Dónde alojarse
 
