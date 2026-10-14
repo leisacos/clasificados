@@ -2,6 +2,7 @@
 title: "Your sign to book Greece: Santorini sunsets and the Mykonos windmills"
 title_es: "Tu señal para viajar a Grecia: atardeceres en Santorini y los molinos de Mykonos"
 date: 2026-10-02
+updated: 2026-10-14
 city: "Santorini"
 city_es: "Santorini"
 country: "Greece"
@@ -35,7 +36,7 @@ Both islands have airports (**JTR** for Santorini, **JMK** for Mykonos) with dir
 
 # Santorini sunset tips
 
-- **Oia** is the classic sunset spot. Arrive at least an hour early, or watch from **Imerovigli** or **Firostefani** for fewer crowds.
+- **Oia** is the classic sunset spot. I filmed it with my drone in September 2023, when the light turns the whole village gold before the sun drops into the sea. Arrive at least an hour early, or watch from **Imerovigli** or **Firostefani** for fewer crowds.
 - A **catamaran cruise** around the caldera is the best way to see the sunset from the water.
 
 # Where to stay
@@ -71,7 +72,7 @@ Las dos islas tienen aeropuerto (**JTR** en Santorini y **JMK** en Mykonos) con 
 
 # Tips para el atardecer en Santorini
 
-- **Oia** es el lugar clásico para el atardecer. Llegá al menos una hora antes, o miralo desde **Imerovigli** o **Firostefani**, que tienen menos gente.
+- **Oia** es el lugar clásico para el atardecer. Lo filmé con mi dron en septiembre de 2023, cuando la luz pinta todo el pueblo de dorado antes de que el sol caiga al mar. Llegá al menos una hora antes, o miralo desde **Imerovigli** o **Firostefani**, que tienen menos gente.
 - Un **paseo en catamarán** por la caldera es la mejor forma de ver el atardecer desde el agua.
 
 # Dónde alojarse
