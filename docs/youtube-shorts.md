@@ -31,6 +31,16 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 - Story: /posts/bahai-temple-santiago-chile/
 - YouTube ID: (pending)
 - Title: Nine petals above Santiago 🇨🇱 Bahá'í Temple #chile #santiago
+- Title EN: Bahá'í Temple, Santiago: a temple from the ground, a flower from above
+- Title ES: Templo Bahá'í de Santiago: desde el aire parece una flor
+- Description:
+  Bahá'í Temple in Peñalolén, Santiago, Chile. It opened in 2016, has nine petals, and entry is free and open to people of all religions and backgrounds.
+  Full guide: https://theplacesnotfaces.com/posts/bahai-temple-santiago-chile/
+
+  El Templo Bahá'í de Peñalolén, en Santiago de Chile. Se inauguró en 2016, tiene nueve pétalos y la entrada es gratis y abierta a todos, sin importar la religión.
+  Guía completa: https://theplacesnotfaces.com/es/posts/bahai-temple-santiago-chile/
+
+  #Santiago #Chile #travel
 
 ## 2026-10-12 · New Caledonia from above (long video, 4K, 3:43)
 - Story: /posts/new-caledonia-south-pacific/ (embedded, wide)

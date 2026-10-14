@@ -9,8 +9,8 @@ cover: "ig:DE_HiDIvrgy"
 excerpt: "The Bahá'í Temple in Santiago is a glowing nine-sided landmark with free entry and city views. How to get there, when to go and what to do nearby."
 excerpt_es: "El Templo Bahá'í de Santiago, un edificio luminoso de nueve lados con entrada gratis y vistas a la ciudad. Cómo llegar, cuándo ir y qué hacer cerca."
 tags: [chile, santiago, architecture, guide]
-instagram: [DE_HiDIvrgy]
-updated: 2026-10-05
+instagram: [DE_HiDIvrgy, DecT2KsiQ9h]
+updated: 2026-10-14
 ---
 
 High in the foothills of the Andes, in Santiago's **Peñalolén** district, the **Bahá'í House of Worship for South America** looks almost like it's floating. Its curved, translucent "petals" glow in the sun, and the gardens look out over the whole city. If you're looking for a free, quiet and very photogenic thing to do in Santiago, the Bahá'í Temple is one of my favourites to recommend.
@@ -29,6 +29,7 @@ High in the foothills of the Andes, in Santiago's **Peñalolén** district, the 
 - Dress simply and respectfully, as you would for any place of worship.
 - Visits are usually short, so plan on about an hour or two with the gardens included.
 - The gardens and viewpoints are the real treat for photographers.
+- **Seen from above, it's a flower:** from the ground it reads as a temple, but from the air the nine petals open like a blossom. That's the view in my latest reel below.
 
 # When to go
 
@@ -89,6 +90,7 @@ En lo alto de la precordillera, en la comuna de **Peñalolén**, la **Casa de Ad
 - Vestite de forma sencilla y respetuosa, como en cualquier lugar de culto.
 - La visita suele ser corta: calculá una o dos horas con los jardines incluidos.
 - Los jardines y miradores son lo mejor para los fotógrafos.
+- **Desde el aire parece una flor:** desde el suelo es un templo, pero desde arriba los nueve pétalos se abren como una flor. Es la vista de mi reel más reciente, abajo.
 
 # Cuándo ir
 
