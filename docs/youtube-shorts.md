@@ -12,7 +12,7 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
-## 2026-10-14 · Oia, Santorini at sunset · Instagram Reel (pending)
+## 2026-10-14 · Oia, Santorini at sunset · Instagram Reel (media id 18148175275521767)
 - Story: /posts/santorini-mykonos-greece/ (embedded in "Santorini sunset tips")
 - YouTube ID: R5nwQ3Gr5Fg
 - Title: Oia, Santorini from above at sunset 🇬🇷 #santorini #greece
