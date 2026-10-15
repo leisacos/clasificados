@@ -12,7 +12,7 @@ cover: "ig:Dd_VOGgRijt"
 excerpt: "Golden hour over Santorini, impossibly clear water and the Mykonos windmills. How to split your time between the two islands."
 excerpt_es: "Hora dorada en Santorini, agua cristalina y los molinos de Mykonos. Cómo repartir tu tiempo entre las dos islas."
 tags: [greece, santorini, mykonos, greekislands]
-instagram: [Dd_VOGgRijt]
+instagram: [Dd_VOGgRijt, DefcauAjRS6]
 ---
 
 Golden hour over **Santorini**, water this clear, and the **windmills of Mykonos**. If Greece has been sitting on your list, this is your sign. Save this one for your trip 📌
