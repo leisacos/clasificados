@@ -12,7 +12,7 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
-## 2026-10-16 · Skógafoss rainbow, Iceland · YouTube Short + Instagram Reel
+## 2026-10-16 · Skógafoss rainbow, Iceland · YouTube Short + Instagram Reel (media id 18014382344970589)
 - Story: /posts/iceland-waterfalls-drone/ (embedded in "A classic South Coast route")
 - YouTube ID: 17_SPIWVbmU
 - Title: A rainbow at the foot of Skógafoss 🌈 Iceland #shorts
