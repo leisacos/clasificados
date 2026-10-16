@@ -12,6 +12,12 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
+## 2026-10-16 · Skógafoss rainbow, Iceland · YouTube Short + Instagram Reel
+- Story: /posts/iceland-waterfalls-drone/ (embedded in "A classic South Coast route")
+- YouTube ID: 17_SPIWVbmU
+- Title: A rainbow at the foot of Skógafoss 🌈 Iceland #shorts
+- Voice-over by Leiser; music: "Lopsided Tom" (made with Suno, 2026-10-16). Ends on a Subscribe card.
+
 ## 2026-10-14 · Oia, Santorini at sunset · Instagram Reel (media id 18148175275521767)
 - Story: /posts/santorini-mykonos-greece/ (embedded in "Santorini sunset tips")
 - YouTube ID: R5nwQ3Gr5Fg

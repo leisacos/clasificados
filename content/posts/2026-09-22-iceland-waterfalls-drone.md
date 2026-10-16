@@ -11,7 +11,7 @@ excerpt_es: "Las cascadas de Islandia se ven todavía más grandes desde el aire
 tags: [iceland, waterfalls, dronephotography, nature]
 instagram: [DdkklSWxQLk, DdiL4-7xpc9]
 youtube: UsqekS1Eob4
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 Some places are big. **Iceland is huge**, and you only really feel it from the air. Waterfalls dropping off cliffs, black-sand rivers and green valleys that go on forever.
@@ -28,6 +28,10 @@ Some places are big. **Iceland is huge**, and you only really feel it from the a
 2. **Seljalandsfoss** and **Skógafoss** waterfalls
 3. **Reynisfjara** black-sand beach (stay well back from the waves)
 4. **Jökulsárlón** glacier lagoon and Diamond Beach
+
+**Skógafoss** drops about 60 metres, and on sunny days the spray throws a full rainbow right at its foot. You can walk almost up to the water (bring a rain jacket):
+
+{{youtube 17_SPIWVbmU}}
 
 {{tours}}
 
@@ -94,6 +98,10 @@ Hay lugares grandes. **Islandia es enorme**, y eso se siente de verdad desde el 
 2. Las cascadas **Seljalandsfoss** y **Skógafoss**
 3. La playa de arena negra de **Reynisfjara** (mantenete lejos de las olas)
 4. La laguna glaciar **Jökulsárlón** y la Diamond Beach
+
+**Skógafoss** cae desde unos 60 metros y, en los días de sol, la bruma forma un arcoíris completo justo al pie de la cascada. Podés caminar casi hasta el agua (llevá campera impermeable):
+
+{{youtube 17_SPIWVbmU}}
 
 {{tours}}
 
