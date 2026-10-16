@@ -10,7 +10,7 @@ excerpt: "Incredible food, centuries-old traditions and Wakayama Castle, an easy
 excerpt_es: "Comida increíble, tradiciones centenarias y el Castillo de Wakayama, a un paso de Osaka. Las experiencias que vale la pena reservar y cómo planear tu viaje."
 tags: [japan, japanfood, asia, wakayama, castles]
 instagram: [Dd2qIeSRcD1, DeSwXbDjhji]
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 Some experiences you simply have to see in person. From incredible food to unforgettable traditions, **Japan has something around every corner** 🍣✨
@@ -60,6 +60,8 @@ In Tokyo, **Shinjuku** and **Shibuya** are lively and well connected, and **Asak
 {{hotels}}
 
 Combining Japan with more of Asia? See my guide to [Marina Bay Sands and Marina Bay in Singapore](/posts/marina-bay-sands-singapore-guide/).
+
+Planning more of Asia? See my route for [South Korea beyond Seoul](/posts/south-korea-beyond-seoul/).
 
 {{plan}}
 
@@ -112,5 +114,7 @@ En Tokio, **Shinjuku** y **Shibuya** son animados y están bien conectados, y **
 {{hotels}}
 
 ¿Sumás más de Asia al viaje? Mirá mi guía de [Marina Bay Sands y la bahía de Singapur](/es/posts/marina-bay-sands-singapore-guide/).
+
+¿Seguís por Asia? Mirá mi ruta por [Corea del Sur más allá de Seúl](/es/posts/south-korea-beyond-seoul/).
 
 {{plan}}

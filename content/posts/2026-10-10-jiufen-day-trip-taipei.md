@@ -96,6 +96,8 @@ Many day tours from Taipei combine Jiufen with Shifen, which is the easiest way 
 
 Planning more of Asia? Read about [Japan's food and traditions](/posts/japan-food-traditions/), [Marina Bay Sands in Singapore](/posts/marina-bay-sands-singapore-guide/) and [Korea beyond Seoul](/posts/south-korea-beyond-seoul/).
 
+Heading elsewhere in Asia? See my route for [South Korea beyond Seoul](/posts/south-korea-beyond-seoul/).
+
 # Frequently asked questions
 
 ## Is Jiufen the inspiration for Spirited Away?
@@ -192,6 +194,8 @@ Muchas excursiones desde Taipéi combinan Jiufen con Shifen, que es la forma má
 {{hotels}}
 
 ¿Planeás recorrer más de Asia? Leé sobre [la comida y las tradiciones de Japón](/es/posts/japan-food-traditions/), [Marina Bay Sands en Singapur](/es/posts/marina-bay-sands-singapore-guide/) y [Corea más allá de Seúl](/es/posts/south-korea-beyond-seoul/).
+
+¿Seguís viaje por Asia? Mirá mi ruta por [Corea del Sur más allá de Seúl](/es/posts/south-korea-beyond-seoul/).
 
 # Preguntas frecuentes
 
