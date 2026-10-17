@@ -30,7 +30,9 @@ Hundreds of waterfalls thundering over a horseshoe of cliffs in the middle of th
 The park has well-kept walkways through the jungle, and a small train links the main areas.
 
 ## Devil's Throat (Garganta del Diablo)
-The highlight. A walkway runs out over the river to the edge of a U-shaped chasm, where a huge share of the river drops into a cloud of spray. You hear it long before you see it. Take the park train to the last station, then walk the footbridge over the river. Go early: it gets crowded by late morning, and you will get wet from the mist.
+The highlight. A walkway runs out over the river to the edge of a U-shaped chasm, where a huge share of the river drops into a cloud of spray. You hear it long before you see it. Standing there, with tier after tier of waterfalls dropping into the mist and the jungle all around, I honestly felt like I'd stepped back into the age of the dinosaurs. It's incredible.
+
+Take the park train to the last station, then walk the footbridge over the river. Go early: it gets crowded by late morning, and you will get wet from the mist.
 
 ## Upper and Lower Circuits
 - **Upper Circuit (Circuito Superior):** walkways along the top of the falls, with views straight down as the water goes over the edge.
@@ -133,7 +135,9 @@ Cientos de saltos de agua cayendo sobre una herradura de acantilados en plena se
 El parque tiene pasarelas muy bien cuidadas en medio de la selva, y un tren conecta las zonas principales.
 
 ## La Garganta del Diablo
-Lo mejor de todo. Una pasarela cruza el río hasta el borde de un abismo en forma de U, donde gran parte del río cae en una nube de agua. La escuchás mucho antes de verla. Tomá el tren del parque hasta la última estación y después caminá la pasarela sobre el río. Andá temprano: a media mañana se llena de gente, y te vas a mojar con la bruma.
+Lo mejor de todo. Una pasarela cruza el río hasta el borde de un abismo en forma de U, donde gran parte del río cae en una nube de agua. La escuchás mucho antes de verla. Parado ahí, con cascadas escalonadas cayendo una tras otra en la bruma y la selva alrededor, sentí que había vuelto a la era de los dinosaurios. Es increíble.
+
+Tomá el tren del parque hasta la última estación y después caminá la pasarela sobre el río. Andá temprano: a media mañana se llena de gente, y te vas a mojar con la bruma.
 
 ## Circuitos Superior e Inferior
 - **Circuito Superior:** pasarelas por arriba de los saltos, con vistas directas al agua cayendo por el borde.
