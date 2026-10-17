@@ -13,7 +13,7 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 ---
 
 ## 2026-10-17 · Riding a boat into Iguazú Falls, Argentina · YouTube Short + Instagram Reel (posted 2026-10-17)
-- Story: (none yet — candidate for an Iguazú Falls guide)
+- Story: /posts/iguazu-falls-argentina-guide/ (embedded in "The boat ride into the falls")
 - YouTube ID: piiE5xzw4Y4
 - Title: Riding a boat into Iguazú Falls 🌊 Argentina #shorts
 - Two phone clips (Argentine side) joined with a dip to black; music: "Adrenaline Rush" (made with Suno, 2026-10-17; instrumental section only, the song has sung lyrics from 0:18 to 0:44). Ends on a Subscribe card.
