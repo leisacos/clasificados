@@ -12,7 +12,7 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
-## 2026-10-17 · Riding a boat into Iguazú Falls, Argentina · YouTube Short
+## 2026-10-17 · Riding a boat into Iguazú Falls, Argentina · YouTube Short + Instagram Reel (posted 2026-10-17)
 - Story: (none yet — candidate for an Iguazú Falls guide)
 - YouTube ID: piiE5xzw4Y4
 - Title: Riding a boat into Iguazú Falls 🌊 Argentina #shorts
