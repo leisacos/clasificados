@@ -12,6 +12,12 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
+## 2026-10-18 · The Flying Dinosaur, Universal Studios Japan (Osaka) · YouTube Short
+- Story: /posts/japan-food-traditions/ (section "In Osaka: The Flying Dinosaur at Universal Studios Japan")
+- YouTube ID: 0eaeIEm85tQ
+- Title: This roller coaster makes you fly face DOWN 🦖 Universal Studios Japan #shorts
+- Filmed from the ground in April 2025. Voice-over by Leiser ("…fly face DOWN over a pool", it's a lagoon); music: "Adrenaline Rush" (Suno, instrumental sections only), drop synced to "DOWN". Ends on a Subscribe card.
+
 ## 2026-10-17 · Riding a boat into Iguazú Falls, Argentina · YouTube Short + Instagram Reel (posted 2026-10-17)
 - Story: /posts/iguazu-falls-argentina-guide/ (embedded in "The boat ride into the falls")
 - YouTube ID: piiE5xzw4Y4

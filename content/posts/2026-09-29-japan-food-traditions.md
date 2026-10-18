@@ -10,7 +10,7 @@ excerpt: "Incredible food, centuries-old traditions and Wakayama Castle, an easy
 excerpt_es: "Comida increíble, tradiciones centenarias y el Castillo de Wakayama, a un paso de Osaka. Las experiencias que vale la pena reservar y cómo planear tu viaje."
 tags: [japan, japanfood, asia, wakayama, castles]
 instagram: [Dd2qIeSRcD1, DeSwXbDjhji]
-updated: 2026-10-16
+updated: 2026-10-18
 ---
 
 Some experiences you simply have to see in person. From incredible food to unforgettable traditions, **Japan has something around every corner** 🍣✨
@@ -52,6 +52,15 @@ About an hour from Osaka by train, **Wakayama Castle** sits on a wooded hill rig
 Combine it with the coast nearby, or with a night in Osaka. It's an easy, quieter alternative to the busiest castles in Kansai.
 
 {{youtube LDEsSchhq7g}}
+
+# In Osaka: The Flying Dinosaur at Universal Studios Japan
+
+If you're in Osaka and want a thrill, **Universal Studios Japan** is an easy train ride from the city centre. Its most famous ride is **The Flying Dinosaur**, a flying roller coaster in the Jurassic Park area: you ride lying face-down, as if a pterodactyl were carrying you over the lagoon. I filmed it from the ground in April 2025, and even from there it looks intense.
+
+{{youtube 0eaeIEm85tQ}}
+
+- **Tickets:** buy park tickets online in advance, especially for weekends and Japanese holidays. Express passes help cut the queues for the most popular rides.
+- **Tip:** check the official height and health restrictions before you queue, and leave loose items in the lockers.
 
 # Where to stay
 
@@ -106,6 +115,15 @@ A una hora de Osaka en tren, el **Castillo de Wakayama** está sobre una colina 
 Combinalo con la costa cercana o con una noche en Osaka. Es una alternativa más tranquila a los castillos más concurridos de Kansai.
 
 {{youtube LDEsSchhq7g}}
+
+# En Osaka: The Flying Dinosaur en Universal Studios Japan
+
+Si estás en Osaka y buscás adrenalina, **Universal Studios Japan** queda a un viaje corto en tren desde el centro. Su atracción más famosa es **The Flying Dinosaur**, una montaña rusa voladora en la zona de Jurassic Park: vas acostado boca abajo, como si un pterodáctilo te llevara volando sobre la laguna. La filmé desde abajo en abril de 2025, y aun desde ahí se ve intensa.
+
+{{youtube 0eaeIEm85tQ}}
+
+- **Entradas:** comprá las entradas al parque en línea con anticipación, sobre todo para fines de semana y feriados japoneses. Los Express Pass ayudan a evitar las filas de las atracciones más populares.
+- **Consejo:** revisá las restricciones oficiales de altura y salud antes de hacer la fila, y dejá los objetos sueltos en los lockers.
 
 # Dónde alojarse
 
