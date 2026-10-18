@@ -14,6 +14,7 @@ excerpt: "Planning a trip to Iguazú Falls in Argentina? Devil's Throat, the boa
 excerpt_es: "¿Vas a las Cataratas del Iguazú del lado argentino? La Garganta del Diablo, la lancha bajo los saltos, por qué podés necesitar visa para el lado brasileño, dónde alojarte y una escapada de compras a Ciudad del Este."
 tags: [argentina, iguazu, waterfalls, misiones, southamerica, guide]
 youtube: piiE5xzw4Y4
+instagram: [DelGoyBAcgT]
 ---
 
 Hundreds of waterfalls thundering over a horseshoe of cliffs in the middle of the jungle: **Iguazú Falls** is one of those places that feels too big for a photo. I went in **May 2026**, walked to the **Devil's Throat** and took the boat right into the spray. This guide covers what to see on the Argentine side, the boat ride, a visa warning for the Brazilian side, where I stayed and a shopping day trip to Paraguay.
