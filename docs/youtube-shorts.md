@@ -12,7 +12,7 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
-## 2026-10-18 · The Flying Dinosaur, Universal Studios Japan (Osaka) · YouTube Short + Instagram Reel (media id 18100129676181328)
+## 2026-10-18 · The Flying Dinosaur, Universal Studios Japan (Osaka) · YouTube Short + Instagram Reel (media id 18100129676181328) (shortcode DeooyUqicY4)
 - Story: /posts/japan-food-traditions/ (section "In Osaka: The Flying Dinosaur at Universal Studios Japan")
 - YouTube ID: 0eaeIEm85tQ
 - Title: This roller coaster makes you fly face DOWN 🦖 Universal Studios Japan #shorts
