@@ -163,6 +163,7 @@ ${body}
       <a href="${href(lang, '/work-with-me/')}">${e(s.workWithMe)}</a>
       <a href="${href(lang, '/disclosure/')}">${e(s.disclosure)}</a>
       <a href="${href(lang, '/privacy/')}">${e(s.privacy)}</a>
+      <a href="${href(lang, '/contact/')}">${e(s.contact)}</a>
       <a href="${href(lang, '/feed.xml')}">${e(s.rss)}</a>
       ${other.map((l) => `<a href="${href(l, path)}" hreflang="${l}" data-lang="${l}">🌐 ${e(config.languages[l].label)}</a>`).join('')}
     </div>
