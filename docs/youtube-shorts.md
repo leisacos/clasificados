@@ -12,6 +12,12 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
+## 2026-10-20 · The Dubai Fountain from a boat on Burj Lake · YouTube Short
+- Story: none yet (no Dubai post on the site)
+- YouTube ID: CZyQj8mKMzg
+- Title: These Dubai fountains are about to EXPLODE 💥 #shorts
+- Cut from Leiser's 4K original (vertical crop following the abra boat, then the tilt up the Burj Khalifa; ¾ speed, then half speed with frame interpolation). Voice-over by Leiser; music: "Adrenaline Rush" (Suno, from the drop at 0:48). Hosted at /social/dubai-fountain.mp4 — Metricool could not fetch that URL, so the Short was uploaded by hand. Ends on a Subscribe card.
+
 ## 2026-10-18 · The Flying Dinosaur, Universal Studios Japan (Osaka) · YouTube Short + Instagram Reel (media id 18100129676181328) (shortcode DeooyUqicY4)
 - Story: /posts/japan-food-traditions/ (section "In Osaka: The Flying Dinosaur at Universal Studios Japan")
 - YouTube ID: 0eaeIEm85tQ
