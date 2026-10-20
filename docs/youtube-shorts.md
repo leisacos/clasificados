@@ -12,6 +12,12 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
+## 2026-10-20 13:00 ART · Dubai Fountain show, third version · YouTube Short
+- Story: none yet (no Dubai post on the site)
+- YouTube ID: 21ubqOq22ZA
+- From a new 720p clip of Leiser's (YouCut_20261020): opens on the whole fountain show at full height with an abra in front. 4:5 window (576×720 crop following the action) over a blurred copy of the same footage, because a full vertical crop of 720p is too soft. Hook "This fountain shoots water up to 150 m high 💥" in the top band; voice-over from "From a boat on Burj Lake…" at 3 s; Adrenaline Rush from the drop; original audio (the fountain's song) muted. 12.7 s.
+- Test: compare "Stayed to watch" with CZyQj8mKMzg (4.9%) and The Flying Dinosaur (26.6%).
+
 ## 2026-10-20 · Dubai Fountain recut (opens on the burst) · YouTube Short + Instagram Reel
 - Story: none yet (no Dubai post on the site)
 - YouTube ID: zoMpOCAxUiQ
