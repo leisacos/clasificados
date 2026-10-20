@@ -12,6 +12,12 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
+## 2026-10-20 · Dubai Fountain recut (opens on the burst) · YouTube Short + Instagram Reel
+- Story: none yet (no Dubai post on the site)
+- YouTube ID: zoMpOCAxUiQ
+- Title: This fountain shoots water 150 m high 💥 Dubai #shorts
+- Recut after the first Dubai Short (CZyQj8mKMzg) kept only 4.9% of viewers ("about to explode" opening on a calm frame). Opens on the burst at full speed with a factual hook, then the boat and the tilt up the Burj Khalifa; voice-over from "From a boat on Burj Lake…". 12.8 s. Hosted at /social/dubai-fountain-burst.mp4.
+
 ## 2026-10-20 · The Dubai Fountain from a boat on Burj Lake · YouTube Short
 - Story: none yet (no Dubai post on the site)
 - YouTube ID: CZyQj8mKMzg
