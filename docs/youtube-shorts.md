@@ -12,7 +12,7 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
-## 2026-10-23 · Mdina, Malta — "You've seen this city in Game of Thrones" · YouTube Short + Instagram Reel
+## 2026-10-23 · Mdina, Malta — "You've seen this city in Game of Thrones" · YouTube Short + Instagram Reel (media id 18106650956258442)
 - Story: none yet (no Malta post on the site)
 - YouTube ID: KTLGwPrFbRI (vertical re-cut; the first upload, 8QDA0BSWIW4, was a 0:32 landscape clip that YouTube filed as a normal video and was deleted)
 - Long version: "Mdina, Malta from Above 4K | The Silent City from Game of Thrones" (2:20, regular video)
