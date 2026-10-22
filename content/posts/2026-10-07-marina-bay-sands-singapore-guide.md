@@ -63,6 +63,7 @@ The lotus-shaped building at the foot of the hotel is the **ArtScience Museum**,
 - **It's hot and humid all year.** Short, heavy tropical showers are common, so carry a small umbrella and plan indoor stops (the mall, the museum, the domes) for the hottest hours.
 - **Book popular tickets ahead** in busy periods, especially the observation deck at sunset.
 - **Stay connected:** maps and transport apps make getting around much easier.
+- **Love waterfront shows?** See the [Dubai Fountain from a boat on Burj Lake](/posts/dubai-fountain-show/).
 
 {{esim}}
 
@@ -144,6 +145,7 @@ El edificio con forma de flor de loto al pie del hotel es el **ArtScience Museum
 - **Hace calor y humedad todo el año.** Son comunes los chaparrones tropicales cortos y fuertes, así que llevá un paraguas chico y dejá las paradas bajo techo (el shopping, el museo, los domos) para las horas de más calor.
 - **Comprá con tiempo las entradas más pedidas** en temporada alta, sobre todo el mirador al atardecer.
 - **Mantenete conectado:** los mapas y las apps de transporte hacen todo mucho más fácil.
+- **¿Te gustan los shows frente al agua?** Mirá las [Fuentes de Dubái desde un bote en Burj Lake](/es/posts/dubai-fountain-show/).
 
 {{esim}}
 

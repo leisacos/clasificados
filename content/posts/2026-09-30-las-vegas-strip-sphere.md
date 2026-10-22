@@ -42,7 +42,7 @@ You don't need to gamble to fill a day in Vegas. Many of the best-known sights c
 - **Hunt for public art.** Vegas has murals and sculpture, including pieces in the Arts District and Downtown. Look for them while you walk.
 - **See Fremont Street.** The covered pedestrian street in Downtown has a light canopy and street performers, and it's a good contrast to the modern Strip.
 
-If you love places that turn light into spectacle, you might also enjoy [Arbórea Magna, Buenos Aires' tree of light](/posts/arborea-magna-buenos-aires/), or the nightly light show at the Supertrees in my [Marina Bay Sands and Singapore guide](/posts/marina-bay-sands-singapore-guide/).
+If you love places that turn light into spectacle, you might also enjoy [Arbórea Magna, Buenos Aires' tree of light](/posts/arborea-magna-buenos-aires/), or the nightly light show at the Supertrees in my [Marina Bay Sands and Singapore guide](/posts/marina-bay-sands-singapore-guide/). For a fountain show on a lake, see the [Dubai Fountain from a boat on Burj Lake](/posts/dubai-fountain-show/).
 
 # Getting to Las Vegas
 
@@ -119,7 +119,7 @@ No hace falta apostar para llenar un día en Las Vegas. Muchas de las atraccione
 - **Buscá arte público.** Las Vegas tiene murales y esculturas, incluso en el Arts District y en Downtown. Fijate mientras caminás.
 - **Conocé Fremont Street.** La calle peatonal techada de Downtown tiene un techo de luces y artistas callejeros, y es un buen contraste con el Strip moderno.
 
-Si te gustan los lugares donde la luz se vuelve espectáculo, quizás también te guste [Arbórea Magna, el árbol de luz de Buenos Aires](/es/posts/arborea-magna-buenos-aires/), o el show de luces nocturno de los Supertrees en mi [guía de Marina Bay Sands y Singapur](/es/posts/marina-bay-sands-singapore-guide/).
+Si te gustan los lugares donde la luz se vuelve espectáculo, quizás también te guste [Arbórea Magna, el árbol de luz de Buenos Aires](/es/posts/arborea-magna-buenos-aires/), o el show de luces nocturno de los Supertrees en mi [guía de Marina Bay Sands y Singapur](/es/posts/marina-bay-sands-singapore-guide/). Para un show de fuentes sobre un lago, mirá las [Fuentes de Dubái desde un bote en Burj Lake](/es/posts/dubai-fountain-show/).
 
 # Cómo llegar a Las Vegas
 
