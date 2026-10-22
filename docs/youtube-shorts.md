@@ -12,6 +12,12 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
+## 2026-10-23 · Mdina, Malta — "You've seen this city in Game of Thrones" · YouTube Short
+- Story: none yet (no Malta post on the site)
+- YouTube ID: 8QDA0BSWIW4
+- Title: You've seen this city in Game of Thrones 🏰 Malta #shorts
+- Drone footage of Mdina filmed by Leiser in May 2024; edited and uploaded by Leiser. Hook is a statement with an open loop (which city?), clues in the voice-over, reveal "King's Landing… Mdina, in Malta" near the end; question moved to the pinned comment.
+
 ## 2026-10-20 13:00 ART · Dubai Fountain show, third version · YouTube Short + Instagram Reel (media id 18099668336387768, posted 2026-10-21) (shortcode DewTS9hjqDq)
 - Story: /posts/dubai-fountain-show/
 - YouTube ID: 21ubqOq22ZA (embedded)
