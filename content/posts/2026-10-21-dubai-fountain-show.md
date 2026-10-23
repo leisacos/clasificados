@@ -50,6 +50,8 @@ Most people watch from the promenade or from a restaurant terrace, and both are 
 
 The fountain sits in the middle of Downtown Dubai. The **Burj Khalifa** observation decks, the **Dubai Mall** and the old-style souk-inspired areas around the lake are all within walking distance. If you love places that turn light into spectacle, see [Marina Bay Sands and Singapore](/posts/marina-bay-sands-singapore-guide/) or [the Las Vegas Strip and the Sphere](/posts/las-vegas-strip-sphere/).
 
+For another place that looks even better from above, see my [Mdina, Malta drone reel and guide](/posts/mdina-malta-game-of-thrones/).
+
 # Where to stay near the Dubai Fountain
 
 For the fountain, **Downtown Dubai** is the most convenient base, with the lake and the Burj Khalifa on your doorstep. It tends to cost more, so compare it with other areas that have good metro links.
@@ -111,6 +113,8 @@ La mayoría lo mira desde el paseo o desde una terraza, y ambas opciones son bue
 # Qué más ver cerca
 
 La fuente está en pleno Downtown Dubai. Los miradores del **Burj Khalifa**, el **Dubai Mall** y las zonas alrededor del lago quedan a pasos. Si te gustan los lugares donde la luz se vuelve espectáculo, mirá [Marina Bay Sands y Singapur](/es/posts/marina-bay-sands-singapore-guide/) o [Las Vegas y la Sphere](/es/posts/las-vegas-strip-sphere/).
+
+Para otro lugar que se ve mejor desde arriba, mirá mi [reel con dron y guía de Mdina, Malta](/es/posts/mdina-malta-game-of-thrones/).
 
 # Dónde alojarse cerca de las Fuentes de Dubái
 

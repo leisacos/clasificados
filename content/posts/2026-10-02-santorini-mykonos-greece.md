@@ -64,6 +64,8 @@ Both islands have airports (**JTR** for Santorini, **JMK** for Mykonos) with dir
 - In summer, the strong **meltemi** wind can make the sea rough and occasionally delay ferries, so leave some slack in your plans.
 - From November to March many hotels and restaurants close, especially in Mykonos.
 
+Another walled, hilltop island town worth a look: [Mdina, Malta's Silent City](/posts/mdina-malta-game-of-thrones/), which played King's Landing in Game of Thrones.
+
 # Where to stay
 
 In Santorini, stay on the **caldera edge** (Oia, Imerovigli, Fira) for the views, or near the beaches (Kamari, Perissa) to save money. In Mykonos, **Mykonos Town** keeps you walking distance from everything.
@@ -145,6 +147,8 @@ Las dos islas tienen aeropuerto (**JTR** en Santorini y **JMK** en Mykonos) con 
 - **Julio y agosto** son los meses más calurosos, llenos y caros. Reservá todo con mucha anticipación.
 - En verano sopla el **meltemi**, un viento fuerte que puede agitar el mar y a veces demorar los ferries, así que dejá margen en tus planes.
 - De noviembre a marzo muchos hoteles y restaurantes cierran, sobre todo en Mykonos.
+
+Otro pueblo amurallado en una isla que vale la pena: [Mdina, la Ciudad Silenciosa de Malta](/es/posts/mdina-malta-game-of-thrones/), que fue King's Landing en Game of Thrones.
 
 # Dónde alojarse
 
