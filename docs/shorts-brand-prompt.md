@@ -14,6 +14,10 @@ You are editing a YouTube Short (also posted as an Instagram Reel) for **Places,
 - Places people rarely see beat famous landmarks everyone has filmed. With a famous place, find an unusual angle (from a boat, a drone, inside the ride).
 - Title band and Subscribe card only at the end (last ~2 s), never over the action.
 - End on a question to the viewer ("Would you do it?").
+- A statement hook with an open loop beats a question: "You've seen this city in Game of Thrones 🏰" (Mdina) kept 32.5% and was shared more than usual. Put the question in the pinned comment instead.
+- Land the reveal or payoff by about 12 seconds. The Mdina Short was 29.5 s with the reveal at 19 s; the average view lasted only 14 s, so most viewers left before the payoff.
+- Post each clip once on YouTube. Re-uploading the same footage (Dubai, four times in two days) got almost no Shorts-feed views; if a Short flops, move on to new footage.
+- Shorts need to be vertical (or square) and under 3 minutes; a landscape clip uploaded as a "Short" becomes a normal video.
 
 ## Look
 - Vertical 1080×1920. Follow the subject with the crop; with 4K footage, crop at full resolution, never upscale.
