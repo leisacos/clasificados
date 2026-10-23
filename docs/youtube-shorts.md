@@ -12,7 +12,7 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
-## 2026-10-23 16:30 ART · Reynisfjara troll legend, Iceland · YouTube Short
+## 2026-10-23 16:30 ART · Reynisfjara troll legend, Iceland · YouTube Short + Instagram Reel (media id 18076247999760144)
 - Story: /posts/iceland-waterfalls-drone/ (candidate for an embed in the South Coast section)
 - YouTube ID: u7VwLjb_ZCI
 - Title: Locals say these rocks were once trolls 🪨 Iceland #shorts
