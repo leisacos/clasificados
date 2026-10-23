@@ -12,6 +12,12 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
+## 2026-10-23 16:30 ART · Reynisfjara troll legend, Iceland · YouTube Short
+- Story: /posts/iceland-waterfalls-drone/ (candidate for an embed in the South Coast section)
+- YouTube ID: u7VwLjb_ZCI
+- Title: Locals say these rocks were once trolls 🪨 Iceland #shorts
+- Base edit from another session (captions burned in: hook "Locals say these rocks were once trolls.", payoff at 12 s). Added "Trolls only came out at night…" at 6.3 s, Lopsided Tom (Suno) from 8.3 s so the build lands on the 12 s payoff, colour lift and an end card ("Would you visit at dawn?"). Leiser added a voice-over in the YouTube editor; final audio raised from −22.6 to −14 LUFS. 16.5 s. Hosted at /social/reynisfjara-trolls.mp4.
+
 ## 2026-10-23 · Mdina, Malta — "You've seen this city in Game of Thrones" · YouTube Short + Instagram Reel (media id 18106650956258442)
 - Story: /posts/mdina-malta-game-of-thrones/
 - YouTube ID: KTLGwPrFbRI (embedded; vertical re-cut; the first upload, 8QDA0BSWIW4, was a 0:32 landscape clip that YouTube filed as a normal video and was deleted)
