@@ -13,8 +13,8 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 ---
 
 ## 2026-10-23 16:30 ART · Reynisfjara troll legend, Iceland · YouTube Short + Instagram Reel (media id 18076247999760144)
-- Story: /posts/iceland-waterfalls-drone/ (candidate for an embed in the South Coast section)
-- YouTube ID: u7VwLjb_ZCI
+- Story: /posts/reynisfjara-black-sand-beach-iceland/
+- YouTube ID: u7VwLjb_ZCI (embedded)
 - Title: Locals say these rocks were once trolls 🪨 Iceland #shorts
 - Base edit from another session (captions burned in: hook "Locals say these rocks were once trolls.", payoff at 12 s). Added "Trolls only came out at night…" at 6.3 s, Lopsided Tom (Suno) from 8.3 s so the build lands on the 12 s payoff, colour lift and an end card ("Would you visit at dawn?"). Leiser added a voice-over in the YouTube editor; final audio raised from −22.6 to −14 LUFS. 16.5 s. Hosted at /social/reynisfjara-trolls.mp4.
 
