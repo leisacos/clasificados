@@ -18,6 +18,7 @@ You are editing a YouTube Short (also posted as an Instagram Reel) for **Places,
 - Land the reveal or payoff by about 12 seconds. The Mdina Short was 29.5 s with the reveal at 19 s; the average view lasted only 14 s, so most viewers left before the payoff.
 - Post each clip once on YouTube. Re-uploading the same footage (Dubai, four times in two days) got almost no Shorts-feed views; if a Short flops, move on to new footage.
 - Shorts need to be vertical (or square) and under 3 minutes; a landscape clip uploaded as a "Short" becomes a normal video.
+- The first frame must be bright, colourful or dramatic, with the hook in the big brand style (Fraunces, key word in yellow). Reynisfjara opened on a grey, misty frame with small caption text and kept only 21.8% (163 views in 16 h), against 32.5% for Mdina's sunny frame with the big hook — same story-hook format, different first frame.
 
 ## Look
 - Vertical 1080×1920. Follow the subject with the crop; with 4K footage, crop at full resolution, never upscale.
