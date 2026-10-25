@@ -52,6 +52,8 @@ San Alfonso del Mar is a **private resort**. The giant lagoon is generally reser
 
 # A day trip from Santiago
 
+This is one stop on my list of [day trips from Santiago](/posts/day-trips-from-santiago-chile/).
+
 1. **Morning**: drive west from Santiago and stop in the **Casablanca Valley** for a winery visit.
 2. **Midday**: continue to **Algarrobo** for seafood by the sea and a look at San Alfonso del Mar.
 3. **Afternoon**: head south along the coast to **Isla Negra** and Neruda's house-museum (check opening days and book ahead).
@@ -119,6 +121,8 @@ San Alfonso del Mar es un **resort privado**. La laguna gigante suele estar rese
 - Fuera del verano, revisá qué está abierto en el resort antes de reservar.
 
 # Una excursión de un día desde Santiago
+
+Es una de las paradas de mi lista de [excursiones de un día desde Santiago](/es/posts/day-trips-from-santiago-chile/).
 
 1. **Mañana**: salí de Santiago hacia el oeste y pará en el **Valle de Casablanca** para visitar una viña.
 2. **Mediodía**: seguí a **Algarrobo** para comer mariscos frente al mar y ver San Alfonso del Mar.
