@@ -6,10 +6,11 @@ city: "Buenos Aires"
 country: "Argentina"
 iata: "BUE"
 cover: "ig:DeCUzgARxEw"
-excerpt: "Light-up trees, painted shutters, street markets, parks and some of the best views in the city, all free. My favourite ways to see Buenos Aires without spending a peso."
-excerpt_es: "Árboles de luz, persianas pintadas, ferias, parques y algunas de las mejores vistas de la ciudad, todo gratis. Mis formas favoritas de recorrer Buenos Aires sin gastar un peso."
+excerpt: "Free things to do in Buenos Aires: light-up trees, painted shutters, street markets, parks and great views. My favourite ways to see the city for free."
+excerpt_es: "Cosas gratis para hacer en Buenos Aires: árboles de luz, persianas pintadas, ferias, parques y buenas vistas. Mis formas favoritas de recorrerla sin gastar."
 tags: [buenosaires, argentina, guide, budget]
 instagram: [DeCUzgARxEw, DdWT0InxgD4, DZ8_T6eRiEJ]
+updated: 2026-10-26
 ---
 
 Buenos Aires is one of those cities where some of the best experiences cost nothing. I spend most of my time here walking with a camera, and these are the free things I keep coming back to, from famous landmarks to the small details most visitors miss.
@@ -41,6 +42,18 @@ Buenos Aires is one of those cities where some of the best experiences cost noth
 14. **Casa Rosada guided visits**: the presidential palace offers free tours on some weekends. Check the official site and book ahead. The [Congress building](/posts/congreso-buenos-aires-guide/) at the other end of Avenida de Mayo has visits too.
 15. **The subte**: ride the metro and look out for the tiled murals in older stations. Some of my favourite photos come from just [changing perspective underground](https://www.instagram.com/p/DZ8_T6eRiEJ/).
 
+# Sample free days
+
+Not sure how to combine all this? Here are three easy ways to string the free things to do in Buenos Aires into a day:
+
+- **Art and photo day**: painted shutters and murals in Palermo in the morning, a stroll through Bosques de Palermo after lunch, and Arbórea Magna in Núñez at sunset.
+- **History and walking day**: Plaza de Mayo and the Casa Rosada, then Avenida de Mayo to the Congress building, and a free walking tour to tie it together.
+- **Weekend market day**: Feria de San Telmo on Sunday, lunch nearby, then Puerto Madero for the river walk and the Puente de la Mujer at dusk.
+
+# When to go
+
+Spring (September to November) and autumn (March to May) are the most comfortable seasons for walking. Summer can be hot and humid, and winter is mild but can be grey and rainy. Many of these spots are outdoors, so check the forecast. Markets like San Telmo run on Sundays, and some museums and visits close on Mondays, so check opening days before you go.
+
 # Tips to save even more
 
 - Use a **SUBE card** for subte, buses and trains. It's the cheapest way to get around.
@@ -60,6 +73,20 @@ Some of the best experiences aren't free, but they're worth budgeting for: a **t
 Not sure which neighbourhood to pick? Read my [where to stay in Buenos Aires guide](/posts/where-to-stay-buenos-aires/).
 
 {{hotels}}
+
+# Frequently asked questions
+
+## What are the best free things to do in Buenos Aires?
+The big favourites are the Feria de San Telmo on Sundays, Plaza de Mayo, Puerto Madero, Bosques de Palermo, the Floralis Genérica, the street art in Palermo and Villa Crespo, and Arbórea Magna at sunset.
+
+## Is Buenos Aires walkable?
+Yes, many neighbourhoods are very walkable, and the subte and buses connect the rest. Distances between areas can be long, so group your free stops by neighbourhood.
+
+## Are free walking tours in Buenos Aires really free?
+They're tip-based: you don't pay upfront, and you give what you think the tour was worth at the end. Check the current schedule and meeting points before you go.
+
+## Is it safe to take photos around the city?
+Many travellers walk with a camera or phone, but it's wise to stay aware of your surroundings, keep gear close in crowded places like markets, and check local safety advice before you go.
 
 {{plan}}
 
@@ -94,6 +121,18 @@ Buenos Aires es una de esas ciudades donde algunas de las mejores experiencias n
 14. **Visitas guiadas a la Casa Rosada**: hay visitas gratuitas algunos fines de semana. Revisá el sitio oficial y reservá con tiempo. Al otro extremo de la Avenida de Mayo, el [Congreso](/es/posts/congreso-buenos-aires-guide/) también tiene visitas.
 15. **El subte**: viajá en subte y prestá atención a los murales de azulejos en las estaciones más antiguas. Algunas de mis fotos favoritas salieron de [cambiar la perspectiva bajo tierra](https://www.instagram.com/p/DZ8_T6eRiEJ/).
 
+# Días gratis de ejemplo
+
+¿No sabés cómo combinar todo esto? Acá van tres formas simples de armar un día con planes gratis en Buenos Aires:
+
+- **Día de arte y fotos**: persianas pintadas y murales en Palermo a la mañana, una vuelta por los Bosques de Palermo después de almorzar y Arbórea Magna, en Núñez, al atardecer.
+- **Día de historia y caminata**: Plaza de Mayo y la Casa Rosada, después la Avenida de Mayo hasta el Congreso, y un free walking tour para cerrar.
+- **Día de feria**: la Feria de San Telmo el domingo, almuerzo por la zona y después Puerto Madero para caminar junto al río y ver el Puente de la Mujer al atardecer.
+
+# Cuándo ir
+
+La primavera (de septiembre a noviembre) y el otoño (de marzo a mayo) son las épocas más cómodas para caminar. El verano puede ser caluroso y húmedo, y el invierno es templado pero a veces gris y lluvioso. Muchos de estos lugares son al aire libre, así que mirá el pronóstico. Ferias como la de San Telmo funcionan los domingos, y algunos museos y visitas cierran los lunes, así que fijate los días de apertura antes de ir.
+
 # Tips para ahorrar todavía más
 
 - Usá la **tarjeta SUBE** para subte, colectivos y trenes. Es la forma más barata de moverse.
@@ -113,5 +152,19 @@ Algunas de las mejores experiencias no son gratis, pero vale la pena reservarles
 ¿No sabés qué barrio elegir? Leé mi [guía de dónde alojarse en Buenos Aires](/es/posts/where-to-stay-buenos-aires/).
 
 {{hotels}}
+
+# Preguntas frecuentes
+
+## ¿Cuáles son las mejores cosas gratis para hacer en Buenos Aires?
+Las más elegidas son la Feria de San Telmo los domingos, la Plaza de Mayo, Puerto Madero, los Bosques de Palermo, la Floralis Genérica, el arte urbano de Palermo y Villa Crespo, y Arbórea Magna al atardecer.
+
+## ¿Se puede recorrer Buenos Aires a pie?
+Sí, muchos barrios se recorren muy bien caminando, y el subte y los colectivos conectan el resto. Las distancias entre barrios pueden ser largas, así que agrupá los planes gratis por zona.
+
+## ¿Los free walking tours son realmente gratis?
+Son a la gorra: no pagás de entrada y al final dejás lo que te pareció justo. Revisá los horarios y puntos de encuentro actuales antes de ir.
+
+## ¿Es seguro sacar fotos por la ciudad?
+Mucha gente recorre la ciudad con cámara o celular, pero conviene estar atento al entorno, llevar el equipo cerca en lugares con mucha gente como las ferias, y consultar las recomendaciones de seguridad antes de viajar.
 
 {{plan}}
