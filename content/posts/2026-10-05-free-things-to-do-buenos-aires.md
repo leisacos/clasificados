@@ -74,6 +74,8 @@ Not sure which neighbourhood to pick? Read my [where to stay in Buenos Aires gui
 
 {{hotels}}
 
+Planning to go further north? Flights from Buenos Aires reach the falls in under two hours: see my [Iguazú Falls guide](/posts/iguazu-falls-argentina-guide/).
+
 # Frequently asked questions
 
 ## What are the best free things to do in Buenos Aires?
@@ -152,6 +154,8 @@ Algunas de las mejores experiencias no son gratis, pero vale la pena reservarles
 ¿No sabés qué barrio elegir? Leé mi [guía de dónde alojarse en Buenos Aires](/es/posts/where-to-stay-buenos-aires/).
 
 {{hotels}}
+
+¿Pensás ir más al norte? Desde Buenos Aires se llega a las cataratas en menos de dos horas de vuelo: mirá mi [guía de las Cataratas del Iguazú](/es/posts/iguazu-falls-argentina-guide/).
 
 # Preguntas frecuentes
 

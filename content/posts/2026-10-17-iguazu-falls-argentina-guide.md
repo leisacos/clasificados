@@ -1,6 +1,6 @@
 ---
-title: "Iguazú Falls, Argentina: Devil's Throat, the boat ride and tips for your visit"
-title_es: "Cataratas del Iguazú, Argentina: la Garganta del Diablo, la lancha y consejos para tu visita"
+title: "Iguazú Falls, Argentina: Devil's Throat, boat ride & tips"
+title_es: "Cataratas del Iguazú, Argentina: Garganta del Diablo y consejos"
 date: 2026-10-17
 city: "Puerto Iguazú"
 city_es: "Puerto Iguazú"
@@ -10,11 +10,12 @@ iata: "IGR"
 cover: "/images/iguazu-falls.jpg"
 coverAlt: "Iguazú Falls from the Argentine side: a boat heading into the spray, the falls under a blue sky and the mist at the foot of the cliffs"
 coverAlt_es: "Las Cataratas del Iguazú del lado argentino: una lancha entrando en la bruma, los saltos bajo un cielo azul y la niebla al pie de los acantilados"
-excerpt: "Planning a trip to Iguazú Falls in Argentina? Devil's Throat, the boat ride under the falls, why you may need a visa for the Brazilian side, where to stay and a shopping day trip to Ciudad del Este."
-excerpt_es: "¿Vas a las Cataratas del Iguazú del lado argentino? La Garganta del Diablo, la lancha bajo los saltos, por qué podés necesitar visa para el lado brasileño, dónde alojarte y una escapada de compras a Ciudad del Este."
+excerpt: "Planning Iguazú Falls in Argentina? See Devil's Throat, the boat ride, Brazil visa rules, where to stay and a Paraguay shopping day trip from Puerto Iguazú."
+excerpt_es: "Cataratas del Iguazú del lado argentino: Garganta del Diablo, la lancha, visa para Brasil, dónde alojarte y una escapada de compras a Paraguay. Guía práctica."
 tags: [argentina, iguazu, waterfalls, misiones, southamerica, guide]
 youtube: piiE5xzw4Y4
 instagram: [DelGoyBAcgT]
+updated: 2026-10-27
 ---
 
 Hundreds of waterfalls thundering over a horseshoe of cliffs in the middle of the jungle: **Iguazú Falls** is one of those places that feels too big for a photo. I went in **May 2026**, walked to the **Devil's Throat** and took the boat right into the spray. This guide covers what to see on the Argentine side, the boat ride, a visa warning for the Brazilian side, where I stayed and a shopping day trip to Paraguay.

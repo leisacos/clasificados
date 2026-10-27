@@ -88,6 +88,8 @@ Palermo, Recoleta, Puerto Madero and Belgrano are the areas most visitors pick f
 
 The **subte** (metro) is cheap and handy for the centre, Recoleta and parts of Palermo, but it doesn't reach everywhere. Buses are frequent, and taxis and rideshares are generally affordable by international standards. Fares change often, so check before you go. If your plans include the [street art in Palermo](/posts/buenos-aires-street-art-painted-shutters/), you can do a lot of it on foot.
 
+Heading north from the capital? Buenos Aires is also the main gateway for flights to the falls: see my [Iguazú Falls guide](/posts/iguazu-falls-argentina-guide/).
+
 # Frequently asked questions
 
 ## What is the best area to stay in Buenos Aires for first-timers?
@@ -180,6 +182,8 @@ Palermo, Recoleta, Puerto Madero y Belgrano son las zonas que la mayoría elige 
 # Cómo moverte desde tu base
 
 El **subte** es barato y práctico para el centro, Recoleta y parte de Palermo, pero no llega a todos lados. Los colectivos pasan seguido, y los taxis y autos de aplicación suelen ser accesibles en comparación con otros países. Las tarifas cambian seguido, así que chequealas antes de viajar. Si querés ver el [arte urbano de Palermo](/es/posts/buenos-aires-street-art-painted-shutters/), mucho se puede hacer a pie.
+
+¿Seguís viaje hacia el norte? Buenos Aires es también la puerta de entrada para volar a las cataratas: mirá mi [guía de las Cataratas del Iguazú](/es/posts/iguazu-falls-argentina-guide/).
 
 # Preguntas frecuentes
 
