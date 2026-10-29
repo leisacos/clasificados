@@ -10,7 +10,7 @@ excerpt: "Three things to do in Tasmania I'd do again: the Henty Dunes near Stra
 excerpt_es: "Tres cosas para hacer en Tasmania que repetiría: las dunas de Henty en Strahan, los demonios de Bonorong y Cataract Gorge en Launceston. Con ruta en auto."
 tags: [tasmania, australia, roadtrip, wildlife, guide]
 instagram: [DeK18snCNBP, DeIlRwNxzVN]
-updated: 2026-10-07
+updated: 2026-10-29
 ---
 
 Tasmania is Australia's wild island state: rainforest, empty beaches, mountains and animals you won't see anywhere else. These are **three things to do in Tasmania** that I filmed on my trip, and that I'd happily do again: giant sand dunes on the west coast, Tasmanian devils up close, and a river gorge right on the edge of a city.
@@ -77,7 +77,7 @@ Base yourself in **Hobart** for the south, **Strahan** for the west coast and **
 
 {{insurance}}
 
-Planning more of Australia? Read my guide to [Sydney after dark](/posts/sydney-after-dark-cabaret/).
+Planning more of Australia? Read my guide to [Sydney after dark](/posts/sydney-after-dark-cabaret/). Flying on across the Pacific? See [New Caledonia in the South Pacific](/posts/new-caledonia-south-pacific/). And for another wild, windswept shoreline, read about the [Reynisfjara black sand beach in Iceland](/posts/reynisfjara-black-sand-beach-iceland/).
 
 # Frequently asked questions
 
@@ -161,7 +161,7 @@ Instalate en **Hobart** para el sur, en **Strahan** para la costa oeste y en **L
 
 {{insurance}}
 
-¿Planeás recorrer más de Australia? Leé mi guía de [Sídney de noche](/es/posts/sydney-after-dark-cabaret/).
+¿Planeás recorrer más de Australia? Leé mi guía de [Sídney de noche](/es/posts/sydney-after-dark-cabaret/). ¿Seguís viaje por el Pacífico? Mirá [Nueva Caledonia en el Pacífico Sur](/es/posts/new-caledonia-south-pacific/). Y para otra costa salvaje y ventosa, leé sobre la [playa de arena negra de Reynisfjara en Islandia](/es/posts/reynisfjara-black-sand-beach-iceland/).
 
 # Preguntas frecuentes
 
