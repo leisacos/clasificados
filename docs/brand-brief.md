@@ -39,6 +39,7 @@ Instagram is the growth engine; YouTube Shorts plateau around 500–1,300 views.
 | Dubai fountain show | Full fountain show on frame 1, fact hook "shoots water up to 150 m" | 36.7% stayed |
 | Mdina, Malta | Sunny frame + big hook "You've seen this city in Game of Thrones 🏰" | 32.5% stayed, shared more than usual, 763 views; viewers left at 14 s, the reveal came at 19 s |
 | Reynisfjara, Iceland (troll legend) | Grey, misty frame, small caption hook | 21.8% stayed on YouTube, 163 views; **824 views on Instagram overnight** |
+| Devil's Throat, Iguazú (Oct 2026) | Raw, powerful footage of the falls, no voice-over, just a Suno track; title hook "This is called the Devil's Throat 😈" | **44.4% stayed (549 engaged views), 1.1K views in 6 h — 4.1x the usual — +3 subscribers**. Best Short so far |
 | Instagram Reels | — | Skógafoss rainbow 2,339 · Dubai (boosted) 1,651 · Oia sunset 1,588 · Mdina 928 |
 | Instagram boost | — | A$8/day on the Dubai Reel brought ~160 followers (about A$0.05–0.10 each), none lost |
 
@@ -52,6 +53,7 @@ Instagram is the growth engine; YouTube Shorts plateau around 500–1,300 views.
 7. **YouTube Shorts must be vertical** (a landscape clip becomes a normal video).
 8. **Give viewers a reason to follow:** end with "Follow for places most people never see 🌍" or a similar line.
 9. **Boost on Instagram, not YouTube.** YouTube promos brought subscribers who left.
+10. **Spectacular footage can carry a Short on its own.** When the first frame is overwhelming (Devil's Throat), music plus a strong title hook is enough; heavy editing and voice-over matter most for calmer footage.
 
 ## 4. Formats
 
