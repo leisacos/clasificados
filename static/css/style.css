@@ -109,7 +109,6 @@ h2 { font-size: clamp(1.5rem, 3vw, 2rem); }
 .cta-text strong { font-size: .95rem; }
 .cta-text small { color: var(--muted); font-size: .78rem; }
 .cta-flights, .cta-hotels { border-color: color-mix(in srgb, var(--accent) 45%, var(--line)); }
-.inline-cta { margin: 1.5rem 0; max-width: 360px; }
 .plan-box { margin: 2.5rem 0; padding: 1.5rem; border-radius: var(--radius); background: color-mix(in srgb, var(--sea) 9%, var(--surface)); border: 1px solid color-mix(in srgb, var(--sea) 25%, var(--line)); }
 .plan-box h3 { margin-top: 0; font-size: 1.5rem; }
 .plan-intro { color: var(--muted); font-size: .92rem; margin-top: -.3rem; }
@@ -196,14 +195,8 @@ h2 { font-size: clamp(1.5rem, 3vw, 2rem); }
 .guide-text .kicker { font-size: .7rem; }
 .guide-text strong { font-family: var(--serif); font-size: 1.02rem; }
 
-/* Booking row: home (after start-here) and top of every story */
-.quick-book { margin-top: 1.5rem; padding: 1rem; border-radius: var(--radius); background: color-mix(in srgb, var(--sea) 9%, var(--surface)); border: 1px solid color-mix(in srgb, var(--sea) 25%, var(--line)); }
-.quick-book-title { margin: 0 0 .7rem; font-size: .95rem; }
-.quick-book-title span { color: var(--muted); }
-.quick-book .cta { padding: .65rem .85rem; }
-.quick-book-post { margin: 0 0 1.5rem; }
-/* On wide screens the sticky sidebar already shows these buttons next to the title. */
-@media (min-width: 901px) { .quick-book-post { display: none; } }
+/* Destination intros */
+.dest-intro { margin-top: .5rem; margin-bottom: 1.5rem; }
 
 /* Media kit */
 .kit-stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: .75rem; margin: 1.5rem 0 .5rem; }

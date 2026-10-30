@@ -88,9 +88,11 @@ function shortcodesFor(post, lang) {
   const ctx = { city: post.city, country: post.country, iata: post.iata, place: loc(post, 'city', lang) || loc(post, 'country', lang) };
   return (name, arg) => {
     const local = arg && name !== 'instagram' ? { ...ctx, city: arg, place: arg } : ctx;
-    if (name === 'plan') return aff.planBox(local, lang);
+    if (name === 'plan') return aff.planBox(local, lang, aff.CORE);
     if (name === 'instagram') return instagramEmbeds(arg ? arg.split(/[\s,]+/).filter(Boolean) : post.instagram);
-    if (aff.ALL_KINDS.includes(name)) return `<div class="inline-cta">${aff.button(name, local, lang)}</div>`;
+    // Inline single buttons ({{hotels}}, {{tours}}…) are no longer shown: each story
+    // keeps one short booking box ({{plan}}) so affiliate links stay a small part of the page.
+    if (aff.ALL_KINDS.includes(name)) return '';
     if (name === 'widget') return aff.widget(arg || 'flights', lang);
     if (name === 'youtube') { const [id, fmt] = (arg || post.youtube || '').split(/\s+/); return t.youtubeEmbed(id, loc(post, 'title', lang), lang, fmt === 'wide'); }
     return '';
@@ -158,6 +160,15 @@ for (const p of posts) {
 }
 const destinations = [...destMap.values()].sort((a, b) => b.posts.length - a.posts.length || a.name.localeCompare(b.name));
 
+// Optional introductions for the destination pages (content/destinations.json):
+// one string per paragraph, per language.
+const destIntros = fs.existsSync(path.join(ROOT, 'content/destinations.json'))
+  ? JSON.parse(fs.readFileSync(path.join(ROOT, 'content/destinations.json'), 'utf8')) : {};
+const introHtml = (entry) => Object.fromEntries(Object.entries(entry || {})
+  .map(([l, paras]) => [l, paras.map((t) => `<p>${escapeHtml(t)}</p>`).join('\n')]));
+for (const d of destinations) d.intro = introHtml(destIntros[d.slug]);
+const destIndexIntro = introHtml(destIntros._index);
+
 // ---------- Load pages ----------
 const pagesDir = path.join(ROOT, 'content/pages');
 const pages = fs.readdirSync(pagesDir).filter((f) => f.endsWith('.md')).map((file) => {
@@ -183,7 +194,7 @@ for (const lang of LANGS) {
     writeLang(lang, `posts/${p.slug}/index.html`, t.post(lang, p, html, related, extractFaq(md)));
   }
 
-  writeLang(lang, 'destinations/index.html', t.destinationsIndex(lang, destinations));
+  writeLang(lang, 'destinations/index.html', t.destinationsIndex(lang, destinations, destIndexIntro));
   for (const d of destinations) writeLang(lang, `destinations/${d.slug}/index.html`, t.destination(lang, d));
 
   for (const pg of pages) {

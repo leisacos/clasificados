@@ -57,13 +57,13 @@ function createAffiliate(config) {
       `<span class="cta-text"><strong>${escapeHtml(label)}</strong><small>${escapeHtml(fill(s.viaBrand, { brand: p.brand }))}</small></span></a>`;
   }
 
-  function planBox(ctx = {}, lang = 'en') {
+  function planBox(ctx = {}, lang = 'en', kinds = KINDS) {
     const s = strings(lang);
     const where = ctx.place || ctx.city || ctx.country;
     return `<aside class="plan-box" aria-label="${escapeHtml(s.planYourTrip)}">
   <h3>${escapeHtml(where ? fill(s.planYourTripTo, { where }) : s.planYourTrip)}</h3>
   <p class="plan-intro">${escapeHtml(s.planIntro)}</p>
-  <div class="cta-grid">${KINDS.map((k) => button(k, ctx, lang)).join('')}</div>
+  <div class="cta-grid">${kinds.map((k) => button(k, ctx, lang)).join('')}</div>
 </aside>`;
   }
 
@@ -72,7 +72,10 @@ function createAffiliate(config) {
     return w[`${kind}_${lang}`] || w[kind] || '';
   }
 
-  return { track, partnerUrl, button, planBox, widget, KINDS, ALL_KINDS };
+  // The short set used in stories, destination pages and the home page.
+  const CORE = ['hotels', 'tours', 'flights'];
+
+  return { track, partnerUrl, button, planBox, widget, KINDS, ALL_KINDS, CORE };
 }
 
 module.exports = { createAffiliate };

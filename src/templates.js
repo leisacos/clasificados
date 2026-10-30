@@ -25,16 +25,6 @@ function createTemplates(config, aff) {
     .toLocaleDateString(config.languages[lang].locale, { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' });
 
   const place = (p, lang) => [loc(p, 'city', lang), loc(p, 'country', lang)].filter(Boolean).join(', ');
-  const ctxFor = (p, lang) => ({ city: p.city, country: p.country, iata: p.iata, place: loc(p, 'city', lang) || loc(p, 'country', lang) });
-
-  // Top-of-story booking buttons: the kinds the story itself uses, in order,
-  // topped up with tours / hotels / flights. Insurance and eSIM stay in the sidebar.
-  function quickKinds(p, lang) {
-    const md = p.bodies[lang] || p.bodies[defaultLang] || '';
-    const used = [...md.matchAll(/^\{\{\s*([a-z]+)/gm)].map((m) => m[1]);
-    const pick = [...used, 'tours', 'hotels', 'flights'].filter((k) => aff.ALL_KINDS.includes(k) && !['insurance', 'esim'].includes(k));
-    return [...new Set(pick)].slice(0, 3);
-  }
 
   // Privacy-friendly YouTube embed (youtube-nocookie), lazy-loaded. Shorts are
   // vertical by default; pass wide=true for a regular 16:9 video.
@@ -205,10 +195,6 @@ ${body}
 <section class="wrap start-here">
   ${guides.length ? `<h2 class="section-title">${e(s.startHere)}</h2>
   <div class="guide-list">${guides.map((p) => guideLink(p, lang)).join('')}</div>` : ''}
-  <div class="quick-book">
-    <p class="quick-book-title"><strong>${e(s.bookYourTrip)}</strong> <span>${e(s.bookYourTripText)}</span></p>
-    <div class="cta-grid">${['tours', 'cars', 'flights', 'esim'].map((k) => aff.button(k, {}, lang)).join('')}</div>
-  </div>
 </section>
 ${featured ? `
 <section class="wrap featured">
@@ -238,7 +224,7 @@ ${destinations.length ? `
 </section>` : ''}
 ${igStrip(media, lang)}
 <section class="wrap">
-  ${aff.planBox({}, lang)}
+  ${aff.planBox({}, lang, aff.CORE)}
 </section>`;
     return layout({
       lang,
@@ -268,8 +254,6 @@ ${igStrip(media, lang)}
 
   function post(lang, p, html, related, faq = []) {
     const s = strings(lang);
-    const ctx = ctxFor(p, lang);
-    const hotelsWidget = aff.widget('hotels', lang);
     const title = loc(p, 'title', lang);
     const translated = lang === defaultLang || p.bodies[lang];
     const body = `
@@ -287,10 +271,6 @@ ${igStrip(media, lang)}
     <div class="prose">
       <p class="disclosure-note">${e(s.affiliateNote)} <a href="${href(lang, '/disclosure/')}">${e(s.learnMore)}</a>.</p>
       ${translated ? '' : `<p class="notice">${e(s.notTranslated)}</p>`}
-      <div class="quick-book quick-book-post">
-        <p class="quick-book-title"><strong>${e(ctx.place ? fill(s.planYourTripTo, { where: ctx.place }) : s.planYourTrip)}</strong></p>
-        <div class="cta-grid">${quickKinds(p, lang).map((k) => aff.button(k, ctx, lang)).join('')}</div>
-      </div>
       ${p.youtube && !/\{\{\s*youtube\s*\}\}/.test(p.bodies[lang] || p.bodies[defaultLang] || '') ? youtubeEmbed(p.youtube, loc(p, 'title', lang), lang) : ''}
       ${html}
       <div class="share-row">${pinButton(p, lang)}</div>
@@ -299,14 +279,13 @@ ${igStrip(media, lang)}
     <aside class="sidebar">
       <div class="sticky">
         <div class="side-box">
-          <h3>${e(s.planThisTrip)}</h3>
-          ${['flights', 'hotels', 'tours'].map((k) => aff.button(k, ctx, lang)).join('')}
+          <h3>${e(s.aboutAuthorTitle)}</h3>
+          <p>${e(s.aboutAuthorText)}</p>
+          <p><a href="${href(lang, '/about/')}">${e(s.aboutAuthorMore)}</a></p>
+          ${igUrl ? `<p><a href="${igUrl}" target="_blank" rel="noopener">Instagram @${e(ig)}</a></p>` : ''}
+          ${ytUrl ? `<p><a href="${ytUrl}" target="_blank" rel="noopener">YouTube</a></p>` : ''}
         </div>
-        ${hotelsWidget ? `<div class="side-box">${hotelsWidget}</div>` : ''}
-        <div class="side-box small">
-          <h3>${e(s.dontTravelWithout)}</h3>
-          ${['insurance', 'esim'].map((k) => aff.button(k, ctx, lang)).join('')}
-        </div>
+        ${p.country ? `<div class="side-box small"><a href="${href(lang, `/destinations/${p.countrySlug}/`)}">${e(fill(s.moreFrom, { name: loc(p, 'country', lang) }))}</a></div>` : ''}
       </div>
     </aside>
   </div>
@@ -342,13 +321,14 @@ ${igStrip(media, lang)}
     });
   }
 
-  function destinationsIndex(lang, destinations) {
+  function destinationsIndex(lang, destinations, intro) {
     const s = strings(lang);
     const body = `
 <section class="page-head wrap">
   <h1>${e(s.destinations)}</h1>
   <p class="lead">${e(s.destinationsLead)}</p>
 </section>
+${intro && intro[lang] ? `<section class="wrap narrow prose dest-intro">${intro[lang]}</section>` : ''}
 <section class="wrap dest-grid">
   ${destinations.map((d) => `<a class="dest-card" href="${href(lang, `/destinations/${d.slug}/`)}">
     ${cover(d.posts.find((p) => p.cover) || d.posts[0], 'dest-img', lang)}
@@ -368,8 +348,9 @@ ${igStrip(media, lang)}
   <h1>${e(fill(s.guideTitle, { name }))}</h1>
   <p class="lead">${e(fill(s.guideLead, { name }))}</p>
 </section>
+${d.intro && d.intro[lang] ? `<section class="wrap narrow prose dest-intro">${d.intro[lang]}</section>` : ''}
 <section class="wrap"><div class="grid">${d.posts.map((p) => card(p, lang)).join('')}</div></section>
-<section class="wrap">${aff.planBox({ country: d.name, place: name, iata: withIata && withIata.iata }, lang)}</section>`;
+<section class="wrap">${aff.planBox({ country: d.name, place: name, iata: withIata && withIata.iata }, lang, aff.CORE)}</section>`;
     return layout({ lang, title: fill(s.guideTitle, { name }), description: fill(s.guideDescription, { name }), path: `/destinations/${d.slug}/`, body });
   }
 

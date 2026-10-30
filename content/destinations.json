@@ -1,0 +1,153 @@
+{
+  "_help": "Introductions shown at the top of /destinations/ and each /destinations/<slug>/ page. One string per paragraph. Keys are the country slugs (lowercase, hyphenated).",
+  "_index": {
+    "en": [
+      "Places, Not Faces is a collection of travel guides from the places I have actually been: big cities, small towns, waterfalls, beaches and viewpoints across South America, Asia, Europe, Oceania, the Middle East and the United States. Every guide is written from my own trips and illustrated with photos and drone footage I filmed myself, in English and Spanish.",
+      "Pick a country below to see every guide I have written about it. Each one covers what makes the place worth visiting, how to get there, the best time to go and the practical details that are easy to miss, like tickets, opening hours, safety and where to stay. Buenos Aires has the most guides, because it is where I live; the rest come from trips over the years."
+    ],
+    "es": [
+      "Places, Not Faces es una colección de guías de viaje de lugares donde estuve de verdad: grandes ciudades, pueblos chicos, cataratas, playas y miradores de Sudamérica, Asia, Europa, Oceanía, Medio Oriente y Estados Unidos. Cada guía está escrita a partir de mis propios viajes, con fotos e imágenes de dron que filmé yo, en español e inglés.",
+      "Elegí un país para ver todas las guías que escribí sobre él. Cada una cuenta qué hace que el lugar valga la pena, cómo llegar, la mejor época para ir y los detalles prácticos que es fácil pasar por alto, como entradas, horarios, seguridad y dónde alojarse. Buenos Aires tiene la mayor cantidad de guías porque es donde vivo; el resto viene de viajes a lo largo de los años."
+    ]
+  },
+  "argentina": {
+    "en": [
+      "Argentina is where I live, so it is the country I know best. Most of my guides focus on Buenos Aires: its barrios, its street art and painted shop shutters, free things to do, parks like the Bosques de Palermo, landmarks such as the Congress building and Arbórea Magna, and which neighbourhood to stay in depending on the kind of trip you want.",
+      "Beyond the capital, I cover Iguazú Falls in the far north-east, where the Devil's Throat and the boat rides under the falls are among the most powerful things I have seen anywhere. Argentina is huge, so plan long distances by plane rather than by road, and keep in mind that the seasons are the reverse of the northern hemisphere: summer runs from December to February."
+    ],
+    "es": [
+      "Argentina es donde vivo, así que es el país que mejor conozco. La mayoría de mis guías se centran en Buenos Aires: sus barrios, su arte callejero y las persianas pintadas de los comercios, cosas gratis para hacer, parques como los Bosques de Palermo, lugares emblemáticos como el Congreso y Arbórea Magna, y en qué barrio alojarse según el tipo de viaje que busques.",
+      "Fuera de la capital, escribo sobre las Cataratas del Iguazú, en el extremo noreste, donde la Garganta del Diablo y los paseos en lancha bajo los saltos están entre lo más impactante que vi en cualquier lugar. Argentina es enorme, así que conviene hacer las distancias largas en avión, y tené en cuenta que las estaciones son al revés que en el hemisferio norte: el verano va de diciembre a febrero."
+    ]
+  },
+  "australia": {
+    "en": [
+      "Australia is home for me, and it is a country of enormous distances, from big coastal cities to wild islands. My guides cover two very different sides of it: Sydney after dark, with its cabaret, circus and evening shows, and Tasmania, the island state south of the mainland, with the Henty Dunes, Tasmanian devils and Cataract Gorge in Launceston.",
+      "If you are planning a first trip, choose one or two regions rather than trying to see the whole country, and fly between them. Seasons are the reverse of the northern hemisphere, and Tasmania is noticeably cooler than Sydney all year, so pack layers even in summer."
+    ],
+    "es": [
+      "Australia es mi país, y es un lugar de distancias enormes, desde grandes ciudades costeras hasta islas salvajes. Mis guías cubren dos caras muy distintas: Sídney de noche, con su cabaret, circo y espectáculos nocturnos, y Tasmania, el estado isla al sur del continente, con las dunas de Henty, los demonios de Tasmania y Cataract Gorge en Launceston.",
+      "Si estás planeando un primer viaje, elegí una o dos regiones en lugar de intentar ver todo el país, y movete entre ellas en avión. Las estaciones son al revés que en el hemisferio norte, y Tasmania es bastante más fresca que Sídney todo el año, así que llevá abrigo incluso en verano."
+    ]
+  },
+  "chile": {
+    "en": [
+      "Chile is a long, narrow country squeezed between the Andes and the Pacific, and Santiago sits right in the middle with mountains on one side and the coast about two hours away on the other. That makes it a great base for day trips: wine valleys, beach towns and the high Andes are all within reach.",
+      "My guides cover the Bahá'í Temple, a free viewpoint with wide views over the city and the Andes, the best day trips from Santiago, and San Alfonso del Mar in Algarrobo, home to an enormous seawater pool that once held the record as the world's largest. Summer (December to February) is the easiest time for the coast; winter brings snow to the nearby mountains."
+    ],
+    "es": [
+      "Chile es un país largo y angosto, apretado entre la cordillera de los Andes y el Pacífico, y Santiago está justo en el medio, con montañas de un lado y la costa a unas dos horas del otro. Eso la convierte en una gran base para escapadas de un día: valles de vino, pueblos de playa y la alta cordillera quedan cerca.",
+      "Mis guías cubren el Templo Bahá'í, un mirador gratuito con vistas amplias de la ciudad y los Andes, las mejores excursiones de un día desde Santiago y San Alfonso del Mar en Algarrobo, con una piscina de agua de mar gigante que llegó a ser la más grande del mundo. El verano (diciembre a febrero) es la mejor época para la costa; en invierno nieva en las montañas cercanas."
+    ]
+  },
+  "greece": {
+    "en": [
+      "Greece is the classic island trip, and the Cyclades are its most famous corner: whitewashed villages, blue domes, windmills and sunsets over the Aegean. My guide covers Santorini, with its cliff-top villages and famous sunsets, and Mykonos, known for its windmills and its old town.",
+      "Ferries connect the islands, so you can combine both in one trip. To enjoy them with fewer crowds and lower prices, consider the shoulder seasons of May–June and September–October rather than the peak of July and August."
+    ],
+    "es": [
+      "Grecia es el viaje de islas por excelencia, y las Cícladas son su rincón más famoso: pueblos blancos, cúpulas azules, molinos y atardeceres sobre el Egeo. Mi guía cubre Santorini, con sus pueblos sobre los acantilados y sus atardeceres famosos, y Mykonos, conocida por sus molinos y su casco antiguo.",
+      "Los ferris conectan las islas, así que podés combinar las dos en un mismo viaje. Para disfrutarlas con menos gente y precios más bajos, conviene ir en temporada media, mayo–junio o septiembre–octubre, en lugar del pico de julio y agosto."
+    ]
+  },
+  "iceland": {
+    "en": [
+      "Iceland is a land of waterfalls, black sand beaches, glaciers and volcanoes, and most of its best-known sights sit along the Ring Road and the South Coast. It is a country best explored by car, with time to stop whenever the landscape demands it.",
+      "My guides cover Iceland's waterfalls from above, with drone tips and road-trip planning, and Reynisfjara, the black sand beach near Vík with the Reynisdrangar sea stacks that local legend says were once trolls. Weather changes fast here: check road and safety conditions before driving, and at Reynisfjara always stay well back from the water because of the sneaker waves."
+    ],
+    "es": [
+      "Islandia es tierra de cascadas, playas de arena negra, glaciares y volcanes, y la mayoría de sus lugares más conocidos están sobre la Ring Road y la costa sur. Es un país para recorrer en auto, con tiempo para frenar cada vez que el paisaje lo pide.",
+      "Mis guías cubren las cascadas de Islandia desde el aire, con consejos para volar dron y planear el viaje en auto, y Reynisfjara, la playa de arena negra cerca de Vík con las rocas de Reynisdrangar que, según la leyenda, alguna vez fueron trolls. El clima cambia muy rápido: revisá el estado de las rutas antes de manejar y, en Reynisfjara, mantenete siempre lejos del agua por las olas traicioneras."
+    ]
+  },
+  "japan": {
+    "en": [
+      "Japan mixes ancient traditions with some of the most modern cities in the world, and much of what makes it special is easier to feel in person than to describe: the food, the rituals, the attention to detail. My guide focuses on its food and traditions and the experiences worth seeing with your own eyes, including a ride on The Flying Dinosaur at Universal Studios Japan in Osaka.",
+      "Japan's trains make it easy to combine several cities in one trip. Spring (cherry blossom season) and autumn are the most popular times to visit, so book accommodation early if you plan to go then."
+    ],
+    "es": [
+      "Japón mezcla tradiciones antiguas con algunas de las ciudades más modernas del mundo, y mucho de lo que lo hace especial se siente mejor en persona que en palabras: la comida, los rituales, la atención al detalle. Mi guía se centra en su comida, sus tradiciones y las experiencias que vale la pena ver con tus propios ojos, incluido un viaje en The Flying Dinosaur en Universal Studios Japan, en Osaka.",
+      "Los trenes de Japón hacen fácil combinar varias ciudades en un mismo viaje. La primavera (temporada de cerezos en flor) y el otoño son las épocas más populares, así que reservá el alojamiento con tiempo si pensás ir entonces."
+    ]
+  },
+  "malta": {
+    "en": [
+      "Malta is a small island nation in the middle of the Mediterranean, packed with history: fortified cities, baroque churches and honey-coloured limestone everywhere you look. Its compact size means you can see a lot in a few days.",
+      "My guide covers Mdina, the old walled capital known as the Silent City, which fans of Game of Thrones will recognise as King's Landing from the first season. Spring and autumn are pleasant times to visit, with warm weather and fewer crowds than the peak of summer."
+    ],
+    "es": [
+      "Malta es una pequeña isla nación en medio del Mediterráneo, llena de historia: ciudades amuralladas, iglesias barrocas y piedra caliza color miel por todas partes. Al ser tan chica, en pocos días se puede ver mucho.",
+      "Mi guía cubre Mdina, la antigua capital amurallada conocida como la Ciudad del Silencio, que los fans de Game of Thrones van a reconocer como Desembarco del Rey de la primera temporada. La primavera y el otoño son buenas épocas para ir, con clima cálido y menos gente que en pleno verano."
+    ]
+  },
+  "new-caledonia": {
+    "en": [
+      "New Caledonia is a French territory in the South Pacific, east of Australia, known for one of the largest lagoons in the world and its turquoise water. It combines French food and culture with Melanesian traditions, a mix you will not find anywhere else in the region.",
+      "My guide covers the lagoon, a waterfall and the Amédée Lighthouse, filmed from above, along with tips for planning a trip from Nouméa, the capital. It is a short flight from Australia, which makes it an easy tropical escape."
+    ],
+    "es": [
+      "Nueva Caledonia es un territorio francés en el Pacífico Sur, al este de Australia, conocido por tener una de las lagunas más grandes del mundo y su agua turquesa. Combina la comida y la cultura francesas con tradiciones melanesias, una mezcla que no vas a encontrar en ningún otro lugar de la región.",
+      "Mi guía cubre la laguna, una cascada y el faro de Amédée, filmados desde el aire, con consejos para planear el viaje desde Numea, la capital. Está a un vuelo corto de Australia, lo que la convierte en una escapada tropical fácil."
+    ]
+  },
+  "singapore": {
+    "en": [
+      "Singapore is a city-state where gardens, skyscrapers and hawker food all fit into a very small space, which makes it ideal for a short stopover. Getting around is easy thanks to its clean, efficient public transport.",
+      "My guide covers Marina Bay Sands and the area around it: what to see, the free light and water shows in the evening, and tips for getting the best views of the skyline. It is hot and humid all year, so plan outdoor sightseeing for the morning or after sunset."
+    ],
+    "es": [
+      "Singapur es una ciudad-estado donde jardines, rascacielos y la comida de los hawker centres entran en un espacio muy chico, lo que la hace ideal para una escala corta. Moverse es fácil gracias a su transporte público limpio y eficiente.",
+      "Mi guía cubre Marina Bay Sands y sus alrededores: qué ver, los espectáculos gratuitos de luces y agua por la noche y consejos para tener las mejores vistas del skyline. Hace calor y humedad todo el año, así que conviene pasear al aire libre a la mañana o después del atardecer."
+    ]
+  },
+  "south-korea": {
+    "en": [
+      "South Korea is much more than Seoul. Beyond the capital you will find traditional hanok villages, temples, mountains and coastal cities, all connected by a fast and comfortable rail network.",
+      "My guide looks at the country beyond Seoul: scenic train journeys and hanok towns where you can see how traditional Korean houses look and feel. Spring and autumn are the most comfortable times to travel, with mild weather and beautiful colours."
+    ],
+    "es": [
+      "Corea del Sur es mucho más que Seúl. Fuera de la capital hay pueblos de casas tradicionales hanok, templos, montañas y ciudades costeras, todo conectado por una red de trenes rápida y cómoda.",
+      "Mi guía muestra el país más allá de Seúl: viajes en tren con paisajes y pueblos hanok donde se puede ver cómo son las casas tradicionales coreanas. La primavera y el otoño son las épocas más cómodas para viajar, con clima templado y colores hermosos."
+    ]
+  },
+  "spain": {
+    "en": [
+      "Spain offers a huge variety in one country, from Mediterranean beaches to the green north, and from big cities to small medieval towns. The Basque Country in the north is famous for its food, its coastline and its striking modern architecture.",
+      "My guide covers the Guggenheim Museum in Bilbao: what to see inside and outside, how tickets work and tips for your visit. Bilbao is easy to combine with San Sebastián and the rest of the Basque coast."
+    ],
+    "es": [
+      "España ofrece muchísima variedad en un solo país, desde las playas del Mediterráneo hasta el norte verde, y desde grandes ciudades hasta pueblos medievales. El País Vasco, en el norte, es famoso por su comida, su costa y su arquitectura moderna.",
+      "Mi guía cubre el Museo Guggenheim de Bilbao: qué ver adentro y afuera, cómo funcionan las entradas y consejos para la visita. Bilbao se combina fácilmente con San Sebastián y el resto de la costa vasca."
+    ]
+  },
+  "taiwan": {
+    "en": [
+      "Taiwan is a compact island with mountains, night markets, temples and a famous tea culture, and its capital, Taipei, is an easy base for exploring the north. Public transport is excellent, so day trips are simple to organise.",
+      "My guide covers Jiufen, the old mining town in the hills near Taipei, with its narrow lanes, red lanterns and the teahouse often linked to Spirited Away, plus tips for doing it as a day trip. It can rain often in the north, so carry an umbrella and be flexible with your plans."
+    ],
+    "es": [
+      "Taiwán es una isla compacta con montañas, mercados nocturnos, templos y una cultura del té famosa, y su capital, Taipéi, es una base cómoda para recorrer el norte. El transporte público es excelente, así que las excursiones de un día son fáciles de organizar.",
+      "Mi guía cubre Jiufen, el antiguo pueblo minero en las colinas cerca de Taipéi, con sus callecitas, faroles rojos y la casa de té que muchos relacionan con El viaje de Chihiro, más consejos para hacerlo en el día. En el norte llueve seguido, así que llevá paraguas y sé flexible con los planes."
+    ]
+  },
+  "united-arab-emirates": {
+    "en": [
+      "The United Arab Emirates combine desert landscapes with some of the world's most ambitious modern cities. Dubai is the best-known stop, with record-breaking buildings, huge malls and shows designed to impress.",
+      "My guide covers the Dubai Fountain show beneath the Burj Khalifa, the world's tallest building, and how to watch it from a boat on Burj Lake. The most comfortable time to visit is from November to March, when the heat is far more bearable than in summer."
+    ],
+    "es": [
+      "Los Emiratos Árabes Unidos combinan paisajes de desierto con algunas de las ciudades modernas más ambiciosas del mundo. Dubái es la parada más conocida, con edificios récord, centros comerciales enormes y espectáculos pensados para impresionar.",
+      "Mi guía cubre el show de la Fuente de Dubái al pie del Burj Khalifa, el edificio más alto del mundo, y cómo verlo desde un bote en el lago Burj. La época más cómoda para ir es de noviembre a marzo, cuando el calor es mucho más llevadero que en verano."
+    ]
+  },
+  "united-states": {
+    "en": [
+      "The United States is so large and varied that every region feels like a different country, from big cities to deserts and national parks. Las Vegas, in the Nevada desert, is often seen only as a casino town, but there is a lot more to it.",
+      "My guide covers Las Vegas beyond the casinos: the Strip, the Sphere and day trips into the desert landscapes nearby. More US guides are on the way after my trip through Florida, New Orleans and Georgia."
+    ],
+    "es": [
+      "Estados Unidos es tan grande y variado que cada región parece un país distinto, desde grandes ciudades hasta desiertos y parques nacionales. Las Vegas, en el desierto de Nevada, suele verse solo como una ciudad de casinos, pero tiene mucho más.",
+      "Mi guía cubre Las Vegas más allá de los casinos: el Strip, la Sphere y excursiones a los paisajes desérticos cercanos. Pronto habrá más guías de Estados Unidos después de mi viaje por Florida, Nueva Orleans y Georgia."
+    ]
+  }
+}
