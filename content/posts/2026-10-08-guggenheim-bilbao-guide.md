@@ -13,6 +13,7 @@ excerpt: "Visiting the Guggenheim Bilbao? Frank Gehry's titanium museum, the scu
 excerpt_es: "¿Vas al Guggenheim Bilbao? El museo de titanio de Frank Gehry, las esculturas que podés ver gratis afuera, entradas, cómo llegar y qué hacer cerca."
 tags: [bilbao, guggenheim, spain, basquecountry, architecture, guide]
 instagram: [DeN81SXgFDj]
+updated: 2026-10-30
 ---
 
 <!-- Video: add `youtube: <id>` to the front matter once the Guggenheim Short is published. -->
@@ -87,7 +88,7 @@ About half an hour's drive north of Bilbao, in **Gatika**, **Castillo de Butrón
 
 {{hotels}}
 
-Planning more of Europe? Read about [Santorini sunsets and the Mykonos windmills](/posts/santorini-mykonos-greece/).
+Planning more of Europe? Read about [Santorini sunsets and the Mykonos windmills](/posts/santorini-mykonos-greece/) or the walled city in my [Mdina, Malta guide](/posts/mdina-malta-game-of-thrones/). If bold architecture is what draws you, compare it with [Marina Bay Sands in Singapore](/posts/marina-bay-sands-singapore-guide/).
 
 # Frequently asked questions
 
@@ -179,7 +180,7 @@ A una media hora en auto al norte de Bilbao, en **Gatika**, el **Castillo de But
 
 {{hotels}}
 
-¿Planeás recorrer más de Europa? Leé sobre [los atardeceres de Santorini y los molinos de Mykonos](/es/posts/santorini-mykonos-greece/).
+¿Planeás recorrer más de Europa? Leé sobre [los atardeceres de Santorini y los molinos de Mykonos](/es/posts/santorini-mykonos-greece/) o sobre la ciudad amurallada en mi [guía de Mdina, Malta](/es/posts/mdina-malta-game-of-thrones/). Si lo tuyo es la arquitectura audaz, compará con [Marina Bay Sands en Singapur](/es/posts/marina-bay-sands-singapore-guide/).
 
 # Preguntas frecuentes
 
