@@ -12,6 +12,12 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
+## 2026-10-29 · Devil's Throat, Iguazú Falls, Argentina · YouTube Short
+- Story: /posts/iguazu-falls-argentina-guide/
+- YouTube ID: cjHe1b9FBZM
+- Title: This is called the Devil's Throat 😈 Iguazú Falls, Argentina #shorts
+- Edited by Leiser: raw footage of the Garganta del Diablo (Argentine side, May 2026) with a song, no voice-over. Best Short so far: 44.4% stayed to watch (549 engaged views), 1.1K views in 6 h (4.1x the usual), +3 subscribers.
+
 ## 2026-10-23 16:30 ART · Reynisfjara troll legend, Iceland · YouTube Short + Instagram Reel (media id 18076247999760144)
 - Story: /posts/reynisfjara-black-sand-beach-iceland/
 - YouTube ID: u7VwLjb_ZCI (embedded)
