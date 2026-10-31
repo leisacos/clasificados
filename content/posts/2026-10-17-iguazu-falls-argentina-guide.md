@@ -14,8 +14,8 @@ excerpt: "Planning Iguazú Falls in Argentina? See Devil's Throat, the boat ride
 excerpt_es: "Cataratas del Iguazú del lado argentino: Garganta del Diablo, la lancha, visa para Brasil, dónde alojarte y una escapada de compras a Paraguay. Guía práctica."
 tags: [argentina, iguazu, waterfalls, misiones, southamerica, guide]
 youtube: piiE5xzw4Y4
-instagram: [DelGoyBAcgT]
-updated: 2026-10-27
+instagram: [DfHuTSZxdLB, DelGoyBAcgT]
+updated: 2026-10-31
 ---
 
 Hundreds of waterfalls thundering over a horseshoe of cliffs in the middle of the jungle: **Iguazú Falls** is one of those places that feels too big for a photo. I went in **May 2026**, walked to the **Devil's Throat** and took the boat right into the spray. This guide covers what to see on the Argentine side, the boat ride, a visa warning for the Brazilian side, where I stayed and a shopping day trip to Paraguay.
@@ -33,6 +33,8 @@ The park has well-kept walkways through the jungle, and a small train links the 
 
 ## Devil's Throat (Garganta del Diablo)
 The highlight. A walkway runs out over the river to the edge of a U-shaped chasm, where a huge share of the river drops into a cloud of spray. You hear it long before you see it. Standing there, with tier after tier of waterfalls dropping into the mist and the jungle all around, I honestly felt like I'd stepped back into the age of the dinosaurs. It's incredible.
+
+It is the biggest drop of the whole falls, and it sits right on the border with Brazil.
 
 Take the park train to the last station, then walk the footbridge over the river. Go early: it gets crowded by late morning, and you will get wet from the mist.
 
@@ -116,6 +118,9 @@ It depends on your passport. Since April 2025, Brazil requires an e-visa for Aus
 ## How many days do you need in Iguazú?
 Plan one full day for the Argentine park. Add a second day for the boat ride at a relaxed pace, the Brazilian side if you can go, or a trip to Ciudad del Este.
 
+## What is the Devil's Throat at Iguazú Falls?
+The Devil's Throat (Garganta del Diablo) is the biggest drop of the whole falls, a U-shaped chasm on the border between Argentina and Brazil. You reach it on the Argentine side by walking a footbridge over the river.
+
 ## Do you get wet on the Iguazú boat ride?
 Yes, completely. Bring a change of clothes and keep your phone and camera in a waterproof bag.
 
@@ -138,6 +143,8 @@ El parque tiene pasarelas muy bien cuidadas en medio de la selva, y un tren cone
 
 ## La Garganta del Diablo
 Lo mejor de todo. Una pasarela cruza el río hasta el borde de un abismo en forma de U, donde gran parte del río cae en una nube de agua. La escuchás mucho antes de verla. Parado ahí, con cascadas escalonadas cayendo una tras otra en la bruma y la selva alrededor, sentí que había vuelto a la era de los dinosaurios. Es increíble.
+
+Es el salto más grande de todas las cataratas y queda justo en la frontera con Brasil.
 
 Tomá el tren del parque hasta la última estación y después caminá la pasarela sobre el río. Andá temprano: a media mañana se llena de gente, y te vas a mojar con la bruma.
 
@@ -220,6 +227,9 @@ Depende de tu pasaporte. Desde abril de 2025, Brasil exige e-visa a los ciudadan
 
 ## ¿Cuántos días se necesitan en Iguazú?
 Calculá un día completo para el parque argentino. Sumá un segundo día para hacer la lancha con calma, el lado brasileño si podés ir, o una escapada a Ciudad del Este.
+
+## ¿Qué es la Garganta del Diablo de las Cataratas del Iguazú?
+La Garganta del Diablo es el salto más grande de todas las cataratas, un abismo en forma de U en la frontera entre Argentina y Brasil. Del lado argentino se llega caminando una pasarela sobre el río.
 
 ## ¿Te mojás en la lancha de Iguazú?
 Sí, por completo. Llevá ropa para cambiarte y guardá el celular y la cámara en una bolsa impermeable.

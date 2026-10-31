@@ -12,7 +12,7 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
-## 2026-10-29 · Devil's Throat, Iguazú Falls, Argentina · YouTube Short
+## 2026-10-29 · Devil's Throat, Iguazú Falls, Argentina · YouTube Short + Instagram Reel https://www.instagram.com/reel/DfHuTSZxdLB/ (posted 2026-10-30)
 - Story: /posts/iguazu-falls-argentina-guide/
 - YouTube ID: cjHe1b9FBZM
 - Title: This is called the Devil's Throat 😈 Iguazú Falls, Argentina #shorts
