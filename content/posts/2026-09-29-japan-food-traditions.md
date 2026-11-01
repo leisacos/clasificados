@@ -10,7 +10,7 @@ excerpt: "Incredible food, centuries-old traditions and Wakayama Castle, an easy
 excerpt_es: "Comida increíble, tradiciones centenarias y el Castillo de Wakayama, a un paso de Osaka. Las experiencias que vale la pena reservar y cómo planear tu viaje."
 tags: [japan, japanfood, asia, wakayama, castles]
 instagram: [Dd2qIeSRcD1, DeSwXbDjhji, DeooyUqicY4]
-updated: 2026-10-18
+updated: 2026-11-01
 ---
 
 Some experiences you simply have to see in person. From incredible food to unforgettable traditions, **Japan has something around every corner** 🍣✨
@@ -71,6 +71,20 @@ In Tokyo, **Shinjuku** and **Shibuya** are lively and well connected, and **Asak
 Combining Japan with more of Asia? See my guide to [Marina Bay Sands and Marina Bay in Singapore](/posts/marina-bay-sands-singapore-guide/).
 
 Planning more of Asia? See my route for [South Korea beyond Seoul](/posts/south-korea-beyond-seoul/).
+
+# Frequently asked questions
+
+## Is Japan expensive for a first trip?
+It can be as pricey or as affordable as you make it. Konbini snacks, set-lunch menus and market stalls keep food costs low, while hotels in Tokyo and Kyoto are usually the biggest expense, especially in peak seasons. Check current prices before you go.
+
+## How do I get from Osaka to Wakayama Castle?
+Take a train from Osaka to Wakayama or Wakayamashi station, about an hour, then a short bus ride or a 15–20 minute walk. Check current timetables and fares before you travel.
+
+## Do I need cash in Japan?
+Cards and IC cards are widely accepted in cities, but small restaurants, temples and market stalls often still prefer cash. Carry some yen as a backup.
+
+## Do I need a food tour, or can I just wander?
+You can absolutely wander, but a local guide helps with tiny counters that have no English menu and shows you dishes you might otherwise skip. It is a good idea for your first day in a new city.
 
 {{plan}}
 
@@ -134,5 +148,19 @@ En Tokio, **Shinjuku** y **Shibuya** son animados y están bien conectados, y **
 ¿Sumás más de Asia al viaje? Mirá mi guía de [Marina Bay Sands y la bahía de Singapur](/es/posts/marina-bay-sands-singapore-guide/).
 
 ¿Seguís por Asia? Mirá mi ruta por [Corea del Sur más allá de Seúl](/es/posts/south-korea-beyond-seoul/).
+
+# Preguntas frecuentes
+
+## ¿Japón es caro para un primer viaje?
+Depende de cómo lo armes. Los snacks de konbini, los menús del día y los puestos de mercado mantienen bajo el gasto en comida, mientras que el alojamiento en Tokio y Kioto suele ser lo más caro, sobre todo en temporada alta. Revisá los precios actuales antes de ir.
+
+## ¿Cómo voy de Osaka al Castillo de Wakayama?
+Tomá un tren de Osaka hasta la estación Wakayama o Wakayamashi, más o menos una hora, y después un colectivo corto o una caminata de 15–20 minutos. Revisá horarios y tarifas actuales antes de viajar.
+
+## ¿Hace falta llevar efectivo en Japón?
+En las ciudades se aceptan mucho las tarjetas y las IC, pero los restaurantes chicos, los templos y los puestos de mercado a veces prefieren efectivo. Llevá algo de yenes de respaldo.
+
+## ¿Conviene un tour gastronómico o puedo ir por mi cuenta?
+Podés recorrer por tu cuenta sin problema, pero un guía local te ayuda con las barras diminutas sin menú en inglés y te muestra platos que quizás te saltearías. Es buena idea para tu primer día en una ciudad nueva.
 
 {{plan}}
