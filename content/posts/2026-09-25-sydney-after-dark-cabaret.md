@@ -59,7 +59,7 @@ Check the "what's on" listings for the week you're in town. Small shows and fest
 - The **Bondi to Coogee coastal walk**
 - **The Rocks** for history, markets and pubs
 - A day trip to the **Blue Mountains**
-- Heading south? Tasmania is a short flight away. See my [things to do in Tasmania](/posts/things-to-do-in-tasmania/) guide.
+- Heading south? Tasmania is a short flight away. See my [things to do in Tasmania](/posts/things-to-do-in-tasmania/) guide. Flying on across the Pacific? Read my [New Caledonia travel guide](/posts/new-caledonia-south-pacific/).
 
 # Where to stay
 
@@ -138,7 +138,7 @@ El **Aeropuerto de Sídney (SYD)** está conectado con el centro en tren en unos
 - La **caminata costera de Bondi a Coogee**
 - **The Rocks**, con historia, mercados y pubs
 - Una excursión a las **Blue Mountains**
-- ¿Vas más al sur? Tasmania está a un vuelo corto. Mirá mi guía de [qué hacer en Tasmania](/es/posts/things-to-do-in-tasmania/).
+- ¿Vas más al sur? Tasmania está a un vuelo corto. Mirá mi guía de [qué hacer en Tasmania](/es/posts/things-to-do-in-tasmania/). ¿Seguís viaje por el Pacífico? Leé mi [guía de Nueva Caledonia](/es/posts/new-caledonia-south-pacific/).
 
 # Dónde alojarse
 

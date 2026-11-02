@@ -1,15 +1,15 @@
 ---
-title: "New Caledonia: turquoise lagoons in a corner of France in the South Pacific"
-title_es: "Nueva Caledonia: lagunas turquesa en un rincón de Francia en el Pacífico Sur"
+title: "New Caledonia travel guide: lagoons, islands and when to go"
+title_es: "Guía de Nueva Caledonia: lagunas, islas y cuándo ir"
 date: 2026-09-23
-updated: 2026-10-19
+updated: 2026-11-02
 city: "Nouméa"
 country: "New Caledonia"
 country_es: "Nueva Caledonia"
 iata: "NOU"
 cover: "ig:Ddnc9KERqGk"
-excerpt: "One of the world's largest lagoons, French food and island hopping. What to know before you plan a trip to New Caledonia."
-excerpt_es: "Una de las lagunas más grandes del mundo, comida francesa e islas para recorrer. Lo que tenés que saber antes de planear un viaje a Nueva Caledonia."
+excerpt: "New Caledonia travel guide: UNESCO lagoons, island hopping from Nouméa, French food, the best time to go and how to get there. Plan your South Pacific trip."
+excerpt_es: "Guía de Nueva Caledonia: lagunas de la UNESCO, islas desde Numea, comida francesa, mejor época y cómo llegar. Planeá tu viaje al Pacífico Sur."
 tags: [newcaledonia, southpacific, islands]
 instagram: [Ddnc9KERqGk, DeYL0vWD6w8]
 ---
@@ -52,7 +52,9 @@ The **Lagoons of New Caledonia** were added to the UNESCO World Heritage list in
 
 # Getting there
 
-International flights land at **La Tontouta (NOU)**, about 45 minutes from Nouméa. The main connections are through **Sydney, Brisbane, Auckland and Tokyo**.
+International flights land at **La Tontouta (NOU)**, about 45 minutes from Nouméa. The main connections are through **Sydney, Brisbane, Auckland and Tokyo**. Routes and airlines change, so check before you go.
+
+Sydney is the most common stopover, so it's an easy place to add a few days: see my guide to [Sydney after dark](/posts/sydney-after-dark-cabaret/). If you're also exploring Australia's wild side, my [things to do in Tasmania](/posts/things-to-do-in-tasmania/) guide pairs well with a Pacific trip.
 
 {{flights}}
 
@@ -88,6 +90,9 @@ A week works well: four or five nights in Nouméa with day trips such as the Am�
 
 ## Do people speak English in New Caledonia?
 French is the main language. English is usually spoken in hotels, tour companies and some restaurants, less so in smaller towns.
+
+## Is New Caledonia part of France?
+Yes, it's a French territory with a special status, which is why prices, language and food feel so French. Entry rules can differ from mainland France, so check before you go.
 
 ## When is the best time to visit New Caledonia?
 From April to November, when it's cooler and drier. December to March is hot, humid and cyclone season.
@@ -134,7 +139,9 @@ Las **Lagunas de Nueva Caledonia** entraron en la lista de Patrimonio de la Huma
 
 # Cómo llegar
 
-Los vuelos internacionales llegan a **La Tontouta (NOU)**, a unos 45 minutos de Numea. Las principales conexiones son por **Sídney, Brisbane, Auckland y Tokio**.
+Los vuelos internacionales llegan a **La Tontouta (NOU)**, a unos 45 minutos de Numea. Las principales conexiones son por **Sídney, Brisbane, Auckland y Tokio**. Las rutas y aerolíneas cambian, así que revisalo antes de viajar.
+
+Sídney es la escala más común, así que es fácil sumar unos días: mirá mi guía de [Sídney de noche](/es/posts/sydney-after-dark-cabaret/). Y si querés seguir con la Australia más salvaje, mi guía de [qué hacer en Tasmania](/es/posts/things-to-do-in-tasmania/) combina bien con un viaje por el Pacífico.
 
 {{flights}}
 
@@ -170,6 +177,9 @@ Una semana funciona bien: cuatro o cinco noches en Numea con excursiones como el
 
 ## ¿Se habla inglés en Nueva Caledonia?
 El idioma principal es el francés. En hoteles, agencias de excursiones y algunos restaurantes suelen hablar inglés, menos en pueblos chicos.
+
+## ¿Nueva Caledonia es parte de Francia?
+Sí, es un territorio francés con estatus especial, por eso los precios, el idioma y la comida se sienten tan franceses. Las reglas de entrada pueden diferir de las de Francia continental, así que revisalas antes de viajar.
 
 ## ¿Cuál es la mejor época para ir a Nueva Caledonia?
 De abril a noviembre, cuando está más fresco y seco. De diciembre a marzo hace calor, hay humedad y es temporada de ciclones.
