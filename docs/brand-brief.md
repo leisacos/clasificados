@@ -21,7 +21,7 @@ You are helping **Leiser Acosta** make videos for **Places, Not Faces**, a bilin
 | Instagram | @theplacesnotfaces | Reels (main growth channel), carousels, Stories |
 | YouTube | @theplacesnotfaces | Shorts + long drone films ("…from Above 4K") |
 | Website | theplacesnotfaces.com | Bilingual destination guides; Shorts and Reels are embedded in the matching guide |
-| Sister account | @platesnotfaces (Instagram) | Food from Leiser's travels: "Plates, Not Faces" |
+| Sister account | @platesnotfaces (Instagram) | Food from Leiser's travels: "Plates, Not Faces". First Reel: Moshu Treehouse, Palermo (Nov 2026, media 18133107607793825) |
 | Contact | hola@theplacesnotfaces.com | Brand collaborations |
 
 **Numbers (late October 2026):**
@@ -93,6 +93,7 @@ Instagram is the growth engine; YouTube Shorts plateau around 500–1,300 views.
 ## 6. Sound
 
 - **Leiser's voice:** remove noise, cut pauses, about −15 LUFS. On tours, the **guide's own voice** can replace the voice-over.
+- **AI or cloned voices** (Kokoro narrators, or a ZipVoice clone of Leiser's voice from a clean 10–30 s sample, English only) are a fallback when Leiser can't record. Turn on Instagram's **AI info** label and answer "Yes" to YouTube's altered-content question.
 - **Music:** Leiser's own **Suno instrumentals** only (no copyrighted songs).
   - Tracks so far: "Adrenaline Rush" (sung from 0:18 to 0:44, so use only the instrumental parts), "Lopsided Tom" (Iceland), "Welcome to the Ride", "Noodle Detour" (food), "First Steep" (tea).
   - Put the drop on frame 1 or on the key word.
@@ -114,7 +115,7 @@ Instagram is the growth engine; YouTube Shorts plateau around 500–1,300 views.
 - **When:** 16:00 Argentina time. On Instagram, reply to comments in the first hour. Boost the best Reel of the week at A$8/day for 3–5 days, aiming for under A$0.20 per follower.
 - **Instagram posting tools:**
   - **@theplacesnotfaces:** Windsor (`instagram` connector, account 17841400015774428, `create_video_post`). The video must be hosted at theplacesnotfaces.com/social/…mp4 and the site needs about 4 minutes to update after a push. If posting times out, ask Leiser to check before retrying.
-  - **@platesnotfaces:** not connected; Leiser posts it manually.
+  - **@platesnotfaces:** Windsor (`instagram` connector, account 17841408407543832, `create_video_post`), same hosting steps. Windsor can't set the location or the AI label; Leiser adds them in the app afterwards (⋯ → Edit).
   - Metricool could not fetch videos for YouTube; Leiser uploads YouTube Shorts manually.
 
 ## 8. Before you start, ask Leiser
