@@ -116,7 +116,7 @@ Instagram is the growth engine; YouTube Shorts plateau around 500–1,300 views.
 - **Instagram posting tools:**
   - **@theplacesnotfaces:** Windsor (`instagram` connector, account 17841400015774428, `create_video_post`). The video must be hosted at theplacesnotfaces.com/social/…mp4 and the site needs about 4 minutes to update after a push. If posting times out, ask Leiser to check before retrying.
   - **@platesnotfaces:** Windsor (`instagram` connector, account 17841408407543832, `create_video_post`), same hosting steps. Windsor can't set the location or the AI label; Leiser adds them in the app afterwards (⋯ → Edit).
-  - Metricool could not fetch videos for YouTube; Leiser uploads YouTube Shorts manually.
+  - **YouTube Shorts:** Metricool (brand 7276452, `createScheduledPost` with `youtubeData.type: "short"`). Metricool can't fetch videos from theplacesnotfaces.com ("Failed to normalize media", likely Cloudflare blocking its downloader), so give it the jsDelivr copy of the pushed file instead, pinned to the full commit hash: `https://cdn.jsdelivr.net/gh/leisacos/clasificados@<full-sha>/static/social/<file>.mp4` (jsDelivr's limit is 20 MB per file). First success: Gullfoss, Nov 2 2026. Metricool can also set Instagram's AI label (`instagramData.isAiGenerated`).
 
 ## 8. Before you start, ask Leiser
 
