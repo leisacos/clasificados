@@ -12,6 +12,12 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
+## 2026-11-01 · Gullfoss, Iceland — "This waterfall was almost a power plant" · Instagram Reel (media id 18644635723005885) + YouTube Short (pending)
+- Story: /posts/iceland-waterfalls-drone/
+- YouTube ID: (pending — Metricool failed again with "Failed to normalize media"; Leiser uploads manually)
+- Title: This waterfall was almost a power plant ⚡ Gullfoss, Iceland #shorts
+- Drone footage from October 2022 (pick 1 from the laptop session). Full-screen 9:16 crop leaning left to keep the rainbow, the gimbal wobble (source 4–6.3 s) cut with a 0.4 s crossfade, Lopsided Tom (Suno), payoff at about 12 s. 17.1 s. Hosted at /social/gullfoss-power-plant.mp4.
+
 ## 2026-10-29 · Devil's Throat, Iguazú Falls, Argentina · YouTube Short + Instagram Reel https://www.instagram.com/reel/DfHuTSZxdLB/ (posted 2026-10-30)
 - Story: /posts/iguazu-falls-argentina-guide/
 - YouTube ID: cjHe1b9FBZM
