@@ -19,6 +19,7 @@ You are helping **Leiser Acosta** make videos for **Places, Not Faces**, a bilin
 | Channel | Handle | What goes there |
 |---|---|---|
 | Instagram | @theplacesnotfaces | Reels (main growth channel), carousels, Stories |
+| TikTok | @theplacesnotfaces (since Nov 2026, personal account) | The same Shorts with a Follow end card, one a day at 16:00 |
 | YouTube | @theplacesnotfaces | Shorts + long drone films ("…from Above 4K") |
 | Website | theplacesnotfaces.com | Bilingual destination guides; Shorts and Reels are embedded in the matching guide |
 | Sister account | @platesnotfaces (Instagram) | Food from Leiser's travels: "Plates, Not Faces". First Reel: Moshu Treehouse, Palermo (Nov 2026, media 18133107607793825) |
@@ -117,6 +118,7 @@ Instagram is the growth engine; YouTube Shorts plateau around 500–1,300 views.
 - **Instagram posting tools:**
   - **@theplacesnotfaces:** Windsor (`instagram` connector, account 17841400015774428, `create_video_post`). The video must be hosted at theplacesnotfaces.com/social/…mp4 and the site needs about 4 minutes to update after a push. If posting times out, ask Leiser to check before retrying.
   - **@platesnotfaces:** Windsor (`instagram` connector, account 17841408407543832, `create_video_post`), same hosting steps. Windsor can't set the location or the AI label; Leiser adds them in the app afterwards (⋯ → Edit).
+  - **TikTok (@theplacesnotfaces, shown in Metricool as "leobas325"):** Metricool, `providers: tiktok`, same jsDelivr URL trick; `tiktokData.title` is required (use the hook line). Use a TikTok version of the video: replace the YouTube Subscribe end card with a "+ Follow for more 🌍 · @theplacesnotfaces" card, and never mention YouTube or Instagram in TikTok captions. First posts: Devil's Throat (uploaded by Leiser, 1.2K views in hours), Skógafoss rainbow (Nov 2 2026, video 7703694880559729940).
   - **YouTube Shorts:** Metricool (brand 7276452, `createScheduledPost` with `youtubeData.type: "short"`). Metricool can't fetch videos from theplacesnotfaces.com ("Failed to normalize media", likely Cloudflare blocking its downloader), so give it the jsDelivr copy of the pushed file instead, pinned to the full commit hash: `https://cdn.jsdelivr.net/gh/leisacos/clasificados@<full-sha>/static/social/<file>.mp4` (jsDelivr's limit is 20 MB per file). First success: Gullfoss, Nov 2 2026. Metricool can also set Instagram's AI label (`instagramData.isAiGenerated`).
 
 ## 8. Before you start, ask Leiser
