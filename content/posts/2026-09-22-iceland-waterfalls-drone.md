@@ -24,7 +24,7 @@ Some places are big. **Iceland is huge**, and you only really feel it from the a
 
 # A classic South Coast route
 
-1. **Reykjavík** → the **Golden Circle** (Þingvellir, Geysir, Gullfoss)
+1. **Reykjavík** → the **Golden Circle** (Þingvellir, Geysir, Gullfoss; see my [Gullfoss guide](/posts/gullfoss-waterfall-iceland/))
 2. **Seljalandsfoss** and **Skógafoss** waterfalls
 3. **Reynisfjara** black-sand beach (stay well back from the waves; see my [Reynisfjara guide](/posts/reynisfjara-black-sand-beach-iceland/))
 4. **Jökulsárlón** glacier lagoon and Diamond Beach
@@ -94,7 +94,7 @@ Hay lugares grandes. **Islandia es enorme**, y eso se siente de verdad desde el 
 
 # Una ruta clásica por la Costa Sur
 
-1. **Reikiavik** → el **Círculo Dorado** (Þingvellir, Geysir, Gullfoss)
+1. **Reikiavik** → el **Círculo Dorado** (Þingvellir, Geysir, Gullfoss; mirá mi [guía de Gullfoss](/es/posts/gullfoss-waterfall-iceland/))
 2. Las cascadas **Seljalandsfoss** y **Skógafoss**
 3. La playa de arena negra de **Reynisfjara** (mantenete lejos de las olas; mirá mi [guía de Reynisfjara](/es/posts/reynisfjara-black-sand-beach-iceland/))
 4. La laguna glaciar **Jökulsárlón** y la Diamond Beach

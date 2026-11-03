@@ -57,7 +57,7 @@ Reynisfjara is beautiful, and it's also dangerous. Waves here can run much farth
 - **The basalt columns** at the foot of the cliff, a staircase-like wall of hexagonal rock.
 - **Dyrhólaey**, a nearby headland with views along the coast.
 - **Vík**, for a coffee and a bite, and for fuel.
-- **Skógafoss** and **Seljalandsfoss**, the two waterfalls west of here. I covered them in my [Iceland waterfalls and drone guide](/posts/iceland-waterfalls-drone/).
+- **Skógafoss** and **Seljalandsfoss**, the two waterfalls west of here. I covered them in my [Iceland waterfalls and drone guide](/posts/iceland-waterfalls-drone/). Coming from the Golden Circle? See [Gullfoss](/posts/gullfoss-waterfall-iceland/).
 
 If you love dramatic coastlines, you might also like [things to do in Tasmania](/posts/things-to-do-in-tasmania/).
 
@@ -132,7 +132,7 @@ Reynisfjara es hermosa, pero también peligrosa. Acá las olas pueden llegar muc
 - **Las columnas de basalto** al pie del acantilado, una pared de roca hexagonal que parece una escalera.
 - **Dyrhólaey**, un cabo cercano con vistas a lo largo de la costa.
 - **Vík**, para tomar un café, comer algo y cargar combustible.
-- **Skógafoss** y **Seljalandsfoss**, las dos cascadas al oeste. Las conté en mi [guía de cascadas y drone en Islandia](/es/posts/iceland-waterfalls-drone/).
+- **Skógafoss** y **Seljalandsfoss**, las dos cascadas al oeste. Las conté en mi [guía de cascadas y drone en Islandia](/es/posts/iceland-waterfalls-drone/). ¿Venís del Círculo Dorado? Mirá [Gullfoss](/es/posts/gullfoss-waterfall-iceland/).
 
 Si te gustan las costas dramáticas, quizás también te guste [qué hacer en Tasmania](/es/posts/things-to-do-in-tasmania/).
 
