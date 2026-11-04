@@ -72,6 +72,8 @@ Combining Japan with more of Asia? See my guide to [Marina Bay Sands and Marina 
 
 Planning more of Asia? See my route for [South Korea beyond Seoul](/posts/south-korea-beyond-seoul/).
 
+Continuing through Asia? See my guide to a [day trip to Jiufen from Taipei](/posts/jiufen-day-trip-taipei/).
+
 # Frequently asked questions
 
 ## Is Japan expensive for a first trip?
@@ -148,6 +150,8 @@ En Tokio, **Shinjuku** y **Shibuya** son animados y están bien conectados, y **
 ¿Sumás más de Asia al viaje? Mirá mi guía de [Marina Bay Sands y la bahía de Singapur](/es/posts/marina-bay-sands-singapore-guide/).
 
 ¿Seguís por Asia? Mirá mi ruta por [Corea del Sur más allá de Seúl](/es/posts/south-korea-beyond-seoul/).
+
+¿Seguís viaje por Asia? Mirá mi guía de una [excursión a Jiufen desde Taipéi](/es/posts/jiufen-day-trip-taipei/).
 
 # Preguntas frecuentes
 

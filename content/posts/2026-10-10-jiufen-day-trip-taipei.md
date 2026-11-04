@@ -1,6 +1,6 @@
 ---
-title: "Jiufen, Taiwan: day trip from Taipei, the Spirited Away teahouse and tips"
-title_es: "Jiufen, Taiwán: excursión desde Taipéi, la casa de té de El viaje de Chihiro y consejos"
+title: "Jiufen day trip from Taipei: the Spirited Away teahouse"
+title_es: "Jiufen desde Taipéi: excursión y casa de té de Chihiro"
 date: 2026-10-10
 city: "Taipei"
 city_es: "Taipéi"
@@ -14,6 +14,7 @@ excerpt: "Planning a day trip to Jiufen from Taipei? The old gold-mining town, t
 excerpt_es: "¿Vas a Jiufen desde Taipéi? El antiguo pueblo minero, la casa de té que dicen que inspiró El viaje de Chihiro, cómo llegar, cuándo ir y qué comer."
 tags: [taiwan, jiufen, taipei, asia, daytrip, guide]
 instagram: [DeVB3WikocK]
+updated: 2026-11-04
 youtube: LJGvEaBcKaw
 ---
 
@@ -95,8 +96,6 @@ Many day tours from Taipei combine Jiufen with Shifen, which is the easiest way 
 {{hotels}}
 
 Planning more of Asia? Read about [Japan's food and traditions](/posts/japan-food-traditions/), [Marina Bay Sands in Singapore](/posts/marina-bay-sands-singapore-guide/) and [Korea beyond Seoul](/posts/south-korea-beyond-seoul/).
-
-Heading elsewhere in Asia? See my route for [South Korea beyond Seoul](/posts/south-korea-beyond-seoul/).
 
 # Frequently asked questions
 
@@ -194,8 +193,6 @@ Muchas excursiones desde Taipéi combinan Jiufen con Shifen, que es la forma má
 {{hotels}}
 
 ¿Planeás recorrer más de Asia? Leé sobre [la comida y las tradiciones de Japón](/es/posts/japan-food-traditions/), [Marina Bay Sands en Singapur](/es/posts/marina-bay-sands-singapore-guide/) y [Corea más allá de Seúl](/es/posts/south-korea-beyond-seoul/).
-
-¿Seguís viaje por Asia? Mirá mi ruta por [Corea del Sur más allá de Seúl](/es/posts/south-korea-beyond-seoul/).
 
 # Preguntas frecuentes
 
