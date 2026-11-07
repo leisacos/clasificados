@@ -22,7 +22,7 @@ You are helping **Leiser Acosta** make videos for **Places, Not Faces**, a bilin
 | TikTok | @theplacesnotfaces (since Nov 2026, personal account) | The same Shorts with a Follow end card, one a day at 16:00 |
 | YouTube | @theplacesnotfaces | Shorts + long drone films ("…from Above 4K") |
 | Website | theplacesnotfaces.com | Bilingual destination guides; Shorts and Reels are embedded in the matching guide |
-| Sister account | @platesnotfaces (Instagram) | Food from Leiser's travels: "Plates, Not Faces". First Reel: Moshu Treehouse, Palermo (Nov 2026, media 18133107607793825) |
+| Sister account | @platesnotfaces (Instagram) | Food from Leiser's travels: "Plates, Not Faces". First Reel: Moshu Treehouse, Palermo (Nov 2026, media 18133107607793825); then Lima salad, Microcentro (Nov 7 2026, cloned voice, media 18127791007929184) |
 | Contact | hola@theplacesnotfaces.com | Brand collaborations |
 
 **Numbers (late October 2026):**
