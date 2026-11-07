@@ -97,6 +97,7 @@ Instagram is the growth engine; YouTube Shorts plateau around 500–1,300 views.
 
 - **Leiser's voice:** remove noise, cut pauses, about −15 LUFS. On tours, the **guide's own voice** can replace the voice-over.
 - **AI or cloned voices** (Kokoro narrators, or a ZipVoice clone of Leiser's voice from a clean 10–30 s sample, English only) are a fallback when Leiser can't record. Turn on Instagram's **AI info** label and answer "Yes" to YouTube's altered-content question.
+  - Clone setup that works: `pip install sherpa-onnx==1.13.8` (2.0.1 produced garbled speech), the ZipVoice model `sherpa-onnx-zipvoice-distill-zh-en-emilia` and `vocos_24khz.onnx` from the k2-fsa GitHub releases, a 10 s denoised prompt with its exact transcript, `num_steps` 8–12. Check every line with Whisper and regenerate unclear ones. Never commit Leiser's voice sample to this repository: it is public.
 - **Music:** Leiser's own **Suno instrumentals** only (no copyrighted songs).
   - Tracks so far: "Adrenaline Rush" (sung from 0:18 to 0:44, so use only the instrumental parts), "Lopsided Tom" (Iceland), "Welcome to the Ride", "Noodle Detour" (food), "First Steep" (tea).
   - Put the drop on frame 1 or on the key word.
