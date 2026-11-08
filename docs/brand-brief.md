@@ -44,9 +44,11 @@ Instagram is the growth engine; YouTube Shorts plateau around 500–1,300 views.
 | Gullfoss, Iceland (Nov 2026) | Top-down drone shot with a soft rainbow, history hook "This waterfall was almost a power plant ⚡" | 23.9% stayed, but **104% average viewed** (those who stayed watched to the end and replayed); 300 views in 8 h, about half of them from ads. The opening lost people, not the story |
 | Instagram Reels | — | Skógafoss rainbow 2,339 · Dubai (boosted) 1,651 · Oia sunset 1,588 · Mdina 928 |
 | TikTok, first 4 days (Nov 2–6 2026) | Same Shorts, Follow end card | **874 followers, 683 likes.** Devil's Throat 29.6K views, Castillo de Butrón 3.4K ("different and unique" pick), Oia 1.7K, Dubai 623 (after a restricted first upload). TikTok grows fastest of all channels; never let a YouTube card or URL show |
+| Sydney NYE fireworks (Nov 8 2026) | Fireworks on frame 1, hook "Midnight over Sydney 🎆", but a pre-edited clip with 5 hard jump cuts between near-identical skyline shots (every ~3 s), posted without review | **14.6% stayed**, 225 views in 7 h (85 from a promo), 0 subscribers; promo ARS 321 → 1 subscriber. Choppy cuts kill retention even with a strong first frame |
 | Instagram boost | — | A$8/day on the Dubai Reel brought ~160 followers (about A$0.05–0.10 each), none lost |
 
 **Rules that come from this:**
+0. **Always send Leiser a preview and wait for an OK before posting anything,** and watch every cut and transition first: no jump cuts between near-identical shots (use one continuous shot, or cut on the music beat with a short crossfade).
 1. **The first frame is the most dramatic, colourful or bright moment.** Never a calm or grey opening.
 2. **The hook is a statement, ideally with an open loop**: "You've seen this city in Game of Thrones 🏰", "This fountain shoots water up to 150 m high 💥". Not a tease ("about to…") or a question. Questions go at the end and in the pinned comment.
 3. **A famous connection helps:** a film, a show, a record or a legend ("Locals say these rocks were once trolls").
