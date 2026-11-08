@@ -12,6 +12,12 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
+## 2026-11-08 00:53 ART · Sydney New Year's Eve fireworks from above · YouTube Short
+- Story: none yet
+- YouTube ID: ud8wNepMGNk
+- Title: Midnight over Sydney 🎆 New Year's Eve from above #shorts
+- From Leiser's pre-edited clip 02_sydney_nye_fireworks_9x16 (full screen, hook "Midnight over Sydney 🎆"). Cut at 14.95 s to drop the old end card with its top title bar; new bottom-only card ("Where would you watch it from?" + Subscribe). The clip was silent: Noodle Detour (Suno) from 0:55, −14 LUFS. Posted by Metricool from the jsDelivr copy of /social/sydney-nye-fireworks.mp4.
+
 ## 2026-11-02 00:18 ART · Gullfoss, Iceland — "This waterfall was almost a power plant" · YouTube Short + Instagram Reel (media id 18644635723005885, posted 2026-11-01)
 - Story: /posts/gullfoss-waterfall-iceland/
 - YouTube ID: tc3bt077-Gw (embedded; posted by Metricool from the jsDelivr copy; the site URL failed with "Failed to normalize media")
