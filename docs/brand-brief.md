@@ -82,13 +82,13 @@ Instagram is the growth engine; YouTube Shorts plateau around 500–1,300 views.
 
 ## 5. Look
 
-- **Vertical 1080×1920.** Crop 4K at full resolution and follow the subject. With 720p or 1080p landscape, use a sharp 4:5 window over a blurred copy of the same footage instead of upscaling a thin strip. Denoise and sharpen low-resolution clips.
+- **Vertical 1080×1920, full screen, NO bezels.** Leiser does not want blurred bands, letterbox bars or a 4:5 window over a blurred copy: the footage fills the whole frame. Crop 4K at full resolution and follow the subject; with lower-resolution landscape footage, crop full-screen anyway (denoise and sharpen) or ask Leiser for a vertical or 4K version. No title bar across the top during the video either; text sits directly on the footage with an outline. Older Shorts made before Nov 2026 (Oia, Jiufen, Wakayama, Viking Sword Road, Congreso, Bahá'í Temple, Dubai show) have bands: re-cut them from the originals before posting them anywhere new.
 - **Colour:** slightly more contrast and saturation. Warm for food, never grey and flat.
 - **Fonts:** **Fraunces Bold** for hooks and titles, **Inter SemiBold** for captions.
 - **Hook:** big Fraunces (~90–104 px), white with a thick dark navy outline (#12181B / #14232F), the key word in yellow **#FFD27A** (travel) or orange **#FF8A4C** (food), and at most one emoji.
 - **Captions:** Inter ~58–60 px with a dark outline, centred, at least 130–150 px from the sides (clear of YouTube's buttons), moved off the subject. Captions follow what Leiser says.
 - **End cards:**
-  - **Travel:** navy title band (#121A20) with a peach (#FFB38F) place line, then a dark rounded card with a red Subscribe pill and "youtube.com/@theplacesnotfaces".
+  - **Travel:** (end card only, last ~2 s) a dark rounded card with the place line in peach (#FFB38F), the question, with a red Subscribe pill and "youtube.com/@theplacesnotfaces".
   - **Food:** a navy card with the Plates logo, the address and "@platesnotfaces".
 - **Covers and thumbnails:** a frame from the **hook** (first 2 s), never the reveal.
 - **Keep private things out of frame:** medicines, documents, screens, other people's faces.

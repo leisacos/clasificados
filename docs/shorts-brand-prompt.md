@@ -12,7 +12,7 @@ You are editing a YouTube Short (also posted as an Instagram Reel) for **Places,
 - Leiser's voice starts within the first second, or at the latest right after the hook. Cut every pause to about 0.1–0.3 s.
 - 12–20 seconds total. The climax lands within 3 seconds.
 - Places people rarely see beat famous landmarks everyone has filmed. With a famous place, find an unusual angle (from a boat, a drone, inside the ride).
-- Title band and Subscribe card only at the end (last ~2 s), never over the action.
+- No bezels: no blurred bands, letterbox bars or title bars over the footage. The video fills the full 9:16 frame from start to finish. Only the end card (last ~2 s) sits on top.
 - End on a question to the viewer ("Would you do it?").
 - A statement hook with an open loop beats a question: "You've seen this city in Game of Thrones 🏰" (Mdina) kept 32.5% and was shared more than usual. Put the question in the pinned comment instead.
 - Land the reveal or payoff by about 12 seconds. The Mdina Short was 29.5 s with the reveal at 19 s; the average view lasted only 14 s, so most viewers left before the payoff.
@@ -27,7 +27,7 @@ You are editing a YouTube Short (also posted as an Instagram Reel) for **Places,
 - Fonts: **Fraunces Bold** for the hook and titles, **Inter SemiBold** for captions.
 - Hook text: big Fraunces (~104 px), white with a thick dark outline (#12181B), key word in warm yellow **#FFD27A**, one emoji at most.
 - Captions: Inter ~60 px, white with a 10 px #12181B outline, centred, at least 150 px from the left and right edges (YouTube's buttons are on the right), around y = 1040–1230 px, moved off the subject when needed. Captions follow exactly what Leiser says.
-- Title band (end only): dark navy **#121A20** bar at the top (y = 40 px, 330 px tall); place line in small caps in peach **#FFB38F** ("DUBAI · UNITED ARAB EMIRATES"), headline in Fraunces ~76 px white.
+- (Retired: do not use) title band: dark navy **#121A20** bar at the top (y = 40 px, 330 px tall); place line in small caps in peach **#FFB38F** ("DUBAI · UNITED ARAB EMIRATES"), headline in Fraunces ~76 px white.
 - Subscribe card (last ~2 s, lower third at y ≈ 1270 px): rounded dark panel (rgba(18,24,27,.86)), peach label "MORE PLACES LIKE THIS", a Fraunces question, a red (#FF0033) Subscribe pill with the YouTube logo, and "youtube.com/@theplacesnotfaces".
 
 ## Sound
