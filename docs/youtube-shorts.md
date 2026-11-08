@@ -15,6 +15,7 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 ## 2026-11-08 00:53 ART · Sydney New Year's Eve fireworks from above · YouTube Short
 - Story: none yet
 - YouTube ID: ud8wNepMGNk
+- TikTok: 7705647917503106356 (Follow-card version, /social/sydney-nye-fireworks-tiktok.mp4)
 - Title: Midnight over Sydney 🎆 New Year's Eve from above #shorts
 - From Leiser's pre-edited clip 02_sydney_nye_fireworks_9x16 (full screen, hook "Midnight over Sydney 🎆"). Cut at 14.95 s to drop the old end card with its top title bar; new bottom-only card ("Where would you watch it from?" + Subscribe). The clip was silent: Noodle Detour (Suno) from 0:55, −14 LUFS. Posted by Metricool from the jsDelivr copy of /social/sydney-nye-fireworks.mp4.
 
