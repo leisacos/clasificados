@@ -57,7 +57,7 @@ Instagram is the growth engine; YouTube Shorts plateau around 500–1,300 views.
 6. **Post each clip once on YouTube.** Re-uploading the same footage kills it. If it flops, move on.
 7. **YouTube Shorts must be vertical** (a landscape clip becomes a normal video).
 8. **Give viewers a reason to follow:** end with "Follow for places most people never see 🌍" or a similar line.
-9. **Boost on Instagram, not YouTube.** YouTube promos brought subscribers who left.
+9. **YouTube promos:** use them only for subscribers ("Audience growth" on a Short with strong retention, 4–5 days while its audience is fresh; about half the paid subscribers stay, ~ARS 50–90 each). Paid views and watch time do NOT count toward the Partner Program's 4,000 watch hours, so never pay to promote a long video for hours. Hours come from organic views: long relaxing drone films, Shorts linked to them (Related video), playlists, end screens and embeds in the site's guides. Boost on Instagram for followers.
 10. **Spectacular footage can carry a Short on its own.** When the first frame is overwhelming (Devil's Throat), music plus a strong title hook is enough; heavy editing and voice-over matter most for calmer footage.
 
 ## 4. Formats
