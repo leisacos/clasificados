@@ -125,6 +125,15 @@ Instagram is the growth engine; YouTube Shorts plateau around 500–1,300 views.
   - **TikTok (@theplacesnotfaces):** Metricool (check that Metricool shows the connected account as theplacesnotfaces; a first connection picked up another account, "leobas325", by mistake), `providers: tiktok`, same jsDelivr URL trick; `tiktokData.title` is required (use the hook line). Use a TikTok version of the video: replace the YouTube Subscribe end card with a "+ Follow for more 🌍 · @theplacesnotfaces" card, and never mention YouTube or Instagram in TikTok captions. When covering a burned-in YouTube card, make the new card fully opaque from the first frame (no alpha fade-in, and fade the whole frame at the end, not the card) and check the transition frames: on Nov 2 the old Subscribe button and youtube.com URL showed through the fades, the Dubai post got 0 views, Promote was rejected, and both posts were deleted. First posts: Devil's Throat (uploaded by Leiser, 1.2K views in hours; Promote rejected), Skógafoss rainbow (corrected version, Nov 2 2026 22:28, video 7703750969288346888). Oia at sunset (Nov 2026, uploaded by Leiser; its end card has no YouTube mention), Castillo de Butrón (Nov 3 2026 16:00, video 7704022455341844501; butron-reel.mp4 as is, no YouTube references). Dubai Fountain corrected version (Nov 4 2026 20:22, video 7704460674876968244, /social/dubai-fountain-tiktok.mp4), Sydney NYE fireworks (Nov 8 2026 01:09, video 7705647917503106356, /social/sydney-nye-fireworks-tiktok.mp4).
   - **YouTube Shorts:** Metricool (brand 7276452, `createScheduledPost` with `youtubeData.type: "short"`). Metricool can't fetch videos from theplacesnotfaces.com ("Failed to normalize media", likely Cloudflare blocking its downloader), so give it the jsDelivr copy of the pushed file instead, pinned to the full commit hash: `https://cdn.jsdelivr.net/gh/leisacos/clasificados@<full-sha>/static/social/<file>.mp4` (jsDelivr's limit is 20 MB per file). First success: Gullfoss, Nov 2 2026. Metricool can also set Instagram's AI label (`instagramData.isAiGenerated`).
 
+## 7b. Planned: Sydney NYE fireworks re-edit (post Dec 27–29 2026)
+
+The first Sydney Short (Nov 8, ud8wNepMGNk) had five jump cuts, kept 14.6% and lost 10 subscribers. For the New Year's Eve version:
+- Start from the original footage, not the pre-edited 9:16 clip. Frame 1 is the biggest, brightest burst.
+- One continuous shot, or changes only on the music's beat with short crossfades. No jump cuts between near-identical skyline angles.
+- Statement hook on frame 1, only with real facts (no invented heights or numbers), e.g. "Midnight over Sydney 🎆".
+- An energetic Suno track made for it (festive, building, instrumental).
+- 10–15 s. Preview to Leiser before posting. Set "Related video" to a long film.
+
 ## 8. Before you start, ask Leiser
 
 1. Where and when was it filmed (place, month, year)?
