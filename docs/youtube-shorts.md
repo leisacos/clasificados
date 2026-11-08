@@ -97,7 +97,7 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ## 2026-10-13 · Bahá'í Temple, Santiago, Chile · Instagram Reel (posted 2026-10-13)
 - Story: /posts/bahai-temple-santiago-chile/
-- YouTube ID: fLExm7k2aGQ (posted 2026-11-08 00:37 ART by Metricool from the jsDelivr copy; title "This temple looks like a flower from above 🌸 Santiago, Chile #shorts")
+- YouTube ID: (pending) — fLExm7k2aGQ was posted 2026-11-08 and deleted by Leiser the same night because the old edit has bezels (blurred bands). Re-cut full screen from the original footage before posting again.
 - Title: Nine petals above Santiago 🇨🇱 Bahá'í Temple #chile #santiago
 - Title EN: Bahá'í Temple, Santiago: a temple from the ground, a flower from above
 - Title ES: Templo Bahá'í de Santiago: desde el aire parece una flor
