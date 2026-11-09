@@ -12,6 +12,13 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
+## 2026-11-09 · Iceland from Above 4K (long video, 12:28)
+- YouTube ID: lP0YJJDjC80
+- Title: Iceland from Above 4K | Gullfoss, Stuðlagil, Goðafoss & 5 More Places | Relaxing Drone Film (Spanish title and description added as a translation)
+- Embedded (wide) in /posts/iceland-waterfalls-drone/ (after the intro) and /posts/gullfoss-waterfall-iceland/ (before "What else is on the Golden Circle"), both languages.
+- Made on Leiser's laptop (docs/laptop-iceland-long-video-prompt.md, then docs/laptop-iceland-film-fixes-prompt.md). Chapters: 0:00 Intro, 0:25 Þingvellir, 0:40 Geysir, 1:56 Gullfoss, 3:25 Fjaðrárgljúfur, 4:21 Stuðlagil, 6:44 Hverfjall, 9:00 Goðafoss, 11:14 Hvítserkur, 12:04 Kolgrafafjörður (Viking Sword Road). Music: Leiser's Suno tracks.
+- To do: set it as the Related video on the Goðafoss Short, Gullfoss (tc3bt077-Gw) and the Viking Sword Road (vTVKFctdyos).
+
 ## 2026-11-08 00:53 ART · Sydney New Year's Eve fireworks from above · YouTube Short
 - Story: none yet
 - YouTube ID: ud8wNepMGNk

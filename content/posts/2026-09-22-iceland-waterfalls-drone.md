@@ -11,10 +11,14 @@ excerpt_es: "Las cascadas de Islandia se ven todavía más grandes desde el aire
 tags: [iceland, waterfalls, dronephotography, nature]
 instagram: [DdkklSWxQLk, DdiL4-7xpc9]
 youtube: UsqekS1Eob4
-updated: 2026-10-24
+updated: 2026-11-09
 ---
 
 Some places are big. **Iceland is huge**, and you only really feel it from the air. Waterfalls dropping off cliffs, black-sand rivers and green valleys that go on forever.
+
+Here's Iceland from above in 4K, a 12-minute drone film: Þingvellir, Geysir, Gullfoss, Fjaðrárgljúfur, Stuðlagil, Hverfjall, Goðafoss, Hvítserkur and the "Viking Sword Road".
+
+{{youtube lP0YJJDjC80 wide}}
 
 # Flying a drone in Iceland: what to know
 
@@ -85,6 +89,10 @@ Book early: accommodation along the Ring Road is limited and fills up fast in su
 :::es
 
 Hay lugares grandes. **Islandia es enorme**, y eso se siente de verdad desde el aire: cascadas que caen de acantilados, ríos de arena negra y valles verdes que no terminan nunca.
+
+Acá está Islandia desde el aire en 4K, una película de 12 minutos con drone: Þingvellir, Geysir, Gullfoss, Fjaðrárgljúfur, Stuðlagil, Hverfjall, Goðafoss, Hvítserkur y la "ruta espada vikinga".
+
+{{youtube lP0YJJDjC80 wide}}
 
 # Volar un drone en Islandia: lo que hay que saber
 

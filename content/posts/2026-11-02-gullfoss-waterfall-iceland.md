@@ -57,6 +57,12 @@ It's one of the reasons I like this place. The falls aren't just beautiful; they
 - A **rain-proof cover** or a microfibre cloth for your lens helps a lot, because the spray gets everywhere.
 - Rules for flying drones in Iceland can change by area and season. **Check the current rules and any signs before you fly**, don't fly over people, and bring the drone back early if the wind picks up. More in my [Iceland waterfalls and drone guide](/posts/iceland-waterfalls-drone/).
 
+# Gullfoss and the rest of Iceland from above
+
+Gullfoss appears in our 12-minute 4K drone film of Iceland, together with Þingvellir and Geysir on the Golden Circle and more waterfalls and canyons in the north and east.
+
+{{youtube lP0YJJDjC80 wide}}
+
 # What else is on the Golden Circle
 
 - **Þingvellir National Park**, where the North American and Eurasian tectonic plates are pulling apart.
@@ -135,6 +141,12 @@ Es una de las razones por las que me gusta este lugar. Las cataratas no son solo
 
 - Una **funda impermeable** o un paño de microfibra para el lente ayuda mucho, porque la bruma llega a todos lados.
 - Las reglas para volar drones en Islandia pueden cambiar según la zona y la época. **Revisá las reglas vigentes y los carteles antes de volar**, no vueles sobre la gente y traé el drone de vuelta pronto si sube el viento. Más en mi [guía de cascadas y drone en Islandia](/es/posts/iceland-waterfalls-drone/).
+
+# Gullfoss y el resto de Islandia desde el aire
+
+Gullfoss aparece en nuestra película de 12 minutos en 4K de Islandia con drone, junto con Þingvellir y Geysir en el Círculo Dorado y más cascadas y cañones del norte y el este.
+
+{{youtube lP0YJJDjC80 wide}}
 
 # Qué más hay en el Círculo Dorado
 
