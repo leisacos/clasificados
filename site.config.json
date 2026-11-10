@@ -17,7 +17,7 @@
   },
   "analytics": {
     "_help": "Cloudflare Web Analytics token (Cloudflare dashboard > Analytics & Logs > Web Analytics > your site > Manage site > the token in the JS snippet). Leave empty if the site uses automatic setup.",
-    "cloudflareToken": ""
+    "cloudflareToken": "bf9d803e8ddb498392b68811e4585900"
   },
   "googleAds": {
     "_help": "Google Ads conversion for clicks on booking links (Goals > Conversions > Booking click > Tag setup > event snippet: the 'send_to' value). Needs the Google tag in travelpayouts.driveScript. Leave empty to turn off.",
