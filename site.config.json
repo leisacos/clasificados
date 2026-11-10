@@ -29,6 +29,15 @@
   },
   "_startHere_help": "Guides shown at the top of the home page (post slugs, in order). Visitors from the Instagram bio land on the home page, so these are their first click.",
   "startHere": ["things-to-do-in-tasmania", "free-things-to-do-buenos-aires", "where-to-stay-buenos-aires", "day-trips-from-santiago-chile"],
+  "_featuredVideo_help": "A long YouTube film shown on the home page under the start-here guides (remove or set to null to hide). Long videos earn the watch hours YouTube counts for monetisation; Shorts don't.",
+  "featuredVideo": {
+    "id": "lP0YJJDjC80",
+    "title": "Iceland from above in 4K",
+    "title_es": "Islandia desde el aire en 4K",
+    "text": "Our new 12-minute drone film: Gullfoss, the Stuðlagil canyon, Goðafoss in the snow and five more places. Put it on full screen.",
+    "text_es": "Nuestra nueva película de 12 minutos con drone: Gullfoss, el cañón de Stuðlagil, Goðafoss nevado y cinco lugares más. Miralo en pantalla completa.",
+    "post": "iceland-waterfalls-drone"
+  },
   "youtube": {
     "_help": "YouTube channel handle (without @). Stories can embed a video with 'youtube: <video id>' in their front matter.",
     "handle": "theplacesnotfaces"

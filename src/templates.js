@@ -175,6 +175,21 @@ ${body}
 </section>`;
   }
 
+  // Featured long YouTube film on the home page (site.config.json "featuredVideo").
+  function filmSection(lang, posts) {
+    const v = config.featuredVideo;
+    if (!v || !v.id) return '';
+    const s = strings(lang);
+    const guide = v.post ? posts.find((p) => p.slug === v.post) : null;
+    return `
+<section class="wrap featured-film">
+  <h2 class="section-title">${e(s.watchFilm)}: ${e(loc(v, 'title', lang))}</h2>
+  <p>${e(loc(v, 'text', lang))}</p>
+  ${youtubeEmbed(v.id, loc(v, 'title', lang), lang, true)}
+  ${guide ? `<p><a class="read-more" href="${href(lang, `/posts/${guide.slug}/`)}">${e(s.filmGuide)}: ${e(loc(guide, 'title', lang))} →</a></p>` : ''}
+</section>`;
+  }
+
   function home(lang, posts, destinations, media) {
     const s = strings(lang);
     const [featured, ...rest] = posts;
@@ -196,6 +211,7 @@ ${body}
   ${guides.length ? `<h2 class="section-title">${e(s.startHere)}</h2>
   <div class="guide-list">${guides.map((p) => guideLink(p, lang)).join('')}</div>` : ''}
 </section>
+${filmSection(lang, posts)}
 ${featured ? `
 <section class="wrap featured">
   <a href="${href(lang, `/posts/${featured.slug}/`)}" class="featured-link">

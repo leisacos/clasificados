@@ -53,6 +53,8 @@ const STRINGS = {
     watchOnYoutube: 'Watch the videos on YouTube',
     videoTitle: 'Watch the video',
     startHere: 'Start here: my most useful guides',
+    watchFilm: 'Watch the film',
+    filmGuide: 'Read the guide',
     cta: {
       flights: ['Search flights', 'Flights to {where}'],
       hotels: ['Find hotels', 'Hotels in {where}'],
@@ -115,6 +117,8 @@ const STRINGS = {
     watchOnYoutube: 'Mirá los videos en YouTube',
     videoTitle: 'Mirá el video',
     startHere: 'Empezá por acá: mis guías más útiles',
+    watchFilm: 'Mirá la película',
+    filmGuide: 'Leé la guía',
     cta: {
       flights: ['Buscar vuelos', 'Vuelos a {where}'],
       hotels: ['Buscar hoteles', 'Hoteles en {where}'],
