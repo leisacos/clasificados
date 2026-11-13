@@ -12,6 +12,11 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
+## 2026-11-13 · Museum of the Future, Dubai · Instagram Reel (media id 18111640613196242)
+- Story: /posts/dubai-fountain-show/ (no Museum of the Future section yet)
+- YouTube ID: (not posted)
+- From Leiser's 10.8 s vertical clip. Slight zoom (crop 900×1600 from the top) to drop visitors close to the camera; English hook "The walls here are covered in Arabic calligraphy ✍️", mid caption "Inside Dubai's Museum of the Future 🇦🇪", end card "Would you go inside?" + follow line. Noodle Detour (Suno), original ambient audio muted, −14 LUFS. Hosted at /social/museum-of-the-future-dubai.mp4.
+
 ## 2026-11-09 · Iceland from Above 4K (long video, 12:28)
 - YouTube ID: lP0YJJDjC80
 - Title: Iceland from Above 4K | Gullfoss, Stuðlagil, Goðafoss & 5 More Places | Relaxing Drone Film (Spanish title and description added as a translation)
