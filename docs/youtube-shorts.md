@@ -12,7 +12,7 @@ The daily sync adds a block for every new Reel (see `docs/daily-sync.md`, sectio
 
 ---
 
-## 2026-11-13 · Museum of the Future, Dubai · Instagram Reel (media id 18111640613196242)
+## 2026-11-13 · Museum of the Future, Dubai · Instagram Reel (media id 18111640613196242) + TikTok (video 7707780589457278982, same file; no YouTube mention)
 - Story: /posts/dubai-fountain-show/ (no Museum of the Future section yet)
 - YouTube ID: (not posted)
 - From Leiser's 10.8 s vertical clip. Slight zoom (crop 900×1600 from the top) to drop visitors close to the camera; English hook "The walls here are covered in Arabic calligraphy ✍️", mid caption "Inside Dubai's Museum of the Future 🇦🇪", end card "Would you go inside?" + follow line. Noodle Detour (Suno), original ambient audio muted, −14 LUFS. Hosted at /social/museum-of-the-future-dubai.mp4.
