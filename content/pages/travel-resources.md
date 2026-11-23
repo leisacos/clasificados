@@ -51,9 +51,9 @@ After a long flight, a pre-booked driver waiting at arrivals is worth it, especi
 
 # Drone and filming gear
 
-Most of my videos are filmed with a DJI Mini drone. A DJI controller with a built-in screen means you can fly without plugging in your phone, so your phone stays free and charged for the rest of the day.
+Most of my videos are filmed with a DJI Mini 5 Pro, and I fly it with the **DJI RC 2**, a controller with its own built-in screen. I don't have to plug in my phone, so it stays free and charged for photos, maps and the rest of the day.
 
-- [DJI RC 2 screen controller on Amazon](https://amzn.to/4kxEiDr)
+- [DJI RC 2, the controller I fly with (Amazon)](https://amzn.to/4kxEiDr)
 
 *As an Amazon Associate I earn from qualifying purchases.*
 
@@ -105,8 +105,8 @@ Después de un vuelo largo, tener un chofer esperando en arribos vale la pena, s
 
 # Equipo para drone y filmación
 
-La mayoría de mis videos los filmo con un drone DJI Mini. Un control DJI con pantalla integrada te permite volar sin conectar el celular, así el teléfono queda libre y con batería para el resto del día.
+La mayoría de mis videos los filmo con un DJI Mini 5 Pro, y lo vuelo con el **DJI RC 2**, un control con pantalla propia. No tengo que conectar el celular, así queda libre y con batería para fotos, mapas y el resto del día.
 
-- [Control con pantalla DJI RC 2 en Amazon](https://amzn.to/4kxEiDr)
+- [DJI RC 2, el control con el que vuelo (Amazon)](https://amzn.to/4kxEiDr)
 
 *Como Afiliado de Amazon, gano con las compras que cumplen los requisitos.*
