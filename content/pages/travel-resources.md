@@ -49,6 +49,14 @@ After a long flight, a pre-booked driver waiting at arrivals is worth it, especi
 
 {{transfers}}
 
+# Drone and filming gear
+
+Most of my videos are filmed with a DJI Mini drone. A DJI controller with a built-in screen means you can fly without plugging in your phone, so your phone stays free and charged for the rest of the day.
+
+- [DJI RC 2 screen controller on Amazon](https://amzn.to/4kxEiDr)
+
+*As an Amazon Associate I earn from qualifying purchases.*
+
 :::es
 
 Estos son los sitios que uso para planear y reservar mis viajes. Son los mismos enlaces que tengo en la bio de Instagram. Algunos son enlaces de afiliado: si reservás a través de ellos, puedo ganar una pequeña comisión sin costo extra para vos.
@@ -94,3 +102,11 @@ Para road trips, como la Ring Road de Islandia o la costa de Chile, comparo agen
 Después de un vuelo largo, tener un chofer esperando en arribos vale la pena, sobre todo en aeropuertos lejos de la ciudad, como Ezeiza en Buenos Aires.
 
 {{transfers}}
+
+# Equipo para drone y filmación
+
+La mayoría de mis videos los filmo con un drone DJI Mini. Un control DJI con pantalla integrada te permite volar sin conectar el celular, así el teléfono queda libre y con batería para el resto del día.
+
+- [Control con pantalla DJI RC 2 en Amazon](https://amzn.to/4kxEiDr)
+
+*Como Afiliado de Amazon, gano con las compras que cumplen los requisitos.*

@@ -44,7 +44,10 @@ function inline(text) {
   s = s.replace(/!\[([^\]]*)\]\(([^)\s]+)\)/g, '<img src="$2" alt="$1" loading="lazy">');
   s = s.replace(/\[([^\]]+)\]\(([^)\s]+)\)/g, (_, label, href) => {
     const external = /^https?:\/\//.test(href);
-    return `<a href="${href}"${external ? ' target="_blank" rel="noopener"' : ''}>${label}</a>`;
+    // Affiliate links (Amazon) must carry rel="sponsored" for Google.
+    const sponsored = /^https?:\/\/(amzn\.to|(www\.)?amazon\.[a-z.]+)\//i.test(href);
+    const rel = sponsored ? 'sponsored nofollow noopener' : 'noopener';
+    return `<a href="${href}"${external ? ` target="_blank" rel="${rel}"` : ''}>${label}</a>`;
   });
   s = s.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
   s = s.replace(/(^|[^*])\*([^*\s][^*]*)\*/g, '$1<em>$2</em>');
